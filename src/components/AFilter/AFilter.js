@@ -15,7 +15,6 @@ class AFilter extends Component {
       <main>
         <HeadLittle rutaLogo="./media/logo-big-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 
         <Form/>
-        <Button class="big blue" text="PRUEBA"/>
       </main>
     );
   }

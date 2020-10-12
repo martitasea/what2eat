@@ -1,7 +1,4 @@
-/*
- * Form css File
-*/
-
-.Form {
-    /* propertys here */
+form{
+    width: 100vw;
+    margin-top: 20vh;
 }

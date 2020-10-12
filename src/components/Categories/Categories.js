@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Categories.css';
 import Category from "../Category/Category";
-import dataCategories from "../dataCategories.js";
+import dataCategories from "../../data/dataCategories.js";
 
 class Categories extends Component {
   constructor(props){

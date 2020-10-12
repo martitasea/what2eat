@@ -1,0 +1,45 @@
+div.question{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 3vh;
+    padding: 2vh;
+    border-bottom: 1px solid #969696;
+}
+div.price{
+    display: flex;
+    flex-direction: row;
+    justify-content: base;
+    align-items: center;
+    margin: 3vh;
+    padding: 2vh;
+}
+img.icon{
+    width: 30px;
+    margin-right: 10px;
+}
+input.box{
+    margin-left: 4vw;
+    width: 70vw;
+    border: none;
+    font-size: 18px;
+    color: #969696;
+}
+input[type="range"]{
+    appearance:none;
+    width:70vw;
+    height:5px;
+    background: #0c4261;
+    margin-left: 30px;
+  }
+  
+  /* Este es el punto del rango */
+  input[type="range"]::-webkit-slider-thumb{
+    appearance:none;
+    width:15px;
+    height:15px;
+    /* Lo hace circular */
+    border-radius: 100%; 
+    background: #0c4261;
+    z-index:3;
+  }

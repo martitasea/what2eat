@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Map, TileLayer, Marker } from "react-leaflet";
-import dataRestaurants from "../dataRestaurants.js";
+import dataRestaurants from "../../data/dataRestaurants.js";
 import './MapContent.css';
 
 class MapContent extends Component {
