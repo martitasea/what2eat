@@ -18,9 +18,11 @@ class File extends Component {
 
   render() {
     return (
-      <main>
+      <section>
+        <article>
         <p>aquí irían las fichas de los restaurantes-tendré que hacer un fetch desde la api que me mandan los de Data</p>
-      </main>
+        </article>
+      </section>
     );
   }
 }

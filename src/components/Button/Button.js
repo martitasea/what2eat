@@ -9,9 +9,9 @@ class Button extends Component {
 
   render() {
     return (
-      <footer>
+      <div>
         <button class={this.props.class}>{this.props.text}</button>
-      </footer>
+      </div>
     );
   }
 }

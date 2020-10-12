@@ -20,7 +20,7 @@ class MapContent extends Component {
   // }
   render() {
     return (
-      <main>
+      <section>
         <Map center={[40.7,-3]} zoom={50}>
         {/* <Map center={[dataRestaurants.latitude, dataRestaurants.lomgitude]} zoom={50}> */}
           {/* {this.getMarkers()} */}
@@ -30,7 +30,7 @@ class MapContent extends Component {
           />
           <Marker position={[40,-3]}></Marker>
         </Map>
-      </main>
+      </section>
     );
   }
 }

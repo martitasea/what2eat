@@ -18,9 +18,9 @@ getCategories(){
 }
   render() {
     return (
-      <main>
+      <section className="categories">
          {this.getCategories()}
-      </main>
+      </section>
     );
   }
 };

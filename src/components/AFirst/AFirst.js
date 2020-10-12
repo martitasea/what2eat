@@ -11,9 +11,13 @@ class AFirst extends Component {
   
   render() {
     return (
-      <body className="first">
-        <Info className="first" text="Reto de tripulaciones Alba, Jose Luis, David y Marta"  src="media/logo-white.svg" alt="Logo What2Eat" />
-      </body>
+      <main className="blue">
+        <Info 
+          classP="blue"
+          text="Reto de tripulaciones Alba, Jose Luis, David y Marta"  src="media/logo-white.svg" 
+          alt="Logo What2Eat" 
+          classImage="logoBig"/>
+      </main>
     );
   }
 }

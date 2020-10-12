@@ -10,7 +10,7 @@ import './App.css';
 
 function App() {
   return (
-    <body>
+    <div>
       <BrowserRouter>
         <Switch>
           <Route exact path="/" component={AFirst}></Route>
@@ -21,7 +21,7 @@ function App() {
           <Route path="/mapview" component={AMapView}></Route>
         </Switch>
       </BrowserRouter>
-    </body>
+    </div>
   );
 }
 

@@ -12,8 +12,13 @@ class AIntro extends Component {
    render() {
     return (
       <>
-      <main>
-        <Info className="intro" text="No te conformes con la recomendación sobre un restaurante, pregúntate"  src="media/logo-blue.svg" alt="Logo what2eat"/>
+      <main className="intro" >
+        <Info
+        classP="grey" 
+        text="No te conformes con la recomendación sobre un restaurante, pregúntate"  
+        src="media/logo-blue.svg" 
+        alt="Logo what2eat"
+        classImage="logoBig"/>
       </main>
       <footer>
         <Button class="big blue" text="REGÍSTRATE"/>
