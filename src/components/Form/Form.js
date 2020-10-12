@@ -15,14 +15,18 @@ class Form extends Component {
     return (
       <form>
         <Question
-          className="question" 
+          className="question"
+          classInput="box"
+          classImage="icon" 
           type="search" 
           name="searchDish" 
           src="./media/dish.svg" 
           alt="Dish" 
           placeholder="Hamburguesa"/>
         <Question
-          className="question"  
+          className="question"
+          classInput="box"
+          classImage="icon"   
           type="search" 
           name="searchAdress" 
           src="./media/map.svg" 
@@ -32,11 +36,19 @@ class Form extends Component {
           src="./media/dist.svg" 
           alt="Dist"/>
         <Question
-          className="price"  
+          className="price"
+          classImage="icon"  
           type="range" 
           name="price" 
           src="./media/euro.svg" 
           alt="Address" />
+        <Question 
+          className="button"
+          classInput="big blue"
+          classImage="none"
+          type="submit" 
+          name="price"
+          value="ENVIAR"/>
       </form>
     );
   }

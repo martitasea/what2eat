@@ -10,14 +10,14 @@ class Question extends Component {
 
   render() {
     return (
-      <div className={this.props.className}>
+      <div class={this.props.className}>
         <img 
-          className="icon" 
+          class={this.props.classImage} 
           src={this.props.src} 
           alt={this.props.alt}
           />
         <input 
-          className="box"
+          class={this.props.classInput}
           type={this.props.type}
           name={this.props.name}
           placeholder={this.props.placeholder}
