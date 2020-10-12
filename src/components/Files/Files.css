@@ -37,3 +37,9 @@ img.go{
 img.go:hover{
     width: 70px;
 }
+section.fileMap{
+    padding: 2vh 2vw;
+    /* background-color:blue; */
+    margin-bottom: 25vh;
+    box-shadow: 0px 5px 10px rgba(179,179,179,1);
+}

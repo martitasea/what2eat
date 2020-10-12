@@ -7,7 +7,8 @@ class MapContent extends Component {
   constructor(props){
     super(props);
     this.state = {
-      restaurants: dataRestaurants
+      restaurants: dataRestaurants,
+      currentPosition: [40.421540,-3.692665]
     };
     // this.getMarkers = this.getMarkers.bind(this);
   }
@@ -21,14 +22,14 @@ class MapContent extends Component {
   render() {
     return (
       <section>
-        <Map center={[40.7,-3]} zoom={50}>
-        {/* <Map center={[dataRestaurants.latitude, dataRestaurants.lomgitude]} zoom={50}> */}
+        <Map center={this.state.currentPosition} zoom={20}>
+        {/* <Map center={[dataRestaurants.latitude, dataRestaurants.lomgitude]} zoom={15}> */}
           {/* {this.getMarkers()} */}
           <TileLayer
             url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}.png"
-            attribution="Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community"
+            // attribution="Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community"
           />
-          <Marker position={[40,-3]}></Marker>
+          <Marker position={this.state.currentPosition}></Marker>
         </Map>
       </section>
     );

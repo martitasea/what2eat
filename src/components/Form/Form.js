@@ -14,8 +14,9 @@ class Form extends Component {
 
   render() {
     return (
-      <form>
+      <div>
         <SubHeader/>        
+      <form>
         <Question
           className="question"
           classInput="box"
@@ -52,6 +53,7 @@ class Form extends Component {
           name="price"
           value="ENVIAR"/>
       </form>
+      </div>
     );
   }
 }

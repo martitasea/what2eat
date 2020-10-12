@@ -19,34 +19,34 @@ class File extends Component {
 
   render() {
     return (
-      <section class="file">
-        <article class="shadow">
-        <div class="content">
-          <p class="boldBlue">TAMPU</p>
-          <div class="ranking">
-            <img class="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
-            <img class="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
-            <img class="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
-            <img class="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
-            <img class="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
+      <section className={this.props.className}>
+        <article className="shadow">
+        <div className="content">
+          <p className="boldBlue">TAMPU</p>
+          <div className="ranking">
+            <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
+            <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
+            <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
+            <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
+            <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
             <p>Paella de marisco</p>
           </div>
-          <div class="euro">
-            <img class="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
-            <img class="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
-            <img class="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
+          <div className="euro">
+            <img className="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
+            <img className="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
+            <img className="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
           </div>
-          <div class="adress">
-            <img class="iconRestaurant" src="./media/map.svg" alt="Localización"/>
+          <div className="adress">
+            <img className="iconRestaurant" src="./media/map.svg" alt="Localización"/>
             <p>Paseo de Recoletos 2, Madrid</p>
           </div>
-          <div class="phone">
-            <img class="iconRestaurant" src="./media/phone.svg" alt="Teléfono"/>
+          <div className="phone">
+            <img className="iconRestaurant" src="./media/phone.svg" alt="Teléfono"/>
             <p>910887247</p>
           </div>
         </div>
         <Link to="/mapviewpath">
-          <img class="go" src="./media/go.svg" alt="Go to path"/>
+          <img className="go" src="./media/go.svg" alt="Go to path"/>
         </Link>
         </article>
       </section>

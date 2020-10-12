@@ -17,12 +17,11 @@ class AListView extends Component {
       <div>
         <HeadLittle rutaLogo="./media/logo-lit-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 
         <SubHeader/>
-        <Files/>
-        <Files/>
-        <Files/>
-        <Files/>
-        <Files/>
-        <Files/>
+        <Files className="file"/>
+        <Files className="file"/>
+        <Files className="file"/>
+        <Files className="file"/>
+        <Files className="file"/>
         <footer className="two">
           <Link to="/listview">
         <Button class="little ghost" text="LISTA"/>

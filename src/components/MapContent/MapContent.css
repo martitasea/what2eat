@@ -1,13 +1,6 @@
-/*
- * MapContent css File
-*/
-
-.MapContent {
-    /* propertys here */
-}
 .leaflet-container{
     width: 100%;
-    height: 95vh;
+    height: 70vh;
     margin: 0;
     padding: 0;
 }
