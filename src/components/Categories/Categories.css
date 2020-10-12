@@ -2,6 +2,11 @@
  * Categories css File
 */
 
-.Categories {
-    /* propertys here */
+section.categories{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+p.tit{
+    margin-top: 3vh;
+    color: #666;
 }

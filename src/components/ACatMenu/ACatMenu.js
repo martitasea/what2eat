@@ -12,7 +12,7 @@ class ACatMenu extends Component {
   render() {
     return (
       <main>
-         <HeadLittle rutaLogo="./media/logo-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 
+          <HeadLittle classMenu="menu" rutaLogo="./media/logo-lit-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 
           <Categories/>
       </main>
     );

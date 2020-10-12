@@ -1,7 +1,20 @@
-/*
- * HeadLittle css File
-*/
+header{
+    /* position: sticky; */
+    background-color: white;
+    z-index: 5;
+    box-shadow: 10px -5px 6px 10px rgba(179,179,179,1);
+    height: 10vh;
+}
 
-.HeadLittle {
-    /* propertys here */
+img.menu{
+    position: absolute;
+    top: 3vh;
+    left: 3vw;
+    width: 20px;
+}
+img.logoLittle{
+    position: absolute;
+    top: 3vh;
+    left: 38vw;
+    width: 25vw;
 }

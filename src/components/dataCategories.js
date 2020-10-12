@@ -41,8 +41,8 @@ export const dataCategories=[
     },
     {
         "title": "Brasileño",
-        "image": "./media/brasileño.jpg",
-        "href":"/categories?cat=brasileño",
+        "image": "./media/brasileno.jpg",
+        "href":"/categories?cat=brasileno",
     },
     {
         "title": "Canario",
@@ -65,9 +65,9 @@ export const dataCategories=[
         "href":"/categories?cat=coreano",
     },
     {
-        "title": "Creativo",
-        "image": "./media/creativo.jpg",
-        "href":"/categories?cat=creativo",
+        "title": "Creativa",
+        "image": "./media/creativa.jpg",
+        "href":"/categories?cat=creativa",
     },
     {
         "title": "Crepería",
@@ -101,8 +101,8 @@ export const dataCategories=[
     },
     {
         "title": "Español",
-        "image": "./media/español.jpg",
-        "href":"/categories?cat=español",
+        "image": "./media/espanol.jpg",
+        "href":"/categories?cat=espanol",
     },
     {
         "title": "Europa del Este",
@@ -165,9 +165,9 @@ export const dataCategories=[
         "href":"/categories?cat=marisqueria",
     },
     {
-        "title": "Mediterráneo",
-        "image": "./media/mediterraneo.jpg",
-        "href":"/categories?cat=mediterraneo",
+        "title": "Mediterránea",
+        "image": "./media/mediterranea.jpg",
+        "href":"/categories?cat=mediterranea",
     },
     {
         "title": "Mexicano",
@@ -203,11 +203,6 @@ export const dataCategories=[
         "title": "Vasco",
         "image": "./media/vasco.jpg",
         "href":"/categories?cat=vasco",
-    },
-    {
-        "title": "Vegetariano",
-        "image": "./media/vegetariano.jpg",
-        "href":"/categories?cat=vegetariano",
     },
     {
         "title": "Venezolano",

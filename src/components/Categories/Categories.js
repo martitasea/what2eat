@@ -18,9 +18,12 @@ getCategories(){
 }
   render() {
     return (
+      <div>
+      <p className="tit">Selecciona la categoría del plato:</p>
       <section className="categories">
          {this.getCategories()}
       </section>
+      </div>
     );
   }
 };

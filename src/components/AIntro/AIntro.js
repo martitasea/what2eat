@@ -16,7 +16,7 @@ class AIntro extends Component {
         <Info
         classP="grey" 
         text="No te conformes con la recomendación sobre un restaurante, pregúntate"  
-        src="media/logo-blue.svg" 
+        src="media/logo-big-blue.svg" 
         alt="Logo what2eat"
         classImage="logoBig"/>
       </main>

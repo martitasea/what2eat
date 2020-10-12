@@ -4,14 +4,22 @@ import './HeadLittle.css';
 class HeadLittle extends Component {
   constructor(props){
     super(props);
-    this.state = {};
+    this.state = {
+      
+    };
   }
 
   render() {
     return (
       <header>
-        <img src={this.props.rutaMenu} alt={this.props.altMenu}/>
-        <img src={this.props.rutaLogo} alt={this.props.altLogo}/>
+        <img 
+          className="menu"
+          src="./media/menuHamburguesa.svg" 
+          alt="Logo What2Eat"/>
+        <img 
+          className="logoLittle"
+          src="./media/logo-lit-blue.svg" 
+          alt="Logo What2Eat"/>
       </header>
     );
   }

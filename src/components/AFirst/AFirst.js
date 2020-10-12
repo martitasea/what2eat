@@ -14,7 +14,7 @@ class AFirst extends Component {
       <main className="blue">
         <Info 
           classP="blue"
-          text="Reto de tripulaciones Alba, Jose Luis, David y Marta"  src="media/logo-white.svg" 
+          text="Reto de tripulaciones Alba, Jose Luis, David y Marta"  src="media/logo-big-white.svg" 
           alt="Logo What2Eat" 
           classImage="logoBig"/>
       </main>

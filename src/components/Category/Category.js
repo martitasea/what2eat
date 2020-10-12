@@ -14,12 +14,12 @@ class Category extends Component {
 
   render() {
     return (
-      <Link to={this.state.catHref}>
       <figure>
-        <img src={this.state.catImg} alt={this.state.category}/>
-        <p>{this.state.category}</p>
+        <Link to={this.state.catHref}>
+        <img class="food" src={this.state.catImg} alt={this.state.category}/>
+        </Link>
+        <p className="text">{this.state.category}</p>
       </figure>
-      </Link>
     );
   }
 }
