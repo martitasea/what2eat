@@ -11,11 +11,15 @@ class AIntro extends Component {
 
    render() {
     return (
-      <body>
-        <Info text="No te conformes con la recomendación sobre un restaurante, pregúntate"  src="media/logo-blue.svg" alt="Logo what2eat"/>
+      <>
+      <main>
+        <Info className="intro" text="No te conformes con la recomendación sobre un restaurante, pregúntate"  src="media/logo-blue.svg" alt="Logo what2eat"/>
+      </main>
+      <footer>
         <Button class="big blue" text="REGÍSTRATE"/>
         <Button class="big ghost" text="INICIA SESIÓN"/>
-      </body>
+      </footer> 
+      </>
     );
   }
 }

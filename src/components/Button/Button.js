@@ -10,7 +10,7 @@ class Button extends Component {
   render() {
     return (
       <footer>
-        <button>{this.props.text}</button>
+        <button class={this.props.class}>{this.props.text}</button>
       </footer>
     );
   }

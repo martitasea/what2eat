@@ -13,13 +13,13 @@ class AMapView extends Component {
 
    render() {
     return (
-      <body>
+      <main>
         <HeadLittle rutaLogo="./media/logo-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 
         <MapContent/>
         <Files/>
         <Button class="little ghost" text="SALTAR"/>
         <Button class="little blue" text="SIGUIENTE"/>
-      </body>
+      </main>
     );
   }
 }

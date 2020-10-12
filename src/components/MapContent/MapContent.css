@@ -5,3 +5,9 @@
 .MapContent {
     /* propertys here */
 }
+.leaflet-container{
+    width: 100%;
+    height: 95vh;
+    margin: 0;
+    padding: 0;
+}

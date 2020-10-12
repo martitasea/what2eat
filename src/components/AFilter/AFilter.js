@@ -12,11 +12,11 @@ class AFilter extends Component {
 
    render() {
     return (
-      <body>
+      <main>
         <HeadLittle rutaLogo="./media/logo-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 
         <Form/>
         <Button class="big blue" text="PRUEBA"/>
-      </body>
+      </main>
     );
   }
 }
