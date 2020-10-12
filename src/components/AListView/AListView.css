@@ -1,7 +1,11 @@
-/*
- * AListView css File
-*/
-
-.AListView {
-    /* propertys here */
+footer.two{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0px;
+    background-color: white;
+    height: 5vh;
+    padding: 3vh 0;
+    width: 100vw;  
 }

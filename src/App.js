@@ -29,18 +29,18 @@ export default App;
 
 {/* <Route path="/onBoarding-1">
   <Info text="Averigüa dónde comer ese plato que tánto te gusta."  src="media/onBoarding-1.svg" alt="Explicación what2eat"/>
-  <Button class="little ghost" text="SALTAR"/>
-  <Button class="little blue" text="SIGUIENTE"/>
+  <Button className="little ghost" text="SALTAR"/>
+  <Button className="little blue" text="SIGUIENTE"/>
 </Route>
 
 <Route path="/onBoarding-2">
   <Info text="Ponte de acuerdo con tus amigos sobre dónde comer, según sus gustos o alergias."  src="media/onBoarding-2.svg" alt="Explicación what2eat"/>
-  <Button class="little ghost" text="SALTAR"/>
-  <Button class="little blue" text="SIGUIENTE"/>
+  <Button className="little ghost" text="SALTAR"/>
+  <Button className="little blue" text="SIGUIENTE"/>
 </Route>
 
 <Route path="/onBoarding-3">
   <Info text="Vota tus platos preferidos para que otra gente los conozca."  src="media/onBoarding-3.svg" alt="Explicación what2eat"/>
-  <Button class="little ghost" text="SALTAR"/>
-  <Button class="little blue" text="SIGUIENTE"/>
+  <Button className="little ghost" text="SALTAR"/>
+  <Button className="little blue" text="SIGUIENTE"/>
 </Route> */}

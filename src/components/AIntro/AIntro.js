@@ -20,7 +20,7 @@ class AIntro extends Component {
         alt="Logo what2eat"
         classImage="logoBig"/>
       </main>
-      <footer>
+      <footer className="one">
         <Button class="big blue" text="REGÍSTRATE"/>
         <Button class="big ghost" text="INICIA SESIÓN"/>
       </footer> 

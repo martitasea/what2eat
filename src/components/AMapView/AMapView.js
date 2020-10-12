@@ -17,7 +17,7 @@ class AMapView extends Component {
         <HeadLittle rutaLogo="./media/logo-lit-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 
         <MapContent/>
         <Files/>
-        <footer>
+        <footer className="two">
           <Button class="little ghost" text="SALTAR"/>
           <Button class="little blue" text="SIGUIENTE"/>
         </footer>

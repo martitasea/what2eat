@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Dist from '../Dist/Dist';
 import Price from '../Price/Price';
 import Question from '../Question/Question';
+import SubHeader from '../SubHeader/SubHeader';
 import './Form.css';
 
 class Form extends Component {
@@ -14,6 +15,7 @@ class Form extends Component {
   render() {
     return (
       <form>
+        <SubHeader/>        
         <Question
           className="question"
           classInput="box"
