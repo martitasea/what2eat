@@ -3,17 +3,26 @@ import {Link} from "react-router-dom";
 import './Files.css';
 
 class File extends Component {
-  // constructor(props){
-    // super(props);
-    // this.state = {};
-  // }
+  constructor(props){
+    super(props);
+    this.state = {
+      name:this.props.name,
+      web:this.props.web,
+      address: this.props.address,
+      phone: this.props.phone,
+      latitude: this.props.latitude,
+      longitude: this.props.longitude,
+    };
+  }
 
   render() {
     return (
       <section className={this.props.className}>
         <article className="shadow">
         <div className="content">
-          <p className="boldBlue">TAMPU</p>
+          <Link to={this.props.web}>
+          <p className="boldBlue">{this.state.name}</p>
+          </Link>
           <div className="ranking">
             <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
             <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
@@ -29,11 +38,11 @@ class File extends Component {
           </div>
           <div className="adress">
             <img className="iconRestaurant" src="./media/map.svg" alt="Localización"/>
-            <p>Paseo de Recoletos 2cd</p>
+            <p>{this.state.address}</p>
           </div>
           <div className="phone">
             <img className="iconRestaurant" src="./media/phone.svg" alt="Teléfono"/>
-            <p>910887247</p>
+            <p>{this.props.phone}</p>
           </div>
         </div>
         <Link to="/mapviewpath">

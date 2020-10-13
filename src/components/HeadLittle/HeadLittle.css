@@ -16,5 +16,6 @@ img.logoLittle{
     position: absolute;
     top: 3vh;
     left: 38vw;
-    width: 25vw;
+    /* width: 25vw; */
+    height: 6vh;;
 }

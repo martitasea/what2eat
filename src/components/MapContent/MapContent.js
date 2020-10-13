@@ -22,7 +22,7 @@ class MapContent extends Component {
   render() {
     return (
       <section>
-        <Map center={this.state.currentPosition} zoom={10}>
+        <Map center={this.state.currentPosition} zoom={150}>
         {/* <Map center={[dataRestaurants.latitude, dataRestaurants.lomgitude]} zoom={15}> */}
           {this.getMarkers()}
           <TileLayer

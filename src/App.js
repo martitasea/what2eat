@@ -15,8 +15,8 @@ function App() {
         <Switch>
           <Route exact path="/" component={AFirst}></Route>
           <Route path="/intro" component={AIntro}></Route>
-          <Route path="/catmenu" component={ACatMenu}></Route>
-          <Route path="/filter" component={AFilter}></Route>
+          <Route path="/categorymenu" component={ACatMenu}></Route>
+          <Route path="/filter/:cat" component={AFilter} ></Route>
           <Route path="/listview" component={AListView}></Route>
           <Route path="/mapview" component={AMapView}></Route>
         </Switch>

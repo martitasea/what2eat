@@ -1,6 +1,7 @@
 const data=[
     {
         "Restaurant": "Kuoco 360",
+        "Web":"https://www.kuoco.es/",
         "Style": "Restaurants",
         "Address": [
             "Calle San Bartolm\u00e9, 14",

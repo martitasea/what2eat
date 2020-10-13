@@ -14,11 +14,11 @@ class HeadLittle extends Component {
       <header>
         <img 
           className="menu"
-          src="./media/menuHamburguesa.svg" 
+          src={process.env.PUBLIC_URL +"/media/menuHamburguesa.svg" }
           alt="Logo What2Eat"/>
         <img 
           className="logoLittle"
-          src="./media/logo-lit-blue.svg" 
+          src={process.env.PUBLIC_URL +" /media/logo-lit-blue.svg" }
           alt="Logo What2Eat"/>
       </header>
     );
