@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Map, TileLayer, Marker } from "react-leaflet";
+import { Map, TileLayer, Marker, Popup } from "react-leaflet";
 import dataRestaurants from "../../data/dataRestaurants.js";
 import './MapContent.css';
 
@@ -10,21 +10,21 @@ class MapContent extends Component {
       restaurants: dataRestaurants,
       currentPosition: [40.421540,-3.692665]
     };
-    // this.getMarkers = this.getMarkers.bind(this);
+    this.getMarkers = this.getMarkers.bind(this);
   }
-  // getMarkers() {
-  //   return this.state.restaurants.map((restaurant) => (
-  //     <Marker position={[restaurant.latitude, restaurant.lomgitude]}>
-  //       <Popup>{restaurant.Restaurant}</Popup>
-  //     </Marker>
-  //   ));
-  // }
+  getMarkers() {
+    return this.state.restaurants.map((restaurant) => (
+      <Marker position={[restaurant.latitude, restaurant.lomgitude]}>
+        <Popup>{restaurant.Restaurant}</Popup>
+      </Marker>
+    ));
+  }
   render() {
     return (
       <section>
-        <Map center={this.state.currentPosition} zoom={20}>
+        <Map center={this.state.currentPosition} zoom={10}>
         {/* <Map center={[dataRestaurants.latitude, dataRestaurants.lomgitude]} zoom={15}> */}
-          {/* {this.getMarkers()} */}
+          {this.getMarkers()}
           <TileLayer
             url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}.png"
             // attribution="Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community"

@@ -8,15 +8,6 @@ class File extends Component {
     // this.state = {};
   // }
 
-  // componentWillMount(){}
-  // componentDidMount(){}
-  // componentWillUnmount(){}
-
-  // componentWillReceiveProps(){}
-  // shouldComponentUpdate(){}
-  // componentWillUpdate(){}
-  // componentDidUpdate(){}
-
   render() {
     return (
       <section className={this.props.className}>
@@ -38,7 +29,7 @@ class File extends Component {
           </div>
           <div className="adress">
             <img className="iconRestaurant" src="./media/map.svg" alt="Localización"/>
-            <p>Paseo de Recoletos 2, Madrid</p>
+            <p>Paseo de Recoletos 2cd</p>
           </div>
           <div className="phone">
             <img className="iconRestaurant" src="./media/phone.svg" alt="Teléfono"/>

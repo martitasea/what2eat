@@ -3,8 +3,8 @@ import HeadLittle from '../HeadLittle/HeadLittle';
 import SubHeader from '../SubHeader/SubHeader';
 import MapContent from '../MapContent/MapContent';
 import Files from '../Files/Files';
-import './AMapView.css';
 import Button from '../Button/Button';
+import './AMapView.css';
 
 class AMapView extends Component {
   // constructor(props){

@@ -11,7 +11,7 @@ class AIntro extends Component {
 
    render() {
     return (
-      <>
+      <div>
       <main className="intro" >
         <Info
         classP="grey" 
@@ -24,7 +24,7 @@ class AIntro extends Component {
         <Button class="big blue" text="REGÍSTRATE"/>
         <Button class="big ghost" text="INICIA SESIÓN"/>
       </footer> 
-      </>
+      </div>
     );
   }
 }
