@@ -1,6 +1,7 @@
 const data=[
     {
         "Restaurant": "Kuoco 360",
+        "Ranking":3,
         "Web":"https://www.kuoco.es/",
         "Style": "Restaurants",
         "Address": [
@@ -13,6 +14,7 @@ const data=[
     },
     {
         "Restaurant": "Bunny's Deli",
+        "Ranking":2,
         "Style": "Vegetarian / Vegan Restaurants",
         "Address": [
             "Calle San Gregorio 17",
@@ -24,6 +26,7 @@ const data=[
     },
     {
         "Restaurant": "Pizzaiolo",
+        "Ranking":1,
         "Style": "Italian Restaurants",
         "Address": [
             "C. Hortaleza, 84",
@@ -35,6 +38,7 @@ const data=[
     },
     {
         "Restaurant": "Vides",
+        "Ranking":5,
         "Style": "Gastropubs",
         "Address": [
             "C. Libertad, 12",
@@ -46,6 +50,7 @@ const data=[
     },
     {
         "Restaurant": "Food Truck",
+        "Ranking":2,
         "Style": "American Restaurants",
         "Address": [
             "C. San Lucas, 11",
@@ -57,6 +62,7 @@ const data=[
     },
     {
         "Restaurant": "Hot Now",
+        "Ranking":3,
         "Style": "Pizza Places",
         "Address": [
             "barbieri 14",
@@ -68,6 +74,7 @@ const data=[
     },
     {
         "Restaurant": "Izakaya Han",
+        "Ranking":3,
         "Style": "Japanese Restaurants",
         "Address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -79,6 +86,7 @@ const data=[
     },
     {
         "Restaurant": "El Cisne Azul",
+        "Ranking":3,
         "Style": "Spanish Restaurants",
         "Address": [
             "C. Gravina, 19",
@@ -90,6 +98,7 @@ const data=[
     },
     {
         "Restaurant": "Sr. Ito",
+        "Ranking":1,
         "Style": "Sushi Restaurants",
         "Address": [
             "Calle Pelayo 60",
@@ -101,6 +110,7 @@ const data=[
     },
     {
         "Restaurant": "Morgana",
+        "Ranking":1,
         "Style": "Restaurants",
         "Address": [
             "Augusto figueroa 33",
@@ -112,6 +122,7 @@ const data=[
     },
     {
         "Restaurant": "Bosco de Lobos",
+        "Ranking":1,
         "Style": "Italian Restaurants",
         "Address": [
             "C. Hortaleza, 63 (C. Farmacia)",
@@ -123,6 +134,7 @@ const data=[
     },
     {
         "Restaurant": "Mal de Amores",
+        "Ranking":5,
         "Style": "Restaurants",
         "Address": [
             "Valgame Dios, 4",
@@ -133,6 +145,7 @@ const data=[
     },
     {
         "Restaurant": "Tienda de Vinos (El Comunista)",
+        "Ranking":5,
         "Style": "Spanish Restaurants",
         "Address": [
             "C. Augusto Figueroa, 35",

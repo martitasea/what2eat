@@ -8,7 +8,7 @@ class MapContent extends Component {
     super(props);
     this.state = {
       restaurants: dataRestaurants,
-      currentPosition: [40.421540,-3.692665]
+      currentPosition: [40.422705,-3.697594]
     };
     this.getMarkers = this.getMarkers.bind(this);
   }

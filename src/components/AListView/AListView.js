@@ -27,6 +27,19 @@ class AListView extends Component {
       phone="915395856"
       latitude={restaurant.latitude}
       longitude={restaurant.lomgitude}
+      ranking={restaurant.Ranking}
+      starState={
+        (restaurant.Ranking==1)
+      ?process.env.PUBLIC_URL +"./media/star01.svg"
+      :(restaurant.Ranking==2)
+      ?process.env.PUBLIC_URL +"./media/star02.svg"
+      :(restaurant.Ranking==3)
+      ?process.env.PUBLIC_URL +"./media/star03.svg"
+      :(restaurant.Ranking==4)
+      ?process.env.PUBLIC_URL +"./media/star04.svg"
+      :(restaurant.Ranking==5)
+      ?process.env.PUBLIC_URL +"./media/star05.svg"
+      :process.env.PUBLIC_URL +"./media/star00.svg"}
       />
     ))
 

@@ -21,10 +21,15 @@ p.boldBlue{
 div.ranking, div.adress, div.phone, div.euro{
     display: flex;
     flex-direction: row;
+    align-items: center;
     margin: 0.5vh 0;
 }
 img.iconRestaurant{
     width: 15px;
+    margin: 2px;
+}
+img.iconStar{
+    width: 95px;
     margin: 2px;
 }
 div.content div p{

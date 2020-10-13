@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import {Link} from "react-router-dom";
+import dataRestaurants from '../../data/dataRestaurants.js';
 import './Files.css';
 
 class File extends Component {
@@ -12,8 +13,13 @@ class File extends Component {
       phone: this.props.phone,
       latitude: this.props.latitude,
       longitude: this.props.longitude,
+      ranking: this.props.ranking,
+      restaurants: dataRestaurants,
+      starState: this.props.starState,
     };
+    // this.getRange=this.getRange.bind(this)
   }
+
 
   render() {
     return (
@@ -24,11 +30,7 @@ class File extends Component {
           <p className="boldBlue">{this.state.name}</p>
           </Link>
           <div className="ranking">
-            <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
-            <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
-            <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
-            <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
-            <img className="iconRestaurant" src="./media/starOn.svg" alt="Estrella"/>
+            <img className="iconStar" src={this.state.starState} alt="Estrella"/>
             <p>Paella de marisco</p>
           </div>
           <div className="euro">
