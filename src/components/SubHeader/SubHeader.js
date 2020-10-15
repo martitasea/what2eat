@@ -1,13 +1,10 @@
 import React, { Component } from 'react';
 import {Link} from "react-router-dom";
 import './SubHeader.css';
-// import {ThemeContext} from "../../context"
-import {CategoryContext} from "../userContext";
 import { CategoryConsumer } from '../userContext';
 
 class SubHeader extends Component {
   render() {
-    //  let value = this.context;
     return (
       <Link to="/categorymenu">
         <section className="moreCat">
@@ -15,7 +12,16 @@ class SubHeader extends Component {
           <CategoryConsumer>
             {
               (cat)=>{
-                return <p className="pPlus">{cat.category}</p>
+                return (
+                  <div>
+                    <p className="pPlus">{cat.category}</p>
+                    {/* <p className="pPlus">{cat.dish}</p>
+                    <p className="pPlus">{cat.address}</p>
+                    <p className="pPlus">{cat.dist}</p>
+                    <p className="pPlus">{cat.range}</p>
+                    <p className="pPlus">{cat.ranking}</p> */}
+                </div>
+                )
               }
             }
           </CategoryConsumer>

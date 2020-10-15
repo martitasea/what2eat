@@ -13,9 +13,14 @@ import './App.css';
 function App() {
 
   const [category, setCategory] =useState("SELECCIONA EL TIPO DE PLATO");
+  const [dish, setDish] =useState("Hamburguesa");
+  const [address, setAddress]=useState("Paseo de Recoletos, 15");
+  const [dist, setDist]=useState("100 km");
+  const [range, setRange]=useState(3);
+
   return (
     <div>
-      <CategoryProvider value={{category, setCategory}}>
+      <CategoryProvider value={{category, setCategory, dish, setDish, address, setAddress, dist, setDist, range, setRange}}>
         <BrowserRouter>
           <Switch>
             <Route exact path="/" component={AFirst}></Route>

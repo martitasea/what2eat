@@ -13,10 +13,9 @@ class AFilter extends Component {
       params: this.props.match.params.cat,
     };
   }
-  // static contextType = CategoryContext;
+
 
   render() {
-    //  this.context=this.state.params
     return (
       <main>
         <HeadLittle params={this.state.params} rutaLogo="./media/logo-big-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 

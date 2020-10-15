@@ -10,52 +10,52 @@ export const datafilter=[
         "href":"/filter/CARNE",
     },
     {
-        "title": "De la Huerta",
+        "title": "DE LA HUERTA",
         "image": "./media/.jpg",
         "href":"/filter/DE LA HUERTA",
     },
     {
-        "title": "Ensalada",
+        "title": "ENSALADA",
         "image": "./media/.jpg",
         "href":"/filter/ENSALADA",
     },
     {
-        "title": "Entrantes",
+        "title": "ENTRANTES",
         "image": "./media/.jpg",
         "href":"/filter/ENTRANTES",
     },
     {
-        "title": "Hamburguesa",
+        "title": "HAMBURGUESA",
         "image": "./media/americano.jpg",
         "href":"/filter/HAMBURGUESA",
     },
     {
-        "title": "Marisco",
+        "title": "MARISCO",
         "image": "./media/marisqueria.jpg",
         "href":"/filter/MARISCO",
     },
     {
-        "title": "Pescado",
+        "title": "PESCADO",
         "image": "./media/portugues.jpg",
         "href":"/filter/PESCADO",
     },
     {
-        "title": "Pizza",
+        "title": "PIZZA",
         "image": "./media/italiano.jpg",
         "href":"/filter/PIZZA",
     },
     {
-        "title": "Pollo",
+        "title": "POLLO",
         "image": "./media/.jpg",
         "href":"/filter/POLLO",
     },
     {
-        "title": "Postres",
+        "title": "POSTRES",
         "image": "./media/.jpg",
         "href":"/filter/POSTRES",
     },
     {
-        "title": "Sopas y cremas",
+        "title": "SOPAS Y CREMAS",
         "image": "./media/andaluz.jpg",
         "href":"/filter/SOPAS Y CREMAS",
     }
