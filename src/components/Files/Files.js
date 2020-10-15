@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Link} from "react-router-dom";
-import dataRestaurants from '../../data/dataRestaurants.js';
+import data from '../../data/data.js';
 import './Files.css';
 
 class File extends Component {
@@ -14,7 +14,7 @@ class File extends Component {
       latitude: this.props.latitude,
       longitude: this.props.longitude,
       ranking: this.props.ranking,
-      restaurants: dataRestaurants,
+      restaurants: data,
       starState: this.props.starState,
     };
     // this.getRange=this.getRange.bind(this)
@@ -26,9 +26,9 @@ class File extends Component {
       <section className={this.props.className}>
         <article className="shadow">
         <div className="content">
-          <Link to={this.props.web}>
+          {/* <Link to={this.props.web}> */}
           <p className="boldBlue">{this.state.name}</p>
-          </Link>
+          {/* </Link> */}
           <div className="ranking">
             <img className="iconStar" src={this.state.starState} alt="Estrella"/>
             <p>Paella de marisco</p>

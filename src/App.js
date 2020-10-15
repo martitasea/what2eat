@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import {BrowserRouter, Route, Switch} from "react-router-dom";
 import AFirst from "./components/AFirst/AFirst";
 import AIntro from "./components/AIntro/AIntro";
@@ -6,25 +6,33 @@ import ACatMenu from "./components/ACatMenu/ACatMenu";
 import AFilter from "./components/AFilter/AFilter";
 import AListView from "./components/AListView/AListView";
 import AMapView from "./components/AMapView/AMapView";
+import AOnBoarding from "./components/AOnBoarding/AOnBoarding";
+import {CategoryProvider} from './components/userContext';
 import './App.css';
 
 function App() {
+
+  const [category, setCategory] =useState("SELECCIONA EL TIPO DE PLATO");
   return (
     <div>
-      <BrowserRouter>
-        <Switch>
-          <Route exact path="/" component={AFirst}></Route>
-          <Route path="/intro" component={AIntro}></Route>
-          <Route path="/categorymenu" component={ACatMenu}></Route>
-          <Route path="/filter/:cat" component={AFilter} ></Route>
-          <Route path="/listview" component={AListView}></Route>
-          <Route path="/mapview" component={AMapView}></Route>
-        </Switch>
-      </BrowserRouter>
+      <CategoryProvider value={{category, setCategory}}>
+        <BrowserRouter>
+          <Switch>
+            <Route exact path="/" component={AFirst}></Route>
+            <Route path="/intro" component={AIntro}></Route>
+            <Route path="/onBoarding01" component={AOnBoarding}></Route>
+            <Route path="/onBoarding02" component={AOnBoarding}></Route>
+            <Route path="/onBoarding03" component={AOnBoarding}></Route>
+            <Route path="/categorymenu" component={ACatMenu}></Route>
+            <Route path="/filter/:cat" component={AFilter} ></Route>
+            <Route path="/listview" component={AListView}></Route>
+            <Route path="/mapview" component={AMapView}></Route>
+          </Switch>
+        </BrowserRouter>
+      </CategoryProvider>
     </div>
   );
 }
-
 export default App;
 
 {/* <Route path="/onBoarding-1">

@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Dist from '../Dist/Dist';
 import Question from '../Question/Question';
-import SubHeader from '../SubHeader/SubHeader';
 import './Form.css';
 
 class Form extends Component {

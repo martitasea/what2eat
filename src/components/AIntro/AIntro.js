@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import Button from '../Button/Button';
+import {Link} from "react-router-dom";
 import Info from '../Info/Info';
+import Button from '../Button/Button';
 import './AIntro.css';
 
 class AIntro extends Component {
@@ -12,6 +13,7 @@ class AIntro extends Component {
    render() {
     return (
       <div>
+      <Link to="/onBoarding01">
       <main className="intro" >
         <Info
         classP="grey" 
@@ -21,9 +23,10 @@ class AIntro extends Component {
         classImage="logoBig"/>
       </main>
       <footer className="one">
-        <Button class="big blue" text="REGÍSTRATE"/>
-        <Button class="big ghost" text="INICIA SESIÓN"/>
+        <Button className="big blue" text="REGÍSTRATE"/>
+        <Button className="big ghost" text="INICIA SESIÓN"/>
       </footer> 
+      </Link>
       </div>
     );
   }

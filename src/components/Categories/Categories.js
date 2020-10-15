@@ -7,7 +7,9 @@ class Categories extends Component {
   constructor(props){
     super(props);
     this.state = {
-      categories: dataCategories}
+      categories: dataCategories
+    
+    }
     this.getCategories = this.getCategories.bind(this);
   }
 
@@ -22,7 +24,7 @@ getCategories(){
   render() {
     return (
       <div>
-      <p className="tit">Selecciona la categoría del plato:</p>
+      <p className="tit">Selecciona el tipo del plato:</p>
       <section className="categories">
       < Suspense fallback={<h1>Estamos cargando...</h1>}>
         {this.getCategories()}

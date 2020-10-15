@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {Link} from "react-router-dom";
 import './Category.css';
+import {CategoryConsumer} from '../userContext';
 
 class Category extends Component {
   constructor(props){
@@ -14,14 +15,25 @@ class Category extends Component {
 
   render() {
     return (
-      <figure>
-        <Link to={this.state.catHref}>
-        <img class="food" src={this.state.catImg} alt={this.state.category}/>
-        </Link>
-        <p className="text">{this.state.category}</p>
-      </figure>
+        <CategoryConsumer>
+              {(cat)=>(
+                <figure>
+                  <Link to={this.state.catHref}>
+                    <img
+                      className="food"
+                      onClick={()=>{
+                        cat.setCategory(this.state.category)
+                      }}
+                      src={this.state.catImg}           
+                      alt={this.state.category}
+                    />
+                  </Link>
+                  <p className="text">{this.state.category}</p>
+                </figure>)
+              }
+        </CategoryConsumer>
     );
   }
 }
 
-export default Category;
+export default Category;  

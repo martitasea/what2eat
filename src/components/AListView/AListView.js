@@ -4,59 +4,35 @@ import Button from '../Button/Button';
 import Files from '../Files/Files';
 import HeadLittle from '../HeadLittle/HeadLittle';
 import SubHeader from '../SubHeader/SubHeader';
-import dataRestaurants from '../../data/dataRestaurants.js';
+import data from '../../data/data.js';
 import './AListView.css';
+import CategoryContext from '../userContext';
 
 class AListView extends Component {
   constructor(props){
     super(props);
     this.state = {
       params: this.props.params,
-      restaurants: dataRestaurants
+      dishes: data,
+      currentStyle: []
     };
-    this.getRestaurants=this.getRestaurants.bind(this)
+    // this.getDishes=this.getDishes.bind(this)
   }
-
-  getRestaurants(){
-    return this.state.restaurants.map((restaurant)=>(
-      <Files 
-      className="file"
-      name={restaurant.Restaurant}
-      web={restaurant.Web}
-      address={restaurant.Address[0]}
-      phone="915395856"
-      latitude={restaurant.latitude}
-      longitude={restaurant.lomgitude}
-      ranking={restaurant.Ranking}
-      starState={
-        (restaurant.Ranking==1)
-      ?process.env.PUBLIC_URL +"./media/star01.svg"
-      :(restaurant.Ranking==2)
-      ?process.env.PUBLIC_URL +"./media/star02.svg"
-      :(restaurant.Ranking==3)
-      ?process.env.PUBLIC_URL +"./media/star03.svg"
-      :(restaurant.Ranking==4)
-      ?process.env.PUBLIC_URL +"./media/star04.svg"
-      :(restaurant.Ranking==5)
-      ?process.env.PUBLIC_URL +"./media/star05.svg"
-      :process.env.PUBLIC_URL +"./media/star00.svg"}
-      />
-    ))
-
-  }
+  // static contextType = CategoryContext;
 
  render() {
+  console.log(this.context)
     return (
       <div>
         <HeadLittle rutaLogo="./media/logo-lit-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 
         <SubHeader params={this.state.params}/>
-        {this.getRestaurants()}
+        {/* {this.getDishes()} */}
         <footer className="two">
           <Link to="/listview">
-        <Button class="little ghost" text="LISTA"/>
+        <Button className="little ghost" text="LISTA"/>
           </Link>
           <Link to="/mapview">
-        <Button class="little blue" text="MAPA"/>
+        <Button className="little blue" text="MAPA"/>
           </Link>
         </footer>
       </div>
@@ -65,3 +41,48 @@ class AListView extends Component {
 }
 
 export default AListView;
+
+
+
+
+
+
+  // getStyle(){
+  //   // const currentStyle=[]
+  //   return this.state.merge.filter((meal)=>(
+  //     this.state.currentStyle = meal.style==="Pizza"))
+  // };
+
+  // getDishes(){
+  //   return this.state.currentStyle.map((dish)=>(
+  //     <Files
+  //       className="file"
+  //       name={}
+  //   ))}
+  //     <Files 
+  //     className="file"
+  //     name={dish.dishesRestaurant}
+      // web={dish.Web}
+      // address={dish.Address[0]}
+      // phone={dish.Phone}
+      // latitude={dish.latitude}
+      // longitude={dish.lomgitude}
+      // ranking={dish.Ranking}
+      // starState={
+      //   (dish.Ranking===1)
+      // ?process.env.PUBLIC_URL +"./media/star01.svg"
+      // :(dish.Ranking===2)
+      // ?process.env.PUBLIC_URL +"./media/star02.svg"
+      // :(dish.Ranking===3)
+      // ?process.env.PUBLIC_URL +"./media/star03.svg"
+      // :(dish.Ranking===4)
+      // ?process.env.PUBLIC_URL +"./media/star04.svg"
+      // :(dish.Ranking===5)
+      // ?process.env.PUBLIC_URL +"./media/star05.svg"
+      // :process.env.PUBLIC_URL +"./media/star00.svg"}
+  //     />
+  //   ))
+
+  // }
+
+
