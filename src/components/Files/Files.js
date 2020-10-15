@@ -7,8 +7,8 @@ class File extends Component {
   constructor(props){
     super(props);
     this.state = {
+      restaurantName:this.props.restaurantName,
       name:this.props.name,
-      web:this.props.web,
       address: this.props.address,
       phone: this.props.phone,
       latitude: this.props.latitude,
@@ -17,7 +17,6 @@ class File extends Component {
       restaurants: data,
       starState: this.props.starState,
     };
-    // this.getRange=this.getRange.bind(this)
   }
 
 
@@ -26,12 +25,11 @@ class File extends Component {
       <section className={this.props.className}>
         <article className="shadow">
         <div className="content">
-          {/* <Link to={this.props.web}> */}
-          <p className="boldBlue">{this.state.name}</p>
+          <p className="boldBlue">{this.state.restaurantName}</p>
           {/* </Link> */}
           <div className="ranking">
             <img className="iconStar" src={this.state.starState} alt="Estrella"/>
-            <p>Paella de marisco</p>
+            <p>{this.state.name}</p>
           </div>
           <div className="euro">
             <img className="iconRestaurant" src="./media/euro.svg" alt="Precio"/>

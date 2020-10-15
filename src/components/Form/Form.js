@@ -53,7 +53,7 @@ class Form extends Component {
             type="submit" 
             value="ENVIAR"
             onClick={()=>{
-              cat.setDish("He cambiado el set de los platos")
+              // cat.setDish({dish.value})
               cat.setAddress("He cambiado la dirección")
               cat.setDist("He cambiado la distancia")
               cat.setRange("He cambiado el rango")

@@ -15,8 +15,8 @@ class SubHeader extends Component {
                 return (
                   <div>
                     <p className="pPlus">{cat.category}</p>
-                    {/* <p className="pPlus">{cat.dish}</p>
-                    <p className="pPlus">{cat.address}</p>
+                    {/* <p className="pPlus">{cat.dish}</p> */}
+                     {/*<p className="pPlus">{cat.address}</p>
                     <p className="pPlus">{cat.dist}</p>
                     <p className="pPlus">{cat.range}</p>
                     <p className="pPlus">{cat.ranking}</p> */}

@@ -8,7 +8,6 @@ class Categories extends Component {
     super(props);
     this.state = {
       categories: dataCategories
-    
     }
     this.getCategories = this.getCategories.bind(this);
   }
