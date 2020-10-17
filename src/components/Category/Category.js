@@ -22,7 +22,7 @@ class Category extends Component {
                     <img
                       className="food"
                       onClick={()=>{
-                        cat.setCategory(this.state.category)
+                        cat.changeCategory(this.state.category)
                       }}
                       src={this.state.catImg}           
                       alt={this.state.category}

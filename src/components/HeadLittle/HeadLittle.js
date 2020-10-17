@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {Link} from "react-router-dom";
 import './HeadLittle.css';
 
 class HeadLittle extends Component {
@@ -16,10 +17,12 @@ class HeadLittle extends Component {
           className="menu"
           src={process.env.PUBLIC_URL +"/media/menuHamburguesa.svg" }
           alt="Logo What2Eat"/>
-        <img 
-          className="logoLittle"
-          src={process.env.PUBLIC_URL +" /media/logo-lit-blue.svg" }
-          alt="Logo What2Eat"/>
+        <Link to="/categorymenu">
+          <img 
+            className="logoLittle"
+            src={process.env.PUBLIC_URL +" /media/logo-lit-blue.svg" }
+            alt="Logo What2Eat"/>
+        </Link>
       </header>
     );
   }

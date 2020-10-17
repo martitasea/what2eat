@@ -6,7 +6,6 @@ import MapContent from '../MapContent/MapContent';
 import Files from '../Files/Files';
 import Button from '../Button/Button';
 import './AMapView.css';
-import {ThemeContext} from "../../context"
 
 class AMapView extends Component {
   constructor(props){
@@ -15,7 +14,7 @@ class AMapView extends Component {
     };
   }
 
-  static contextType = ThemeContext;
+
 
   render() {
     console.log("esto"+this.context)

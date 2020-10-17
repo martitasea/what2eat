@@ -39,24 +39,24 @@ class AListView extends Component {
                     ?process.env.PUBLIC_URL +"./media/star05.svg"
                     :process.env.PUBLIC_URL +"./media/star00.svg"
         }
+        price={dish.price}
       />
     ))
   }
 
  render() {
-  console.log(this.context)
     return (
       <div>
         <HeadLittle rutaLogo="./media/logo-lit-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 
         <SubHeader params={this.state.params}/>
         {this.getDishes()}
         <footer className="two">
-          <Link to="/listview">
-        <Button className="little ghost" text="LISTA"/>
-          </Link>
-          <Link to="/mapview">
-        <Button className="little blue" text="MAPA"/>
-          </Link>
+            <Link to="/listview">
+          <Button className="little ghost" text="LISTA"/>
+            </Link>
+            <Link to="/mapview">
+          <Button className="little blue" text="MAPA"/>
+            </Link>
         </footer>
       </div>
     );

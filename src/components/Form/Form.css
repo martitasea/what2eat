@@ -5,3 +5,87 @@ form{
     flex-direction: column;
     margin-top: 7vh;
 }
+div.question{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 1vh;
+    padding: 2vh;
+    border-bottom: 1px solid #969696;
+}
+div.price{
+    display: flex;
+    flex-direction: row;
+    justify-content: base;
+    align-items: center;
+    margin: 3vh;
+    padding: 2vh;
+}
+div.button{
+    margin: 3vh;
+    /* padding: 2vh; */
+}
+img.icon{
+    width: 25px;
+    margin-right: 10px;
+}
+img.none{
+    display:none;
+}
+input.box{
+    margin-left: 4vw;
+    width: 70vw;
+    border: none;
+    font-size: 18px;
+    color: #969696;
+}
+input[type="range"]{
+    appearance:none;
+    width:70vw;
+    height:5px;
+    background: #0c4261;
+    margin-left: 30px;
+  }
+input[type="range"]::-webkit-slider-thumb{
+    appearance:none;
+    width:15px;
+    height:15px;
+    /* Lo hace circular */
+    border-radius: 100%; 
+    background: #0c4261;
+    z-index:3;
+  }
+input.big{
+    width: 90vw;
+    height: 6vh;
+    font-size: 16px;
+    border-radius: 5px;
+    /* margin: 0 0 3vh 0; */
+}
+input.blue{
+    background-color: #0c4261;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+    margin-top: 16vh;
+}
+select.box{
+    padding-left: 4vw;
+    width: 70vw;
+    border: none;
+    font-size: 18px;
+    color: #969696;
+}
+input.ghost{
+    background-color: white;
+    border: 2px solid #0c4261;
+    font-weight: bold;
+    color: #0c4261;
+}
+input.little{
+    width: 43vw;
+    height: 6vh;
+    font-size: 16px;
+    border-radius: 5px;
+    /* margin-left: 2vh; */
+}

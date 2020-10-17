@@ -16,6 +16,7 @@ class File extends Component {
       ranking: this.props.ranking,
       restaurants: data,
       starState: this.props.starState,
+      price: this.props.price+" €",
     };
   }
 
@@ -35,6 +36,7 @@ class File extends Component {
             <img className="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
             <img className="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
             <img className="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
+            <p>{this.state.price}</p>
           </div>
           <div className="adress">
             <img className="iconRestaurant" src="./media/map.svg" alt="Localización"/>

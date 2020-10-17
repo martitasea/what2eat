@@ -11,16 +11,15 @@ class SubHeader extends Component {
           <img className="iconPlus" src={process.env.PUBLIC_URL +"/media/plus-circle.svg"} alt=""/>
           <CategoryConsumer>
             {
-              (cat)=>{
+              (contxt)=>{
                 return (
                   <div>
-                    <p className="pPlus">{cat.category}</p>
-                    {/* <p className="pPlus">{cat.dish}</p> */}
-                     {/*<p className="pPlus">{cat.address}</p>
-                    <p className="pPlus">{cat.dist}</p>
-                    <p className="pPlus">{cat.range}</p>
-                    <p className="pPlus">{cat.ranking}</p> */}
-                </div>
+                    <p className="pPlus">{contxt.category}</p>
+                    <p className="pPlus">{contxt.dish}</p>
+                    <p className="pPlus">{contxt.address}</p>
+                    <p className="pPlus">{contxt.dist}</p>
+                    <p className="pPlus">{contxt.price}</p>
+                  </div>
                 )
               }
             }
@@ -31,25 +30,3 @@ class SubHeader extends Component {
   }
 }
 export default SubHeader;
-
-
-
-
-                        //   constructor(props){
-                        //     super(props);
-                        //     this.state = {
-                        //       // params: this.props.match.params.cat
-                        //     };
-                        //  }
-                        //  static contextType = ThemeContext;
-                        //  componentDidMount() {
-                        //   let value = this.context;
-                        //   /* perform a side-effect at mount using the value of CategoryContext */
-                        // }
-                        // componentDidUpdate() {
-                        //   let value = this.context;
-                        //   /* ... */
-                        // }
-                        // componentWillUnmount() {
-                        //   let value = this.context;
-                        //   /* ... */

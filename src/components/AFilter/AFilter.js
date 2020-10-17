@@ -4,7 +4,6 @@ import Form from '../Form/Form';
 import HeadLittle from '../HeadLittle/HeadLittle';
 import SubHeader from '../SubHeader/SubHeader';
 import './AFilter.css';
-// import CategoryContext from '../userContext';
 
 class AFilter extends Component {
   constructor(props){

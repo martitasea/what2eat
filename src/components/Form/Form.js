@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import Dist from '../Dist/Dist';
-import Question from '../Question/Question';
+import {Link} from "react-router-dom";
 import './Form.css';
 import {CategoryConsumer} from '../userContext';
 
@@ -8,62 +7,169 @@ class Form extends Component {
   constructor(props){
     super(props);
     this.state = {
-      params: this.props.params,
+      dish:'Dish-VACIO',
+      address:'Address-VACIO',
+      dist:'Dist-VACIO',
+      precio:'Price-VACIO',
     };
+    this.handleChangeDish=this.handleChangeDish.bind(this)
+    this.handleChangeAddress=this.handleChangeAddress.bind(this)
+    this.handleChangeDist=this.handleChangeDist.bind(this)
+    this.handleChangePrice=this.handleChangePrice.bind(this)
   }
-
-
+  handleChangeDish(event){
+    let dish=event.target.value;
+    console.log(dish);
+    this.setState({dish: dish})
+  }
+  handleChangeAddress(event){
+    let address=event.target.value;
+    console.log(address);
+    this.setState({address: address})
+  }
+  handleChangeDist(event){
+    let dist=event.target.value;
+    console.log(dist);
+    this.setState({dist: dist})
+  }
+  handleChangePrice(event){
+    let price=event.target.value;
+    console.log(price);
+    this.setState({price: price})
+  }
   render() {
     return (
       <CategoryConsumer>
-        {(cat)=>(
-        <form action="/listview" method="post">
-          <Question
-            className="question"
-            classInput="box"
-            classImage="icon" 
-            type="search" 
-            name="dish" 
-            src={process.env.PUBLIC_URL +"/media/dish.svg"}
-            alt="Dish" 
-            placeholder="Hamburguesa"/>
-          <Question
-            className="question"
-            classInput="box"
-            classImage="icon"   
-            type="search" 
-            name="adress"
-            src={process.env.PUBLIC_URL +"/media/map.svg"} 
-            alt="Address" 
-            placeholder="Velázquez 32"/>
-          <Dist 
-            src={process.env.PUBLIC_URL +"/media/dist.svg"}
-            alt="Dist"/>
-          <Question
-            className="price"
-            classImage="icon"  
-            type="range" 
-            name="price" 
-            src={process.env.PUBLIC_URL +"/media/euro.svg"} 
-            alt="Address" />
-          <Question 
-            className="button"
-            classInput="big blue"
-            classImage="none"
-            type="submit" 
-            value="ENVIAR"
-            onClick={()=>{
-              // cat.setDish({dish.value})
-              cat.setAddress("He cambiado la dirección")
-              cat.setDist("He cambiado la distancia")
-              cat.setRange("He cambiado el rango")
-            }}
-            />
-        </form>)
-      }
-      </CategoryConsumer>
+        {(contxt)=>(
+           <form
+            onSubmit=
+               {(e)=>
+                 {
+                e.preventDefault()
+                contxt.changeDish(this.state.dish)
+                contxt.changeAddress(this.state.address)
+                contxt.changeDist(this.state.dist)
+                contxt.changePrice(this.state.price)
+                 }
+               }>
+              <div className="question">
+              <img className="icon" src={process.env.PUBLIC_URL +"/media/dish.svg"} alt="Dish"/>
+              <input type="text" className="box" name="dish" onChange={this.handleChangeDish}/>
+              </div>
+              
+              <div className="question">
+              <img className="icon" src={process.env.PUBLIC_URL +"/media/map.svg"} alt="Address"/>
+              <input type="text" className="box" name="address" onChange={this.handleChangeAddress}/>
+              </div>
+
+              <div className="question">
+              <img className="icon" src={process.env.PUBLIC_URL +"/media/dist.svg"} alt="Address"/>
+              <select name="dist" className="box" onChange={this.handleChangeDist}>
+                    <option value="1">1 km</option>
+                    <option value="5">5 km</option>
+                    <option value="10">10 km</option>
+                    <option value="50">50 km</option>
+              </select>
+              </div>
+
+              <div className="price">
+              <img className="icon" src={process.env.PUBLIC_URL +"/media/euro.svg"} alt="Range Price"/>
+              <input
+                    onChange={this.handleChangePrice}
+                    className="box"
+                    type="range"
+                    name="price"
+                    placeholder="Dime tu ubicación"
+                    min="1"
+                    max="3"/>
+              </div>
+
+              <input type="submit" className="button little ghost" value="FILTRAR"/>
+
+              <Link to="/listview"> 
+                <button className="button little blue" name="VER LISTA">SEGUIR</button>
+              </Link>
+
+            </form>
+          )
+        }
+     </CategoryConsumer>
     );
   }
 }
+  export default Form;
 
-export default Form;
+//   render() {
+//     return (
+//       <CategoryConsumer>
+//         {
+//           (contxt)=>{
+//             <form onSubmit=
+//               {  (cat)=>{
+//                 contxt.changeDish(this.state.dish)
+//                 contxt.changeAddress(this.state.address)
+//                 contxt.changeDist(this.state.dist)
+//                 contxt.changePrice(this.state.price)
+//               } }>
+//                 <div className="question">
+//                   <img 
+//                     className="icon"
+//                     src={process.env.PUBLIC_URL +"/media/dish.svg"}
+//                     alt="Dish"/>
+//                   <input
+//                     onChange={this.handleChangeDish}
+//                     className="box"
+//                     type="search"
+//                     name="dish"
+//                     placeholder="Elige un plato"
+//                   />
+//                 </div>
+//                 <div className="question">
+//                   <img 
+//                     className="icon"
+//                     src={process.env.PUBLIC_URL +"/media/map.svg"}
+//                     alt="Address"/>
+//                   <input
+//                     onChange={this.handleChangeAddress}
+//                     className="box"
+//                     type="search"
+//                     name="address"
+//                     placeholder="Dime tu ubicación"/>
+//                 </div>
+//                 <div className="question">
+//                   <img 
+//                     className="icon"
+//                     src={process.env.PUBLIC_URL +"/media/dist.svg"}
+//                     alt="Dist"/>
+//                   <select className="box" name="dist" onChange={this.handleChangeDist}>
+//                     <option value="1">1 km</option>
+//                     <option value="5">5 km</option>
+//                     <option value="10">10 km</option>
+//                     <option value="50">50 km</option>
+//                   </select>
+//                 </div>           
+//                 <div className="price">
+//                   <img 
+//                     className="icon"
+//                     src={process.env.PUBLIC_URL +"/media/euro.svg"}
+//                     alt="Range Price"/>
+//                   <input
+//                     onChange={this.handleChangePrice}
+//                     className="box"
+//                     type="range"
+//                     name="price"
+//                     min="1"
+//                     max="5"
+//                     placeholder="Dime tu ubicación"/>
+//                 </div>               
+//                 <input type="submit" className="button little blue" value="FILTRAR"/>
+//                 <Link to="/listview"> 
+//                   <button className="button little blue" name="VER LISTA">SEGUIR</button>
+//                 </Link>
+//               </form>
+//           }
+//         }
+//       </CategoryConsumer>
+//     );
+//   }
+// }
