@@ -83,13 +83,12 @@ class Form extends Component {
                     min="1"
                     max="3"/>
               </div>
-
-              <input type="submit" className="button little ghost" value="FILTRAR"/>
-
-              <Link to="/listview"> 
-                <button className="button little blue" name="VER LISTA">SEGUIR</button>
-              </Link>
-
+              <footer className="two">
+                <input type="submit" className="button little ghost" value="FILTRAR"/>
+                <Link to="/listview"> 
+                  <button className="button little blue" name="VER LISTA">SEGUIR</button>
+                </Link>
+              </footer>
             </form>
           )
         }

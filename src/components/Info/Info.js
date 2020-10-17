@@ -12,7 +12,7 @@ class Info extends Component {
     return (
       <div className="center">
           <p className={this.props.classP}>{this.props.text}</p>
-        <Link to="/intro">
+        <Link to="/onBoarding">
           <img className={this.props.classImage} src={this.props.src} alt={this.props.alt}/>
         </Link>
       </div>

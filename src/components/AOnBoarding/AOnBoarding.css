@@ -1,7 +1,10 @@
-/*
- * AOnBoarding css File
-*/
-
-.AOnBoarding {
-    /* propertys here */
+main.center{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20vh;
+}
+img.onboarding{
+    margin-top: 5vh;
+    width: 80vw;
 }
