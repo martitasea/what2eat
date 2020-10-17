@@ -26,10 +26,12 @@ class File extends Component {
       <section className={this.props.className}>
         <article className="shadow">
         <div className="content">
-          <p className="boldBlue">{this.state.restaurantName}</p>
+          <div className="ranking">
+            <p className="boldBlue">{this.state.restaurantName}</p>
+            <img className="iconStar" src={this.state.starState} alt="Estrella"/>
+          </div>
           {/* </Link> */}
           <div className="ranking">
-            <img className="iconStar" src={this.state.starState} alt="Estrella"/>
             <p>{this.state.name}</p>
           </div>
           <div className="euro">

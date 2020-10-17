@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {Link} from "react-router-dom";
 import './Category.css';
-import {CategoryConsumer} from '../userContext';
+import {MyConsumer} from '../userContext';
 
 class Category extends Component {
   constructor(props){
@@ -15,7 +15,7 @@ class Category extends Component {
 
   render() {
     return (
-        <CategoryConsumer>
+        <MyConsumer>
               {(cat)=>(
                 <figure>
                   <Link to={this.state.catHref}>
@@ -31,7 +31,7 @@ class Category extends Component {
                   <p className="text">{this.state.category}</p>
                 </figure>)
               }
-        </CategoryConsumer>
+        </MyConsumer>
     );
   }
 }

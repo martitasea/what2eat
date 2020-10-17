@@ -2,14 +2,14 @@
 import React, { Component } from "react";
 import L from "leaflet";
 import { Map, TileLayer, Marker, Popup } from "react-leaflet";
-import categoryContext, { CategoryConsumer } from "../../Contexts/categoryContext.js";
+import MyContext, { MyConsumer } from "../../Contexts/MyContext.js";
 import "./map.css";
 import Route from "../route.js";
 import Footer from './../Footer';
 
 
 export default class App extends Component {
-	static contextType = categoryContext
+	static contextType = MyContext
 
 	constructor() {
 		super();
@@ -84,7 +84,7 @@ export default class App extends Component {
 		return (
 			<>
 				<div>
-					<CategoryConsumer>
+					<MyConsumer>
 						{(value) =>
 							<>
 								<div className="colorContainer"></div>
@@ -101,7 +101,7 @@ export default class App extends Component {
 								</div>
 							</>
 						}
-					</CategoryConsumer>
+					</MyConsumer>
 					{/* <MapHeader /> */}
 					<Map center={[40.416775, -3.703790]} zoom={15} maxZoom={19} zoomControl={false} onDblClick={this.generateMarker} ref={this.instantiateMap.bind(this)}>
 						<TileLayer
@@ -112,7 +112,7 @@ export default class App extends Component {
 						{/* <ZoomControl position='topright' /> */}
 						{!this.props.renderRoute && this.printMarker()}
 
-						<CategoryConsumer>
+						<MyConsumer>
 
 							{(value) => {
 								if ((!this.props.renderRoute && value.selected === undefined) || (this.props.renderRoute && !value.selectedPlace) || !value.coords)
@@ -125,15 +125,15 @@ export default class App extends Component {
 								)
 							}}
 
-						</CategoryConsumer>
+						</MyConsumer>
 					</Map>
 					{!this.props.renderRoute &&
-						<CategoryConsumer>
+						<MyConsumer>
 							{(value) =>
 								<div className="hola" style={{ width: '100vw' }}>
 									<Footer />
 								</div>}
-						</CategoryConsumer>
+						</MyConsumer>
 					}
 				</div>
 			</>

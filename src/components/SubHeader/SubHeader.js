@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {Link} from "react-router-dom";
 import './SubHeader.css';
-import { CategoryConsumer } from '../userContext';
+import { MyConsumer } from '../userContext';
 
 class SubHeader extends Component {
   render() {
@@ -9,21 +9,21 @@ class SubHeader extends Component {
       <Link to="/categorymenu">
         <section className="moreCat">
           <img className="iconPlus" src={process.env.PUBLIC_URL +"/media/plus-circle.svg"} alt=""/>
-          <CategoryConsumer>
+          <MyConsumer>
             {
               (contxt)=>{
                 return (
                   <div>
                     <p className="pPlus">{contxt.category}</p>
-                    <p className="pPlus">{contxt.dish}</p>
+                    {/* <p className="pPlus">{contxt.dish}</p>
                     <p className="pPlus">{contxt.address}</p>
                     <p className="pPlus">{contxt.dist}</p>
-                    <p className="pPlus">{contxt.price}</p>
+                    <p className="pPlus">{contxt.price}</p> */}
                   </div>
                 )
               }
             }
-          </CategoryConsumer>
+          </MyConsumer>
         </section>
       </Link>
     )

@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 import { Map, TileLayer, Marker, Popup } from "react-leaflet";
-import data from "../../data/data.js";
+import dataDishes from "../../data/data.js";
 import moreRestaurants from "../../data/json_mas_rest";
 import './MapContent.css';
-import {L} from 'leaflet';
+// import {L} from 'leaflet';
 
 class MapContent extends Component {
   constructor(props){
     super(props);
     this.state = {
-      restaurantsOk: data,
+      restaurantsOk: dataDishes,
       restaurantsFake: moreRestaurants,
       currentPosition: [40.422705,-3.697594],
       restMarker: 'map-pin.svg'

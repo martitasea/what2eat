@@ -1,4 +1,4 @@
-const data=[
+const dataDishes=[
     {
         "style": "Ensalada",
         "name": "Ensalada de queso de cabra con naranja agria al cava",
@@ -8,7 +8,7 @@ const data=[
         "restaurantName": "7 DELICATESSEN",
         "restaurant": 0,
         "address": [
-            "Mercado de San Ant\u00f3n (C. Augusto Figueroa, 24)",
+            "Mercado de San Ant\u00f3n",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -25,7 +25,7 @@ const data=[
         "restaurantName": "7 DELICATESSEN",
         "restaurant": 0,
         "address": [
-            "Mercado de San Ant\u00f3n (C. Augusto Figueroa, 24)",
+            "Mercado de San Ant\u00f3n",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -42,7 +42,7 @@ const data=[
         "restaurantName": "7 DELICATESSEN",
         "restaurant": 0,
         "address": [
-            "Mercado de San Ant\u00f3n (C. Augusto Figueroa, 24)",
+            "Mercado de San Ant\u00f3n",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -562,7 +562,7 @@ const data=[
         "telephone": 91165119
     },
     {
-        "style": "Postres",
+        "style": "Entrantes",
         "name": "Tataki de at\u00fan con tartar de mango, tomate, cilantro y siracha",
         "price": 11.85,
         "rangeprice":1,
@@ -834,7 +834,7 @@ const data=[
         "telephone": 91173806
     },
     {
-        "style": "Postres",
+        "style": "Entrantes",
         "name": "Burrata con tartar de tomate y pesto Rosso",
         "price": 12.5,
         "rangeprice":1,
@@ -987,7 +987,7 @@ const data=[
         "telephone": 91173806
     },
     {
-        "style": "Postres",
+        "style": "Entrantes",
         "name": "Tartar de at\u00fan al estilo Boho (con aguacate y tartar de tomate)",
         "price": 15.0,
         "rangeprice":2,
@@ -3741,7 +3741,7 @@ const data=[
         "telephone": 91156982
     },
     {
-        "style": "Postres",
+        "style": "Carne",
         "name": "Steak tartar",
         "price": 18.0,
         "rangeprice":2,
@@ -4115,7 +4115,7 @@ const data=[
         "telephone": 91156163
     },
     {
-        "style": "Postres",
+        "style": "Carne",
         "name": "Steak tartar a cuchillo",
         "price": 15.9,
         "rangeprice":2,
@@ -5703,7 +5703,7 @@ const data=[
         "telephone": 91160865
     },
     {
-        "style": "Postres",
+        "style": "Ensalada",
         "name": "Ensalada de ahumados, cebolla roja y tartar de tomate",
         "price": 14.0,
         "rangeprice":2,
@@ -8525,4 +8525,4 @@ const data=[
         "telephone": 91168410
     }
 ]
-export default data
+export default dataDishes

@@ -12,13 +12,30 @@ class AListView extends Component {
     super(props);
     this.state = {
       dishes: data
+      // filter: []
     };
     this.getDishes=this.getDishes.bind(this)
+    // this.getFilter=this.getFilter.bind(this)
   }
   
+  // getFilter(){
+  //   let filter=this.state.dishes.map((dish)=>{
+  //     return  dish.style==="Arroces"
+  //     console.log(filter)
+  //   })
+  // }
+
   getDishes(){
-    return this.state.dishes.map((dish)=>(
-      <Files
+    return  this.state.dishes.filter((dish)=>
+      (dish.style==="Arroces")&&
+      (dish.rangeprice===1)&&
+        (
+          (dish.name.includes("Mixta"))||
+          (dish.name.includes("Mixta".toLowerCase()))||
+          (dish.name.includes("Mixta".toUpperCase()))
+        )
+        ).map((dish)=>
+        <Files 
         className="file"
         restaurantName={dish.restaurantName}
         name={dish.name}
@@ -26,6 +43,7 @@ class AListView extends Component {
         phone={dish.telephone}
         latitude={dish.latitude}
         longitude={dish.longitude}
+        price={dish.price}
         starState={
           (dish.ranking===1)
             ?process.env.PUBLIC_URL +"./media/star01.svg"
@@ -38,11 +56,9 @@ class AListView extends Component {
                   :(dish.ranking===5)
                     ?process.env.PUBLIC_URL +"./media/star05.svg"
                     :process.env.PUBLIC_URL +"./media/star00.svg"
-        }
-        price={dish.price}
-      />
-    ))
-  }
+                 }/>
+        )
+    }
 
  render() {
     return (
@@ -63,9 +79,6 @@ class AListView extends Component {
   }
 }
 export default AListView;
-
-
-
 
 
 

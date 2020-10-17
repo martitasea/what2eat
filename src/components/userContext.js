@@ -1,9 +1,9 @@
 import React from 'react';
 
-const CategoryContext =React.createContext("default Context")
+const MyContext =React.createContext("default Context")
 
-const CategoryProvider=CategoryContext.Provider
-const CategoryConsumer=CategoryContext.Consumer
+const MyProvider=MyContext.Provider
+const MyConsumer=MyContext.Consumer
 
-export {CategoryProvider, CategoryConsumer}
-export default CategoryContext
+export {MyProvider, MyConsumer}
+export default MyContext

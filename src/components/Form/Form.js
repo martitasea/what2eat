@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {Link} from "react-router-dom";
 import './Form.css';
-import {CategoryConsumer} from '../userContext';
+import {MyConsumer} from '../userContext';
 
 class Form extends Component {
   constructor(props){
@@ -39,7 +39,7 @@ class Form extends Component {
   }
   render() {
     return (
-      <CategoryConsumer>
+      <MyConsumer>
         {(contxt)=>(
            <form
             onSubmit=
@@ -65,6 +65,7 @@ class Form extends Component {
               <div className="question">
               <img className="icon" src={process.env.PUBLIC_URL +"/media/dist.svg"} alt="Address"/>
               <select name="dist" className="box" onChange={this.handleChangeDist}>
+                    <option value="" selected disabled>A qué distancia busco</option>
                     <option value="1">1 km</option>
                     <option value="5">5 km</option>
                     <option value="10">10 km</option>
@@ -79,9 +80,9 @@ class Form extends Component {
                     className="box"
                     type="range"
                     name="price"
-                    placeholder="Dime tu ubicación"
                     min="1"
-                    max="3"/>
+                    max="3"
+                    step="0.5"/>
               </div>
               <footer className="two">
                 <input type="submit" className="button little ghost" value="FILTRAR"/>
@@ -92,83 +93,8 @@ class Form extends Component {
             </form>
           )
         }
-     </CategoryConsumer>
+     </MyConsumer>
     );
   }
 }
   export default Form;
-
-//   render() {
-//     return (
-//       <CategoryConsumer>
-//         {
-//           (contxt)=>{
-//             <form onSubmit=
-//               {  (cat)=>{
-//                 contxt.changeDish(this.state.dish)
-//                 contxt.changeAddress(this.state.address)
-//                 contxt.changeDist(this.state.dist)
-//                 contxt.changePrice(this.state.price)
-//               } }>
-//                 <div className="question">
-//                   <img 
-//                     className="icon"
-//                     src={process.env.PUBLIC_URL +"/media/dish.svg"}
-//                     alt="Dish"/>
-//                   <input
-//                     onChange={this.handleChangeDish}
-//                     className="box"
-//                     type="search"
-//                     name="dish"
-//                     placeholder="Elige un plato"
-//                   />
-//                 </div>
-//                 <div className="question">
-//                   <img 
-//                     className="icon"
-//                     src={process.env.PUBLIC_URL +"/media/map.svg"}
-//                     alt="Address"/>
-//                   <input
-//                     onChange={this.handleChangeAddress}
-//                     className="box"
-//                     type="search"
-//                     name="address"
-//                     placeholder="Dime tu ubicación"/>
-//                 </div>
-//                 <div className="question">
-//                   <img 
-//                     className="icon"
-//                     src={process.env.PUBLIC_URL +"/media/dist.svg"}
-//                     alt="Dist"/>
-//                   <select className="box" name="dist" onChange={this.handleChangeDist}>
-//                     <option value="1">1 km</option>
-//                     <option value="5">5 km</option>
-//                     <option value="10">10 km</option>
-//                     <option value="50">50 km</option>
-//                   </select>
-//                 </div>           
-//                 <div className="price">
-//                   <img 
-//                     className="icon"
-//                     src={process.env.PUBLIC_URL +"/media/euro.svg"}
-//                     alt="Range Price"/>
-//                   <input
-//                     onChange={this.handleChangePrice}
-//                     className="box"
-//                     type="range"
-//                     name="price"
-//                     min="1"
-//                     max="5"
-//                     placeholder="Dime tu ubicación"/>
-//                 </div>               
-//                 <input type="submit" className="button little blue" value="FILTRAR"/>
-//                 <Link to="/listview"> 
-//                   <button className="button little blue" name="VER LISTA">SEGUIR</button>
-//                 </Link>
-//               </form>
-//           }
-//         }
-//       </CategoryConsumer>
-//     );
-//   }
-// }

@@ -30,7 +30,7 @@ img.iconRestaurant{
 }
 img.iconStar{
     width: 95px;
-    margin: 2px;
+    margin-left: 25px;
 }
 div.content div p{
     margin-left: 10px;
@@ -38,6 +38,7 @@ div.content div p{
 img.go{
     width: 65px;
     margin: 5px;
+    margin-top: 60px;
 }
 img.go:hover{
     width: 70px;

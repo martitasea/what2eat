@@ -7,12 +7,12 @@ import AFilter from "./components/AFilter/AFilter";
 import AListView from "./components/AListView/AListView";
 import AMapView from "./components/AMapView/AMapView";
 import AOnBoarding from "./components/AOnBoarding/AOnBoarding";
-import {CategoryProvider} from './components/userContext';
+import {MyProvider} from './components/userContext';
 import './App.css';
 
 function App() {
 
-  const [category, changeCategory] =useState("defaultCategory");
+  const [category, changeCategory] =useState("ELIGE UN TIPO DE PLATO");
   const [dish, changeDish] =useState("defaultDish");
   const [address, changeAddress]=useState("defaultAddress");
   const [dist, changeDist]=useState("defaultDist");
@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div>
-      <CategoryProvider value={{category, changeCategory, dish, changeDish, address, changeAddress, dist, changeDist, range, changeRange, price, changePrice}}>
+      <MyProvider value={{category, changeCategory, dish, changeDish, address, changeAddress, dist, changeDist, range, changeRange, price, changePrice}}>
         <BrowserRouter>
           <Switch>
             <Route exact path="/" component={AFirst}></Route>
@@ -35,7 +35,7 @@ function App() {
             <Route path="/mapview" component={AMapView}></Route>
           </Switch>
         </BrowserRouter>
-      </CategoryProvider>
+      </MyProvider>
     </div>
   );
 }
