@@ -6,6 +6,7 @@ import HeadLittle from '../HeadLittle/HeadLittle';
 import SubHeader from '../SubHeader/SubHeader';
 import data from '../../data/data.js';
 import './AListView.css';
+import { MyConsumer } from '../userContext';
 
 class AListView extends Component {
   constructor(props){
@@ -15,26 +16,21 @@ class AListView extends Component {
       // filter: []
     };
     this.getDishes=this.getDishes.bind(this)
-    // this.getFilter=this.getFilter.bind(this)
   }
-  
-  // getFilter(){
-  //   let filter=this.state.dishes.map((dish)=>{
-  //     return  dish.style==="Arroces"
-  //     console.log(filter)
-  //   })
-  // }
 
-  getDishes(){
+  getDishes(contxt){
+    console.log("Categoria")
+    console.log(contxt.category)
+    console.log("Rango")
+    console.log(contxt.price)
     return  this.state.dishes.filter((dish)=>
-      (dish.style==="Arroces")&&
-      (dish.rangeprice===1)&&
-        (
-          (dish.name.includes("Mixta"))||
-          (dish.name.includes("Mixta".toLowerCase()))||
-          (dish.name.includes("Mixta".toUpperCase()))
-        )
-        ).map((dish)=>
+      (dish.style.toUpperCase()===contxt.category.toUpperCase()&&
+      (dish.rangeprice.toString()===(contxt.price.toString()))&&
+      (
+          (dish.name.includes(contxt.dish))||
+          (dish.name.includes(contxt.dish.toLowerCase()))||
+          (dish.name.includes(contxt.dish.toUpperCase()))
+      ))).map((dish)=>
         <Files 
         className="file"
         restaurantName={dish.restaurantName}
@@ -62,10 +58,16 @@ class AListView extends Component {
 
  render() {
     return (
-      <div>
+      <section>
         <HeadLittle rutaLogo="./media/logo-lit-blue.svg" altLogo="Logo what2eat" rutaMenu="./media/menuHamburguesa.svg" altMenu="Menú"/> 
-        <SubHeader params={this.state.params}/>
-        {this.getDishes()}
+        <SubHeader/>
+        <MyConsumer>
+          {(contxt)=>(
+            <div className="centro">
+              {this.getDishes(contxt)}
+            </div>
+          )}
+        </MyConsumer>
         <footer className="two">
             <Link to="/listview">
           <Button className="little ghost" text="LISTA"/>
@@ -74,7 +76,7 @@ class AListView extends Component {
           <Button className="little blue" text="MAPA"/>
             </Link>
         </footer>
-      </div>
+      </section>
     );
   }
 }

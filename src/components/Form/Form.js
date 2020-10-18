@@ -62,7 +62,7 @@ class Form extends Component {
               <input type="text" className="box" name="address" onChange={this.handleChangeAddress}/>
               </div>
 
-              <div className="question">
+              {/* <div className="question">
               <img className="icon" src={process.env.PUBLIC_URL +"/media/dist.svg"} alt="Address"/>
               <select name="dist" className="box" onChange={this.handleChangeDist}>
                     <option value="" selected disabled>A qué distancia busco</option>
@@ -71,7 +71,7 @@ class Form extends Component {
                     <option value="10">10 km</option>
                     <option value="50">50 km</option>
               </select>
-              </div>
+              </div> */}
 
               <div className="price">
               <img className="icon" src={process.env.PUBLIC_URL +"/media/euro.svg"} alt="Range Price"/>
@@ -82,10 +82,10 @@ class Form extends Component {
                     name="price"
                     min="1"
                     max="3"
-                    step="0.5"/>
+              />
               </div>
               <footer className="two">
-                <input type="submit" className="button little ghost" value="FILTRAR"/>
+                <input type="submit" className="little ghost" value="FILTRAR"/>
                 <Link to="/listview"> 
                   <button className="button little blue" name="VER LISTA">SEGUIR</button>
                 </Link>

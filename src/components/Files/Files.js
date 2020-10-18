@@ -23,35 +23,42 @@ class File extends Component {
 
   render() {
     return (
-      <section className={this.props.className}>
-        <article className="shadow">
-        <div className="content">
-          <div className="ranking">
-            <p className="boldBlue">{this.state.restaurantName}</p>
-            <img className="iconStar" src={this.state.starState} alt="Estrella"/>
+      <section className="shadow file column">
+        <article className="row ranking start">
+          <img className="iconStar" src={this.state.starState} alt="Estrella"/>
+          <div className="row">
+            <img className="iconEuro" src="./media/euro.svg" alt="Precio"/>
+            <img className="iconEuro" src="./media/euro.svg" alt="Precio"/>
+            <img className="iconEuro" src="./media/euro.svg" alt="Precio"/>
+            <p className="boldBlue price">{this.state.price}</p>
           </div>
-          {/* </Link> */}
-          <div className="ranking">
-            <p>{this.state.name}</p>
+        </article>
+
+        <article className="left row">
+          <p className="boldBlue upper left">{this.state.name}</p>       
+        </article>
+
+        <article className="row restaurant">
+          <div className="content">
+            <div className="ranking">
+              <p>{this.state.restaurantName}</p>
+            </div>
+
+            <div className="adress">
+                <img className="iconRestaurant" src="./media/map.svg" alt="Localización"/>
+                <p className="left">{this.state.address}</p>
+            </div>
+
+            <div className="phone">
+              <img className="iconRestaurant" src="./media/phone.svg" alt="Teléfono"/>
+              <p>{this.props.phone}</p>
+            </div>
           </div>
-          <div className="euro">
-            <img className="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
-            <img className="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
-            <img className="iconRestaurant" src="./media/euro.svg" alt="Precio"/>
-            <p>{this.state.price}</p>
+          <div>
+            <Link to="/mapviewpath">
+              <img className="go" src="./media/go.svg" alt="Go to path"/>
+            </Link>
           </div>
-          <div className="adress">
-            <img className="iconRestaurant" src="./media/map.svg" alt="Localización"/>
-            <p>{this.state.address}</p>
-          </div>
-          <div className="phone">
-            <img className="iconRestaurant" src="./media/phone.svg" alt="Teléfono"/>
-            <p>{this.props.phone}</p>
-          </div>
-        </div>
-        <Link to="/mapviewpath">
-          <img className="go" src="./media/go.svg" alt="Go to path"/>
-        </Link>
         </article>
       </section>
     );

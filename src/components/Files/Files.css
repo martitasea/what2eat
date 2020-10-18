@@ -1,44 +1,89 @@
+div.centro{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 section.file{
     padding: 2vh 2vw;
     /* background-color:blue; */
     margin-bottom: 2vh;
     box-shadow: 0px 5px 10px rgba(179,179,179,1);
+    width: 380px;
 }
 article.shadow{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-div.content{
+article.column{
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    /* align-items: center; */
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.center{
+    justify-content:center;;
+}
+.right{
+    justify-content:flex-end;
+}
+.left{
+    justify-content: flex-start;
+    text-align: left;
+}
+.between{
+    justify-content:space-between;
+}
+.around{
+    justify-content:space-around;
+}
+.evenly{
+    justify-content:space-evenly;
 }
 p.boldBlue{
-    font-weight: 500;
+    font-weight: 700;
     color: #0c4261;
+}
+p.price{
+    margin-left: 10px;
+    font-size: 20px;
+}
+p.upper{
+    text-transform: uppercase;
 }
 div.ranking, div.adress, div.phone, div.euro{
     display: flex;
     flex-direction: row;
-    align-items: center;
     margin: 0.5vh 0;
 }
+div.adress{
+    align-items: first-baseline;
+}
 img.iconRestaurant{
+    width: 15px;
+    margin: 2px 10px 2px 2px;
+}
+img.iconEuro{
     width: 15px;
     margin: 2px;
 }
 img.iconStar{
     width: 95px;
-    margin-left: 25px;
+    margin-right: 15px;
 }
-div.content div p{
-    margin-left: 10px;
+.restaurant{
+    margin-top: 1vh;
+}
+div.content{
+    width: 80%;
 }
 img.go{
     width: 65px;
     margin: 5px;
-    margin-top: 60px;
+    margin-top: 20px;
 }
 img.go:hover{
     width: 70px;

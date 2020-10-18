@@ -77,7 +77,7 @@ const dataDishes=[
         "restaurantName": "BAGATELLA",
         "restaurant": 2,
         "address": [
-            "C. Pelayo, 60",
+            "Calle Pelayo, 60",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -94,7 +94,7 @@ const dataDishes=[
         "restaurantName": "BAGATELLA",
         "restaurant": 2,
         "address": [
-            "C. Pelayo, 60",
+            "Calle Pelayo, 60",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -111,7 +111,7 @@ const dataDishes=[
         "restaurantName": "BAGATELLA",
         "restaurant": 2,
         "address": [
-            "C. Pelayo, 60",
+            "Calle Pelayo, 60",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -128,7 +128,7 @@ const dataDishes=[
         "restaurantName": "BAGATELLA",
         "restaurant": 2,
         "address": [
-            "C. Pelayo, 60",
+            "Calle Pelayo, 60",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -145,7 +145,7 @@ const dataDishes=[
         "restaurantName": "BAGATELLA",
         "restaurant": 2,
         "address": [
-            "C. Pelayo, 60",
+            "Calle Pelayo, 60",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -162,7 +162,7 @@ const dataDishes=[
         "restaurantName": "BAGATELLA",
         "restaurant": 2,
         "address": [
-            "C. Pelayo, 60",
+            "Calle Pelayo, 60",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -179,7 +179,7 @@ const dataDishes=[
         "restaurantName": "BAGATELLA",
         "restaurant": 2,
         "address": [
-            "C. Pelayo, 60",
+            "Calle Pelayo, 60",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -196,7 +196,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -213,7 +213,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -230,7 +230,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -247,7 +247,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -264,7 +264,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -281,7 +281,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -298,7 +298,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -315,7 +315,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -332,7 +332,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -349,7 +349,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -366,7 +366,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -383,7 +383,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -400,7 +400,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -417,7 +417,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -434,7 +434,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -451,7 +451,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -468,7 +468,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -485,7 +485,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -502,7 +502,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -519,7 +519,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -536,7 +536,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -553,7 +553,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -570,7 +570,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -587,7 +587,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -604,7 +604,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -621,7 +621,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -638,7 +638,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -655,7 +655,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -672,7 +672,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -689,7 +689,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -706,7 +706,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -723,7 +723,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -740,7 +740,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -757,7 +757,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -774,7 +774,7 @@ const dataDishes=[
         "restaurantName": "BAZAAR",
         "restaurant": 3,
         "address": [
-            "C. Libertad, 21",
+            "Calle Libertad, 21",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -791,7 +791,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -808,7 +808,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -825,7 +825,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -842,7 +842,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -859,7 +859,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -876,7 +876,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -893,7 +893,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -910,7 +910,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -927,7 +927,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -944,7 +944,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -961,7 +961,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -978,7 +978,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -995,7 +995,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1012,7 +1012,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1029,7 +1029,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1046,7 +1046,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1063,7 +1063,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1080,7 +1080,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1097,7 +1097,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1114,7 +1114,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1131,7 +1131,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1148,7 +1148,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1165,7 +1165,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1182,7 +1182,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1199,7 +1199,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1216,7 +1216,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1233,7 +1233,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1250,7 +1250,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1267,7 +1267,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1284,7 +1284,7 @@ const dataDishes=[
         "restaurantName": "BOHO BAR",
         "restaurant": 4,
         "address": [
-            "C. Colmenares, 13 (C. San Marcos)",
+            "Calle Colmenares, 13 (C. San Marcos)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1301,7 +1301,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1318,7 +1318,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1335,7 +1335,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1352,7 +1352,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1369,7 +1369,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1386,7 +1386,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1403,7 +1403,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1420,7 +1420,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1437,7 +1437,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1454,7 +1454,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1471,7 +1471,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1488,7 +1488,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1505,7 +1505,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1522,7 +1522,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1539,7 +1539,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1556,7 +1556,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1573,7 +1573,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1590,7 +1590,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1607,7 +1607,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1624,7 +1624,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1641,7 +1641,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1658,7 +1658,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1675,7 +1675,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1692,7 +1692,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1709,7 +1709,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1726,7 +1726,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1743,7 +1743,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1760,7 +1760,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1777,7 +1777,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1794,7 +1794,7 @@ const dataDishes=[
         "restaurantName": "BOSCO DE LOBOS",
         "restaurant": 5,
         "address": [
-            "C. Hortaleza, 63 (C. Farmacia)",
+            "Calle Hortaleza, 63 (C. Farmacia)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1964,7 +1964,7 @@ const dataDishes=[
         "restaurantName": "FOOD TRUCK",
         "restaurant": 7,
         "address": [
-            "C. San Lucas, 11",
+            "Calle San Lucas, 11",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1981,7 +1981,7 @@ const dataDishes=[
         "restaurantName": "FOOD TRUCK",
         "restaurant": 7,
         "address": [
-            "C. San Lucas, 11",
+            "Calle San Lucas, 11",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -1998,7 +1998,7 @@ const dataDishes=[
         "restaurantName": "FOOD TRUCK",
         "restaurant": 7,
         "address": [
-            "C. San Lucas, 11",
+            "Calle San Lucas, 11",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -2015,7 +2015,7 @@ const dataDishes=[
         "restaurantName": "FOOD TRUCK",
         "restaurant": 7,
         "address": [
-            "C. San Lucas, 11",
+            "Calle San Lucas, 11",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -2032,7 +2032,7 @@ const dataDishes=[
         "restaurantName": "FOOD TRUCK",
         "restaurant": 7,
         "address": [
-            "C. San Lucas, 11",
+            "Calle San Lucas, 11",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -2049,7 +2049,7 @@ const dataDishes=[
         "restaurantName": "FOOD TRUCK",
         "restaurant": 7,
         "address": [
-            "C. San Lucas, 11",
+            "Calle San Lucas, 11",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -2066,7 +2066,7 @@ const dataDishes=[
         "restaurantName": "FOOD TRUCK",
         "restaurant": 7,
         "address": [
-            "C. San Lucas, 11",
+            "Calle San Lucas, 11",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -2083,7 +2083,7 @@ const dataDishes=[
         "restaurantName": "FOOD TRUCK",
         "restaurant": 7,
         "address": [
-            "C. San Lucas, 11",
+            "Calle San Lucas, 11",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -3902,7 +3902,7 @@ const dataDishes=[
         "restaurantName": "LA CARMENCITA",
         "restaurant": 13,
         "address": [
-            "C. de la Libertad, 16",
+            "Calle de la Libertad, 16",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -3919,7 +3919,7 @@ const dataDishes=[
         "restaurantName": "LA CARMENCITA",
         "restaurant": 13,
         "address": [
-            "C. de la Libertad, 16",
+            "Calle de la Libertad, 16",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -3936,7 +3936,7 @@ const dataDishes=[
         "restaurantName": "LA CARMENCITA",
         "restaurant": 13,
         "address": [
-            "C. de la Libertad, 16",
+            "Calle de la Libertad, 16",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -3953,7 +3953,7 @@ const dataDishes=[
         "restaurantName": "LA CARMENCITA",
         "restaurant": 13,
         "address": [
-            "C. de la Libertad, 16",
+            "Calle de la Libertad, 16",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -3970,7 +3970,7 @@ const dataDishes=[
         "restaurantName": "LA CARMENCITA",
         "restaurant": 13,
         "address": [
-            "C. de la Libertad, 16",
+            "Calle de la Libertad, 16",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -3987,7 +3987,7 @@ const dataDishes=[
         "restaurantName": "LA CARMENCITA",
         "restaurant": 13,
         "address": [
-            "C. de la Libertad, 16",
+            "Calle de la Libertad, 16",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4004,7 +4004,7 @@ const dataDishes=[
         "restaurantName": "LA CARMENCITA",
         "restaurant": 13,
         "address": [
-            "C. de la Libertad, 16",
+            "Calle de la Libertad, 16",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4021,7 +4021,7 @@ const dataDishes=[
         "restaurantName": "LA CARMENCITA",
         "restaurant": 13,
         "address": [
-            "C. de la Libertad, 16",
+            "Calle de la Libertad, 16",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4038,7 +4038,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4055,7 +4055,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4072,7 +4072,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4089,7 +4089,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4106,7 +4106,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4123,7 +4123,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4140,7 +4140,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4157,7 +4157,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4174,7 +4174,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4191,7 +4191,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4208,7 +4208,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4225,7 +4225,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4242,7 +4242,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4259,7 +4259,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4276,7 +4276,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4293,7 +4293,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4310,7 +4310,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4327,7 +4327,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4344,7 +4344,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4361,7 +4361,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4378,7 +4378,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4395,7 +4395,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4412,7 +4412,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4429,7 +4429,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4446,7 +4446,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4463,7 +4463,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4480,7 +4480,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4497,7 +4497,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4514,7 +4514,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -4531,7 +4531,7 @@ const dataDishes=[
         "restaurantName": "LA TRASTIENDA",
         "restaurant": 14,
         "address": [
-            "C. Augusto Figueroa, 24",
+            "Calle Augusto Figueroa, 24",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5354,7 +5354,7 @@ const dataDishes=[
         "restaurantName": "RESTAURANTE ARCE",
         "restaurant": 18,
         "address": [
-            "C. Augusto Figueroa, 32",
+            "Calle Augusto Figueroa, 32",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5371,7 +5371,7 @@ const dataDishes=[
         "restaurantName": "RESTAURANTE ARCE",
         "restaurant": 18,
         "address": [
-            "C. Augusto Figueroa, 32",
+            "Calle Augusto Figueroa, 32",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5388,7 +5388,7 @@ const dataDishes=[
         "restaurantName": "RESTAURANTE ARCE",
         "restaurant": 18,
         "address": [
-            "C. Augusto Figueroa, 32",
+            "Calle Augusto Figueroa, 32",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5405,7 +5405,7 @@ const dataDishes=[
         "restaurantName": "RESTAURANTE ARCE",
         "restaurant": 18,
         "address": [
-            "C. Augusto Figueroa, 32",
+            "Calle Augusto Figueroa, 32",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5422,7 +5422,7 @@ const dataDishes=[
         "restaurantName": "RESTAURANTE ARCE",
         "restaurant": 18,
         "address": [
-            "C. Augusto Figueroa, 32",
+            "Calle Augusto Figueroa, 32",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5439,7 +5439,7 @@ const dataDishes=[
         "restaurantName": "RESTAURANTE ARCE",
         "restaurant": 18,
         "address": [
-            "C. Augusto Figueroa, 32",
+            "Calle Augusto Figueroa, 32",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5456,7 +5456,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5473,7 +5473,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5490,7 +5490,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5507,7 +5507,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5524,7 +5524,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5541,7 +5541,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5558,7 +5558,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5575,7 +5575,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5592,7 +5592,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5609,7 +5609,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5626,7 +5626,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5643,7 +5643,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5660,7 +5660,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5677,7 +5677,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5694,7 +5694,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5711,7 +5711,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5728,7 +5728,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5745,7 +5745,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5762,7 +5762,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5779,7 +5779,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5796,7 +5796,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5813,7 +5813,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5830,7 +5830,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5847,7 +5847,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5864,7 +5864,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5881,7 +5881,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5898,7 +5898,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5915,7 +5915,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5932,7 +5932,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5949,7 +5949,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5966,7 +5966,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5983,7 +5983,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6000,7 +6000,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6017,7 +6017,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6034,7 +6034,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6051,7 +6051,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6068,7 +6068,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6085,7 +6085,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6102,7 +6102,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6119,7 +6119,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6136,7 +6136,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6153,7 +6153,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6170,7 +6170,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6187,7 +6187,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6204,7 +6204,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6221,7 +6221,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6238,7 +6238,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6255,7 +6255,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6272,7 +6272,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6289,7 +6289,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6306,7 +6306,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6323,7 +6323,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6340,7 +6340,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6357,7 +6357,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6374,7 +6374,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6391,7 +6391,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6408,7 +6408,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6425,7 +6425,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6442,7 +6442,7 @@ const dataDishes=[
         "restaurantName": "ROOSTIQ",
         "restaurant": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6459,7 +6459,7 @@ const dataDishes=[
         "restaurantName": "SAN WICH",
         "restaurant": 20,
         "address": [
-            "C. Hortaleza, 78",
+            "Calle Hortaleza, 78",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6476,7 +6476,7 @@ const dataDishes=[
         "restaurantName": "SAN WICH",
         "restaurant": 20,
         "address": [
-            "C. Hortaleza, 78",
+            "Calle Hortaleza, 78",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6493,7 +6493,7 @@ const dataDishes=[
         "restaurantName": "SAN WICH",
         "restaurant": 20,
         "address": [
-            "C. Hortaleza, 78",
+            "Calle Hortaleza, 78",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6510,7 +6510,7 @@ const dataDishes=[
         "restaurantName": "SAN WICH",
         "restaurant": 20,
         "address": [
-            "C. Hortaleza, 78",
+            "Calle Hortaleza, 78",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6527,7 +6527,7 @@ const dataDishes=[
         "restaurantName": "SAN WICH",
         "restaurant": 20,
         "address": [
-            "C. Hortaleza, 78",
+            "Calle Hortaleza, 78",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6544,7 +6544,7 @@ const dataDishes=[
         "restaurantName": "SAN WICH",
         "restaurant": 20,
         "address": [
-            "C. Hortaleza, 78",
+            "Calle Hortaleza, 78",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6561,7 +6561,7 @@ const dataDishes=[
         "restaurantName": "SAN WICH",
         "restaurant": 20,
         "address": [
-            "C. Hortaleza, 78",
+            "Calle Hortaleza, 78",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6578,7 +6578,7 @@ const dataDishes=[
         "restaurantName": "SAN WICH",
         "restaurant": 20,
         "address": [
-            "C. Hortaleza, 78",
+            "Calle Hortaleza, 78",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6595,7 +6595,7 @@ const dataDishes=[
         "restaurantName": "SAN WICH",
         "restaurant": 20,
         "address": [
-            "C. Hortaleza, 78",
+            "Calle Hortaleza, 78",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7309,7 +7309,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7326,7 +7326,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7343,7 +7343,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7360,7 +7360,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7377,7 +7377,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7394,7 +7394,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7411,7 +7411,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7428,7 +7428,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7445,7 +7445,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7462,7 +7462,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7479,7 +7479,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7496,7 +7496,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7513,7 +7513,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7530,7 +7530,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7547,7 +7547,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7564,7 +7564,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7581,7 +7581,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7598,7 +7598,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7615,7 +7615,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7632,7 +7632,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7649,7 +7649,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7666,7 +7666,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7683,7 +7683,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7700,7 +7700,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7717,7 +7717,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7734,7 +7734,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7751,7 +7751,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7768,7 +7768,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7785,7 +7785,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7802,7 +7802,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7819,7 +7819,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7836,7 +7836,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7853,7 +7853,7 @@ const dataDishes=[
         "restaurantName": "TABERNA EL BUO",
         "restaurant": 22,
         "address": [
-            "C. Gravina, 4 (C. Pelayo)",
+            "Calle Gravina, 4 (C. Pelayo)",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7870,7 +7870,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7887,7 +7887,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7904,7 +7904,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7921,7 +7921,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7938,7 +7938,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7955,7 +7955,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7972,7 +7972,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -7989,7 +7989,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8006,7 +8006,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8023,7 +8023,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8040,7 +8040,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8057,7 +8057,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8074,7 +8074,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8091,7 +8091,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8108,7 +8108,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8125,7 +8125,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8142,7 +8142,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8159,7 +8159,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8176,7 +8176,7 @@ const dataDishes=[
         "restaurantName": "TEPIC",
         "restaurant": 23,
         "address": [
-            "C. Pelayo, 4",
+            "Calle Pelayo, 4",
             "Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8193,7 +8193,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8210,7 +8210,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8227,7 +8227,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8244,7 +8244,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8261,7 +8261,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8278,7 +8278,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8295,7 +8295,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8312,7 +8312,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8329,7 +8329,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8346,7 +8346,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8363,7 +8363,7 @@ const dataDishes=[
         "restaurantName": "LE COCÓ",
         "restaurant": 24,
         "address": [
-            "C. Barbieri, 15",
+            "Calle Barbieri, 15",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8380,7 +8380,7 @@ const dataDishes=[
         "restaurantName": "TUK TUK",
         "restaurant": 25,
         "address": [
-            "C. Barquillo, 24",
+            "Calle Barquillo, 24",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8397,7 +8397,7 @@ const dataDishes=[
         "restaurantName": "TUK TUK",
         "restaurant": 25,
         "address": [
-            "C. Barquillo, 24",
+            "Calle Barquillo, 24",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8414,7 +8414,7 @@ const dataDishes=[
         "restaurantName": "TUK TUK",
         "restaurant": 25,
         "address": [
-            "C. Barquillo, 24",
+            "Calle Barquillo, 24",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8431,7 +8431,7 @@ const dataDishes=[
         "restaurantName": "TUK TUK",
         "restaurant": 25,
         "address": [
-            "C. Barquillo, 24",
+            "Calle Barquillo, 24",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8448,7 +8448,7 @@ const dataDishes=[
         "restaurantName": "TUK TUK",
         "restaurant": 25,
         "address": [
-            "C. Barquillo, 24",
+            "Calle Barquillo, 24",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8465,7 +8465,7 @@ const dataDishes=[
         "restaurantName": "TUK TUK",
         "restaurant": 25,
         "address": [
-            "C. Barquillo, 24",
+            "Calle Barquillo, 24",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8482,7 +8482,7 @@ const dataDishes=[
         "restaurantName": "TUK TUK",
         "restaurant": 25,
         "address": [
-            "C. Barquillo, 24",
+            "Calle Barquillo, 24",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8499,7 +8499,7 @@ const dataDishes=[
         "restaurantName": "TUK TUK",
         "restaurant": 25,
         "address": [
-            "C. Barquillo, 24",
+            "Calle Barquillo, 24",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8516,7 +8516,7 @@ const dataDishes=[
         "restaurantName": "TUK TUK",
         "restaurant": 25,
         "address": [
-            "C. Barquillo, 24",
+            "Calle Barquillo, 24",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -8525,4 +8525,9 @@ const dataDishes=[
         "telephone": 91168410
     }
 ]
+
+// const dataDishes=data.map((dish)=>{
+//     return dish.name.toUpperCase()
+// }
+//     )
 export default dataDishes

@@ -33,12 +33,14 @@ class AOnBoarding extends Component {
     return (
       <div>
         <main className="center">
-        <p className={this.state.classP}>{this.state.text}</p>
+        <p className="grey">{this.state.text}</p>
         <img className="onboarding" src={this.state.src} alt={this.state.alt}/>
         </main>
         <footer className="two">
           <Link to="/categoryMenu">
             <button className="little ghost">SALTAR</button>
+          </Link>
+          <Link to="/categoryMenu">
             <button onClick={this.change} className="little blue">{this.state.button}</button>
           </Link>
         </footer>
