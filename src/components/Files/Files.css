@@ -43,6 +43,10 @@ article.column{
 .evenly{
     justify-content:space-evenly;
 }
+.base{
+    align-items:center;
+    margin-bottom: 5px;
+}
 p.boldBlue{
     font-weight: 700;
     color: #0c4261;
@@ -71,7 +75,7 @@ img.iconEuro{
     margin: 2px;
 }
 img.iconStar{
-    width: 95px;
+    height: 18px;
     margin-right: 15px;
 }
 .restaurant{

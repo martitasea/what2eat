@@ -13,13 +13,13 @@ class HeadLittle extends Component {
   render() {
     return (
       <header>
-        <Link to="/">
+        {/* <Link to="/">
           <img 
             className="menu"
-            src={process.env.PUBLIC_URL +"/media/menuHamburguesa.svg" }
+            src={process.env.PUBLIC_URL +"/media/home-circle.svg" }
             alt="Logo What2Eat"/>
-        </Link>
-        <Link to="/categorymenu">
+        </Link> */}
+        <Link to="/">
           <img 
             className="logoLittle"
             src={process.env.PUBLIC_URL +" /media/logo-lit-blue.svg" }

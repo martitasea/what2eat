@@ -6,8 +6,9 @@ import { MyConsumer } from '../userContext';
 class SubHeader extends Component {
   render() {
     return (
-      <Link to="/categorymenu">
-        <section className="moreCat">
+      <section className="moreCat">
+        <Link to="/categorymenu">
+          <div className="row base">
           <img className="iconPlus" src={process.env.PUBLIC_URL +"/media/plus-circle.svg"} alt=""/>
           <MyConsumer>
             {
@@ -15,6 +16,7 @@ class SubHeader extends Component {
                 return (
                   <div>
                     <p className="pPlus">{contxt.category}</p>
+                    
                     {/* <p className="pPlus">{contxt.dish}</p>
                     <p className="pPlus">{contxt.address}</p>
                     <p className="pPlus">{contxt.dist}</p>
@@ -24,8 +26,12 @@ class SubHeader extends Component {
               }
             }
           </MyConsumer>
-        </section>
+          </div>
       </Link>
+      <Link to="/filter">
+          <img src={process.env.PUBLIC_URL +"./media/filter.svg"} alt="Filtro" className="filter"/>
+      </Link>
+        </section>
     )
   }
 }

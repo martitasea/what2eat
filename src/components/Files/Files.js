@@ -16,6 +16,7 @@ class File extends Component {
       ranking: this.props.ranking,
       restaurants: data,
       starState: this.props.starState,
+      euroState: this.props.euroState,
       price: this.props.price+" €",
     };
   }
@@ -24,14 +25,11 @@ class File extends Component {
   render() {
     return (
       <section className="shadow file column">
-        <article className="row ranking start">
+        <article className="row base">
           <img className="iconStar" src={this.state.starState} alt="Estrella"/>
-          <div className="row">
-            <img className="iconEuro" src="./media/euro.svg" alt="Precio"/>
-            <img className="iconEuro" src="./media/euro.svg" alt="Precio"/>
-            <img className="iconEuro" src="./media/euro.svg" alt="Precio"/>
-            <p className="boldBlue price">{this.state.price}</p>
-          </div>
+          <img className="iconStar" src={this.state.euroState} alt="Precio"/>
+          <p className="boldBlue price">{this.state.price}</p>
+          
         </article>
 
         <article className="left row">

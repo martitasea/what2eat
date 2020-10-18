@@ -30,7 +30,7 @@ function App() {
             {/* <Route path="/onBoarding02" component={AOnBoarding}></Route>
             <Route path="/onBoarding03" component={AOnBoarding}></Route> */}
             <Route path="/categorymenu" component={ACatMenu}></Route>
-            <Route path="/filter/:cat" component={AFilter} ></Route>
+            <Route path="/filter" component={AFilter} ></Route>
             <Route path="/listview" component={AListView}></Route>
             <Route path="/mapview" component={AMapView}></Route>
           </Switch>

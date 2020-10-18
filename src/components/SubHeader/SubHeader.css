@@ -1,6 +1,6 @@
 section.moreCat{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     /* background-color: #e0e0e0; */
     padding-top: 3vh;
@@ -14,4 +14,7 @@ p.pPlus{
     margin-left:2vh;
     font-weight: bolder;
     color: #0c4261;
+}
+img.filter{
+    margin-bottom:5px;
 }

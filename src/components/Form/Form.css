@@ -27,7 +27,11 @@ div.button{
 }
 img.icon{
     width: 25px;
-    margin-right: 10px;
+    margin-right: -5px;
+}
+img.iconDist{
+    width: 25px;
+    margin-right: 15px;
 }
 img.none{
     display:none;

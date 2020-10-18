@@ -19,10 +19,7 @@ class AListView extends Component {
   }
 
   getDishes(contxt){
-    console.log("Categoria")
-    console.log(contxt.category)
-    console.log("Rango")
-    console.log(contxt.price)
+    console.log(this.state.dishes)
     return  this.state.dishes.filter((dish)=>
       (dish.style.toUpperCase()===contxt.category.toUpperCase()&&
       (dish.rangeprice.toString()===(contxt.price.toString()))&&
@@ -40,6 +37,13 @@ class AListView extends Component {
         latitude={dish.latitude}
         longitude={dish.longitude}
         price={dish.price}
+        euroState={
+          (dish.rangeprice===1)
+            ?process.env.PUBLIC_URL +"./media/euro01.svg"
+            :(dish.rangeprice===2)
+              ?process.env.PUBLIC_URL +"./media/euro02.svg"
+              :process.env.PUBLIC_URL +"./media/euro03.svg"
+        }
         starState={
           (dish.ranking===1)
             ?process.env.PUBLIC_URL +"./media/star01.svg"
