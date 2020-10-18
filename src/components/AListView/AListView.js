@@ -13,7 +13,6 @@ class AListView extends Component {
     super(props);
     this.state = {
       dishes: data
-      // filter: []
     };
     this.getDishes=this.getDishes.bind(this)
   }
@@ -21,15 +20,16 @@ class AListView extends Component {
   getDishes(contxt){
     console.log(this.state.dishes)
     return  this.state.dishes.filter((dish)=>
-      (dish.style.toUpperCase()===contxt.category.toUpperCase()&&
-      (dish.rangeprice.toString()===(contxt.price.toString()))&&
+      (
+          dish.style.toUpperCase()===contxt.category.toUpperCase()&&
+          (dish.rangeprice.toString()===(contxt.price.toString()))&&
       (
           (dish.name.includes(contxt.dish))||
           (dish.name.includes(contxt.dish.toLowerCase()))||
           (dish.name.includes(contxt.dish.toUpperCase()))
       ))).map((dish)=>
         <Files 
-        className="file"
+        className="shadow file column"
         restaurantName={dish.restaurantName}
         name={dish.name}
         address={dish.address[0]}

@@ -66,10 +66,10 @@ class Form extends Component {
               <img className="iconDist" src={process.env.PUBLIC_URL +"/media/dist.svg"} alt="Address"/>
               <select name="dist" className="box" onChange={this.handleChangeDist}>
                     <option value="" selected disabled>A qué distancia busco</option>
-                    <option value="1">1 km</option>
-                    <option value="5">5 km</option>
-                    <option value="10">10 km</option>
-                    <option value="50">50 km</option>
+                    <option value="1000">1 km</option>
+                    <option value="5000">5 km</option>
+                    <option value="10000">10 km</option>
+                    <option value="50000">50 km</option>
               </select>
               </div>
 

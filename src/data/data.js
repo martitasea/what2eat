@@ -5,7 +5,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "7 Delicatessen",
+        "restaurantName": "7 Delicatessen",
         "restaurantsID": 0,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -22,7 +22,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "7 Delicatessen",
+        "restaurantName": "7 Delicatessen",
         "restaurantsID": 0,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -39,7 +39,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "7 Delicatessen",
+        "restaurantName": "7 Delicatessen",
         "restaurantsID": 0,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -56,7 +56,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "7 Delicatessen",
+        "restaurantName": "7 Delicatessen",
         "restaurantsID": 0,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -73,7 +73,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "7 Delicatessen",
+        "restaurantName": "7 Delicatessen",
         "restaurantsID": 0,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -90,7 +90,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "7 Delicatessen",
+        "restaurantName": "7 Delicatessen",
         "restaurantsID": 0,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -107,7 +107,7 @@ const dataDishes=[
         "price": 5.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "7 Delicatessen",
+        "restaurantName": "7 Delicatessen",
         "restaurantsID": 0,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -124,7 +124,7 @@ const dataDishes=[
         "price": 3.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "7 Delicatessen",
+        "restaurantName": "7 Delicatessen",
         "restaurantsID": 0,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -141,7 +141,7 @@ const dataDishes=[
         "price": 3.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "7 Delicatessen",
+        "restaurantName": "7 Delicatessen",
         "restaurantsID": 0,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -158,7 +158,7 @@ const dataDishes=[
         "price": 5.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Aloha Pok\u00e9",
+        "restaurantName": "Aloha Pok\u00e9",
         "restaurantsID": 1,
         "address": [
             "Calle de la Libertad 17",
@@ -175,7 +175,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Aloha Pok\u00e9",
+        "restaurantName": "Aloha Pok\u00e9",
         "restaurantsID": 1,
         "address": [
             "Calle de la Libertad 17",
@@ -192,7 +192,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Aloha Pok\u00e9",
+        "restaurantName": "Aloha Pok\u00e9",
         "restaurantsID": 1,
         "address": [
             "Calle de la Libertad 17",
@@ -209,7 +209,7 @@ const dataDishes=[
         "price": 3.9,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Aloha Pok\u00e9",
+        "restaurantName": "Aloha Pok\u00e9",
         "restaurantsID": 1,
         "address": [
             "Calle de la Libertad 17",
@@ -226,7 +226,7 @@ const dataDishes=[
         "price": 3.9,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Aloha Pok\u00e9",
+        "restaurantName": "Aloha Pok\u00e9",
         "restaurantsID": 1,
         "address": [
             "Calle de la Libertad 17",
@@ -243,7 +243,7 @@ const dataDishes=[
         "price": 3.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Aloha Pok\u00e9",
+        "restaurantName": "Aloha Pok\u00e9",
         "restaurantsID": 1,
         "address": [
             "Calle de la Libertad 17",
@@ -260,7 +260,7 @@ const dataDishes=[
         "price": 9.8,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bagatella",
+        "restaurantName": "Bagatella",
         "restaurantsID": 2,
         "address": [
             "Calle Pelayo, 60",
@@ -277,7 +277,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bagatella",
+        "restaurantName": "Bagatella",
         "restaurantsID": 2,
         "address": [
             "Calle Pelayo, 60",
@@ -294,7 +294,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bagatella",
+        "restaurantName": "Bagatella",
         "restaurantsID": 2,
         "address": [
             "Calle Pelayo, 60",
@@ -311,7 +311,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bagatella",
+        "restaurantName": "Bagatella",
         "restaurantsID": 2,
         "address": [
             "Calle Pelayo, 60",
@@ -328,7 +328,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bagatella",
+        "restaurantName": "Bagatella",
         "restaurantsID": 2,
         "address": [
             "Calle Pelayo, 60",
@@ -345,7 +345,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bagatella",
+        "restaurantName": "Bagatella",
         "restaurantsID": 2,
         "address": [
             "Calle Pelayo, 60",
@@ -362,7 +362,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bagatella",
+        "restaurantName": "Bagatella",
         "restaurantsID": 2,
         "address": [
             "Calle Pelayo, 60",
@@ -379,7 +379,7 @@ const dataDishes=[
         "price": 4.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bagatella",
+        "restaurantName": "Bagatella",
         "restaurantsID": 2,
         "address": [
             "Calle Pelayo, 60",
@@ -396,7 +396,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bagatella",
+        "restaurantName": "Bagatella",
         "restaurantsID": 2,
         "address": [
             "Calle Pelayo, 60",
@@ -413,7 +413,7 @@ const dataDishes=[
         "price": 5.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -430,7 +430,7 @@ const dataDishes=[
         "price": 7.95,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -447,7 +447,7 @@ const dataDishes=[
         "price": 6.95,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -464,7 +464,7 @@ const dataDishes=[
         "price": 7.75,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -481,7 +481,7 @@ const dataDishes=[
         "price": 8.45,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -498,7 +498,7 @@ const dataDishes=[
         "price": 9.95,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -515,7 +515,7 @@ const dataDishes=[
         "price": 7.95,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -532,7 +532,7 @@ const dataDishes=[
         "price": 8.05,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -549,7 +549,7 @@ const dataDishes=[
         "price": 8.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -566,7 +566,7 @@ const dataDishes=[
         "price": 8.95,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -583,7 +583,7 @@ const dataDishes=[
         "price": 8.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -600,7 +600,7 @@ const dataDishes=[
         "price": 8.95,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -617,7 +617,7 @@ const dataDishes=[
         "price": 7.85,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -634,7 +634,7 @@ const dataDishes=[
         "price": 9.85,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -651,7 +651,7 @@ const dataDishes=[
         "price": 8.85,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -668,7 +668,7 @@ const dataDishes=[
         "price": 8.3,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -685,7 +685,7 @@ const dataDishes=[
         "price": 9.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -702,7 +702,7 @@ const dataDishes=[
         "price": 10.6,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -719,7 +719,7 @@ const dataDishes=[
         "price": 11.15,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -736,7 +736,7 @@ const dataDishes=[
         "price": 11.6,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -753,7 +753,7 @@ const dataDishes=[
         "price": 11.85,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -770,7 +770,7 @@ const dataDishes=[
         "price": 12.65,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -787,7 +787,7 @@ const dataDishes=[
         "price": 11.85,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -804,7 +804,7 @@ const dataDishes=[
         "price": 12.9,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -821,7 +821,7 @@ const dataDishes=[
         "price": 12.85,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -838,7 +838,7 @@ const dataDishes=[
         "price": 4.75,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -855,7 +855,7 @@ const dataDishes=[
         "price": 4.9,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -872,7 +872,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -889,7 +889,7 @@ const dataDishes=[
         "price": 4.6,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -906,7 +906,7 @@ const dataDishes=[
         "price": 4.95,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -923,7 +923,7 @@ const dataDishes=[
         "price": 5.35,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -940,7 +940,7 @@ const dataDishes=[
         "price": 5.1,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -957,7 +957,7 @@ const dataDishes=[
         "price": 5.25,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -974,7 +974,7 @@ const dataDishes=[
         "price": 5.35,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -991,7 +991,7 @@ const dataDishes=[
         "price": 5.2,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bazaar",
+        "restaurantName": "Bazaar",
         "restaurantsID": 3,
         "address": [
             "Calle Libertad, 21",
@@ -1008,7 +1008,7 @@ const dataDishes=[
         "price": 5.2,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1025,7 +1025,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1042,7 +1042,7 @@ const dataDishes=[
         "price": 9.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1059,7 +1059,7 @@ const dataDishes=[
         "price": 12.5,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1076,7 +1076,7 @@ const dataDishes=[
         "price": 10.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1093,7 +1093,7 @@ const dataDishes=[
         "price": 12.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1110,7 +1110,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1127,7 +1127,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1144,7 +1144,7 @@ const dataDishes=[
         "price": 14.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1161,7 +1161,7 @@ const dataDishes=[
         "price": 12.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1178,7 +1178,7 @@ const dataDishes=[
         "price": 12.9,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1195,7 +1195,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1212,7 +1212,7 @@ const dataDishes=[
         "price": 15.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1229,7 +1229,7 @@ const dataDishes=[
         "price": 14.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1246,7 +1246,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1263,7 +1263,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1280,7 +1280,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1297,7 +1297,7 @@ const dataDishes=[
         "price": 12.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1314,7 +1314,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1331,7 +1331,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1348,7 +1348,7 @@ const dataDishes=[
         "price": 15.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1365,7 +1365,7 @@ const dataDishes=[
         "price": 13.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1382,7 +1382,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1399,7 +1399,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1416,7 +1416,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1433,7 +1433,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1450,7 +1450,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1467,7 +1467,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1484,7 +1484,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1501,7 +1501,7 @@ const dataDishes=[
         "price": 5.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Boho Bar",
+        "restaurantName": "Boho Bar",
         "restaurantsID": 4,
         "address": [
             "Calle Colmenares, 13 (C. San Marcos)",
@@ -1518,7 +1518,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1535,7 +1535,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1552,7 +1552,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1569,7 +1569,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1586,7 +1586,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1603,7 +1603,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1620,7 +1620,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1637,7 +1637,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1654,7 +1654,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1671,7 +1671,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1688,7 +1688,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1705,7 +1705,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1722,7 +1722,7 @@ const dataDishes=[
         "price": 13.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1739,7 +1739,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1756,7 +1756,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1773,7 +1773,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1790,7 +1790,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1807,7 +1807,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1824,7 +1824,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1841,7 +1841,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1858,7 +1858,7 @@ const dataDishes=[
         "price": 13.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1875,7 +1875,7 @@ const dataDishes=[
         "price": 13.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1892,7 +1892,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1909,7 +1909,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1926,7 +1926,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1943,7 +1943,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1960,7 +1960,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1977,7 +1977,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -1994,7 +1994,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -2011,7 +2011,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Bosco de Lobos",
+        "restaurantName": "Bosco de Lobos",
         "restaurantsID": 5,
         "address": [
             "Calle Hortaleza, 63 (C. Farmacia)",
@@ -2028,7 +2028,7 @@ const dataDishes=[
         "price": 8.15,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Dionisos",
+        "restaurantName": "Dionisos",
         "restaurantsID": 6,
         "address": [
             "Augusto Figueroa 8",
@@ -2045,7 +2045,7 @@ const dataDishes=[
         "price": 8.91,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Dionisos",
+        "restaurantName": "Dionisos",
         "restaurantsID": 6,
         "address": [
             "Augusto Figueroa 8",
@@ -2062,7 +2062,7 @@ const dataDishes=[
         "price": 7.83,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Dionisos",
+        "restaurantName": "Dionisos",
         "restaurantsID": 6,
         "address": [
             "Augusto Figueroa 8",
@@ -2079,7 +2079,7 @@ const dataDishes=[
         "price": 9.72,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Dionisos",
+        "restaurantName": "Dionisos",
         "restaurantsID": 6,
         "address": [
             "Augusto Figueroa 8",
@@ -2096,7 +2096,7 @@ const dataDishes=[
         "price": 13.6,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Dionisos",
+        "restaurantName": "Dionisos",
         "restaurantsID": 6,
         "address": [
             "Augusto Figueroa 8",
@@ -2113,7 +2113,7 @@ const dataDishes=[
         "price": 12.9,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Dionisos",
+        "restaurantName": "Dionisos",
         "restaurantsID": 6,
         "address": [
             "Augusto Figueroa 8",
@@ -2130,7 +2130,7 @@ const dataDishes=[
         "price": 3.78,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Dionisos",
+        "restaurantName": "Dionisos",
         "restaurantsID": 6,
         "address": [
             "Augusto Figueroa 8",
@@ -2147,7 +2147,7 @@ const dataDishes=[
         "price": 4.43,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Dionisos",
+        "restaurantName": "Dionisos",
         "restaurantsID": 6,
         "address": [
             "Augusto Figueroa 8",
@@ -2164,7 +2164,7 @@ const dataDishes=[
         "price": 4.32,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Dionisos",
+        "restaurantName": "Dionisos",
         "restaurantsID": 6,
         "address": [
             "Augusto Figueroa 8",
@@ -2181,7 +2181,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Food Truck",
+        "restaurantName": "Food Truck",
         "restaurantsID": 7,
         "address": [
             "Calle San Lucas, 11",
@@ -2198,7 +2198,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Food Truck",
+        "restaurantName": "Food Truck",
         "restaurantsID": 7,
         "address": [
             "Calle San Lucas, 11",
@@ -2215,7 +2215,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Food Truck",
+        "restaurantName": "Food Truck",
         "restaurantsID": 7,
         "address": [
             "Calle San Lucas, 11",
@@ -2232,7 +2232,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Food Truck",
+        "restaurantName": "Food Truck",
         "restaurantsID": 7,
         "address": [
             "Calle San Lucas, 11",
@@ -2249,7 +2249,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Food Truck",
+        "restaurantName": "Food Truck",
         "restaurantsID": 7,
         "address": [
             "Calle San Lucas, 11",
@@ -2266,7 +2266,7 @@ const dataDishes=[
         "price": 4.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Food Truck",
+        "restaurantName": "Food Truck",
         "restaurantsID": 7,
         "address": [
             "Calle San Lucas, 11",
@@ -2283,7 +2283,7 @@ const dataDishes=[
         "price": 4.0,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "Food Truck",
+        "restaurantName": "Food Truck",
         "restaurantsID": 7,
         "address": [
             "Calle San Lucas, 11",
@@ -2300,7 +2300,7 @@ const dataDishes=[
         "price": 4.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Food Truck",
+        "restaurantName": "Food Truck",
         "restaurantsID": 7,
         "address": [
             "Calle San Lucas, 11",
@@ -2317,7 +2317,7 @@ const dataDishes=[
         "price": 15.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2334,7 +2334,7 @@ const dataDishes=[
         "price": 15.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2351,7 +2351,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2368,7 +2368,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2385,7 +2385,7 @@ const dataDishes=[
         "price": 20.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2402,7 +2402,7 @@ const dataDishes=[
         "price": 25.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2419,7 +2419,7 @@ const dataDishes=[
         "price": 23.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2436,7 +2436,7 @@ const dataDishes=[
         "price": 21.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2453,7 +2453,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 4.0,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2470,7 +2470,7 @@ const dataDishes=[
         "price": 25.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2487,7 +2487,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2504,7 +2504,7 @@ const dataDishes=[
         "price": 25.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2521,7 +2521,7 @@ const dataDishes=[
         "price": 28.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2538,7 +2538,7 @@ const dataDishes=[
         "price": 26.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2555,7 +2555,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2572,7 +2572,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2589,7 +2589,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2606,7 +2606,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2623,7 +2623,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2640,7 +2640,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Gioia Restaurante",
+        "restaurantName": "Gioia Restaurante",
         "restaurantsID": 8,
         "address": [
             "San Bartolom\u00e9 23",
@@ -2657,7 +2657,7 @@ const dataDishes=[
         "price": 7.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2674,7 +2674,7 @@ const dataDishes=[
         "price": 7.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2691,7 +2691,7 @@ const dataDishes=[
         "price": 7.9,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2708,7 +2708,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2725,7 +2725,7 @@ const dataDishes=[
         "price": 6.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2742,7 +2742,7 @@ const dataDishes=[
         "price": 12.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2759,7 +2759,7 @@ const dataDishes=[
         "price": 14.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2776,7 +2776,7 @@ const dataDishes=[
         "price": 13.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2793,7 +2793,7 @@ const dataDishes=[
         "price": 11.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2810,7 +2810,7 @@ const dataDishes=[
         "price": 10.9,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2827,7 +2827,7 @@ const dataDishes=[
         "price": 12.9,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2844,7 +2844,7 @@ const dataDishes=[
         "price": 15.9,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2861,7 +2861,7 @@ const dataDishes=[
         "price": 14.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2878,7 +2878,7 @@ const dataDishes=[
         "price": 12.9,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2895,7 +2895,7 @@ const dataDishes=[
         "price": 10.9,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2912,7 +2912,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2929,7 +2929,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2946,7 +2946,7 @@ const dataDishes=[
         "price": 17.9,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2963,7 +2963,7 @@ const dataDishes=[
         "price": 11.9,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2980,7 +2980,7 @@ const dataDishes=[
         "price": 5.9,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -2997,7 +2997,7 @@ const dataDishes=[
         "price": 5.9,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -3014,7 +3014,7 @@ const dataDishes=[
         "price": 5.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -3031,7 +3031,7 @@ const dataDishes=[
         "price": 5.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -3048,7 +3048,7 @@ const dataDishes=[
         "price": 5.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hamburguesa Nostra",
+        "restaurantName": "Hamburguesa Nostra",
         "restaurantsID": 9,
         "address": [
             "Mercado de San Ant\u00f3n",
@@ -3065,7 +3065,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hot Now",
+        "restaurantName": "Hot Now",
         "restaurantsID": 10,
         "address": [
             "barbieri 14",
@@ -3082,7 +3082,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hot Now",
+        "restaurantName": "Hot Now",
         "restaurantsID": 10,
         "address": [
             "barbieri 14",
@@ -3099,7 +3099,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hot Now",
+        "restaurantName": "Hot Now",
         "restaurantsID": 10,
         "address": [
             "barbieri 14",
@@ -3116,7 +3116,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Hot Now",
+        "restaurantName": "Hot Now",
         "restaurantsID": 10,
         "address": [
             "barbieri 14",
@@ -3133,7 +3133,7 @@ const dataDishes=[
         "price": 14.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3150,7 +3150,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3167,7 +3167,7 @@ const dataDishes=[
         "price": 4.5,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3184,7 +3184,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3201,7 +3201,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3218,7 +3218,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3235,7 +3235,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3252,7 +3252,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3269,7 +3269,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3286,7 +3286,7 @@ const dataDishes=[
         "price": null,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3303,7 +3303,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3320,7 +3320,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3337,7 +3337,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3354,7 +3354,7 @@ const dataDishes=[
         "price": 3.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3371,7 +3371,7 @@ const dataDishes=[
         "price": 4.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3388,7 +3388,7 @@ const dataDishes=[
         "price": 4.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3405,7 +3405,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3422,7 +3422,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3439,7 +3439,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3456,7 +3456,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3473,7 +3473,7 @@ const dataDishes=[
         "price": 15.5,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3490,7 +3490,7 @@ const dataDishes=[
         "price": 22.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3507,7 +3507,7 @@ const dataDishes=[
         "price": 5.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3524,7 +3524,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3541,7 +3541,7 @@ const dataDishes=[
         "price": 5.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3558,7 +3558,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3575,7 +3575,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3592,7 +3592,7 @@ const dataDishes=[
         "price": null,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3609,7 +3609,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3626,7 +3626,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3643,7 +3643,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3660,7 +3660,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3677,7 +3677,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3694,7 +3694,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3711,7 +3711,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3728,7 +3728,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3745,7 +3745,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3762,7 +3762,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3779,7 +3779,7 @@ const dataDishes=[
         "price": 16.5,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3796,7 +3796,7 @@ const dataDishes=[
         "price": 28.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3813,7 +3813,7 @@ const dataDishes=[
         "price": 13.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3830,7 +3830,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3847,7 +3847,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "Izakaya Han",
+        "restaurantName": "Izakaya Han",
         "restaurantsID": 11,
         "address": [
             "San Bartolome 10 (Augusto Figueroa)",
@@ -3864,7 +3864,7 @@ const dataDishes=[
         "price": 4.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -3881,7 +3881,7 @@ const dataDishes=[
         "price": 2.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -3898,7 +3898,7 @@ const dataDishes=[
         "price": 17.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -3915,7 +3915,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -3932,7 +3932,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -3949,7 +3949,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -3966,7 +3966,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -3983,7 +3983,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -4000,7 +4000,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -4017,7 +4017,7 @@ const dataDishes=[
         "price": 20.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -4034,7 +4034,7 @@ const dataDishes=[
         "price": 20.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -4051,7 +4051,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -4068,7 +4068,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -4085,7 +4085,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -4102,7 +4102,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Kuoco 360",
+        "restaurantName": "Kuoco 360",
         "restaurantsID": 12,
         "address": [
             "Calle San Bartolm\u00e9, 14",
@@ -4119,7 +4119,7 @@ const dataDishes=[
         "price": 14.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "La Carmencita",
+        "restaurantName": "La Carmencita",
         "restaurantsID": 13,
         "address": [
             "Calle de la Libertad, 16",
@@ -4136,7 +4136,7 @@ const dataDishes=[
         "price": 12.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "La Carmencita",
+        "restaurantName": "La Carmencita",
         "restaurantsID": 13,
         "address": [
             "Calle de la Libertad, 16",
@@ -4153,7 +4153,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "La Carmencita",
+        "restaurantName": "La Carmencita",
         "restaurantsID": 13,
         "address": [
             "Calle de la Libertad, 16",
@@ -4170,7 +4170,7 @@ const dataDishes=[
         "price": 16.5,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "La Carmencita",
+        "restaurantName": "La Carmencita",
         "restaurantsID": 13,
         "address": [
             "Calle de la Libertad, 16",
@@ -4187,7 +4187,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "La Carmencita",
+        "restaurantName": "La Carmencita",
         "restaurantsID": 13,
         "address": [
             "Calle de la Libertad, 16",
@@ -4204,7 +4204,7 @@ const dataDishes=[
         "price": 6.25,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "La Carmencita",
+        "restaurantName": "La Carmencita",
         "restaurantsID": 13,
         "address": [
             "Calle de la Libertad, 16",
@@ -4221,7 +4221,7 @@ const dataDishes=[
         "price": 6.25,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "La Carmencita",
+        "restaurantName": "La Carmencita",
         "restaurantsID": 13,
         "address": [
             "Calle de la Libertad, 16",
@@ -4238,7 +4238,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "La Carmencita",
+        "restaurantName": "La Carmencita",
         "restaurantsID": 13,
         "address": [
             "Calle de la Libertad, 16",
@@ -4255,7 +4255,7 @@ const dataDishes=[
         "price": 12.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4272,7 +4272,7 @@ const dataDishes=[
         "price": 3.95,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4289,7 +4289,7 @@ const dataDishes=[
         "price": 25.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4306,7 +4306,7 @@ const dataDishes=[
         "price": 3.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4323,7 +4323,7 @@ const dataDishes=[
         "price": 9.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4340,7 +4340,7 @@ const dataDishes=[
         "price": 15.9,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4357,7 +4357,7 @@ const dataDishes=[
         "price": 45.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4374,7 +4374,7 @@ const dataDishes=[
         "price": 3.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4391,7 +4391,7 @@ const dataDishes=[
         "price": 3.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4408,7 +4408,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4425,7 +4425,7 @@ const dataDishes=[
         "price": 15.5,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4442,7 +4442,7 @@ const dataDishes=[
         "price": 11.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4459,7 +4459,7 @@ const dataDishes=[
         "price": 14.9,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4476,7 +4476,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4493,7 +4493,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4510,7 +4510,7 @@ const dataDishes=[
         "price": 18.9,
         "rangeprice": 3,
         "ranking": 4.0,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4527,7 +4527,7 @@ const dataDishes=[
         "price": 20.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4544,7 +4544,7 @@ const dataDishes=[
         "price": 35.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4561,7 +4561,7 @@ const dataDishes=[
         "price": 11.9,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4578,7 +4578,7 @@ const dataDishes=[
         "price": 25.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4595,7 +4595,7 @@ const dataDishes=[
         "price": 12.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4612,7 +4612,7 @@ const dataDishes=[
         "price": 11.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4629,7 +4629,7 @@ const dataDishes=[
         "price": 22.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4646,7 +4646,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4663,7 +4663,7 @@ const dataDishes=[
         "price": 18.9,
         "rangeprice": 3,
         "ranking": 4.0,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4680,7 +4680,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4697,7 +4697,7 @@ const dataDishes=[
         "price": 15.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4714,7 +4714,7 @@ const dataDishes=[
         "price": 15.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4731,7 +4731,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4748,7 +4748,7 @@ const dataDishes=[
         "price": 5.9,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "La Trastienda",
+        "restaurantName": "La Trastienda",
         "restaurantsID": 14,
         "address": [
             "Calle Augusto Figueroa, 24",
@@ -4765,7 +4765,7 @@ const dataDishes=[
         "price": 11.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4781,7 +4781,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4797,7 +4797,7 @@ const dataDishes=[
         "price": 12.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4813,7 +4813,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4829,7 +4829,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4845,7 +4845,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4861,7 +4861,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4877,7 +4877,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4893,7 +4893,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4909,7 +4909,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4925,7 +4925,7 @@ const dataDishes=[
         "price": 11.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4941,7 +4941,7 @@ const dataDishes=[
         "price": 12.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4957,7 +4957,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4973,7 +4973,7 @@ const dataDishes=[
         "price": 15.5,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -4989,7 +4989,7 @@ const dataDishes=[
         "price": 17.5,
         "rangeprice": 3,
         "ranking": 4.0,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5005,7 +5005,7 @@ const dataDishes=[
         "price": 12.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5021,7 +5021,7 @@ const dataDishes=[
         "price": 11.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5037,7 +5037,7 @@ const dataDishes=[
         "price": 10.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5053,7 +5053,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5069,7 +5069,7 @@ const dataDishes=[
         "price": 16.5,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5085,7 +5085,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5101,7 +5101,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5117,7 +5117,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5133,7 +5133,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5149,7 +5149,7 @@ const dataDishes=[
         "price": 5.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5165,7 +5165,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5181,7 +5181,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Mal de Amores",
+        "restaurantName": "Mal de Amores",
         "restaurantsID": 15,
         "address": [
             "Valgame Dios, 4",
@@ -5197,7 +5197,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Morgana",
+        "restaurantName": "Morgana",
         "restaurantsID": 16,
         "address": [
             "Augusto figueroa 33",
@@ -5214,7 +5214,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Morgana",
+        "restaurantName": "Morgana",
         "restaurantsID": 16,
         "address": [
             "Augusto figueroa 33",
@@ -5231,7 +5231,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Morgana",
+        "restaurantName": "Morgana",
         "restaurantsID": 16,
         "address": [
             "Augusto figueroa 33",
@@ -5248,7 +5248,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 4.0,
-        "restaurants": "Morgana",
+        "restaurantName": "Morgana",
         "restaurantsID": 16,
         "address": [
             "Augusto figueroa 33",
@@ -5265,7 +5265,7 @@ const dataDishes=[
         "price": 20.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Morgana",
+        "restaurantName": "Morgana",
         "restaurantsID": 16,
         "address": [
             "Augusto figueroa 33",
@@ -5282,7 +5282,7 @@ const dataDishes=[
         "price": 17.5,
         "rangeprice": 3,
         "ranking": 4.0,
-        "restaurants": "Morgana",
+        "restaurantName": "Morgana",
         "restaurantsID": 16,
         "address": [
             "Augusto figueroa 33",
@@ -5299,7 +5299,7 @@ const dataDishes=[
         "price": 17.5,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Morgana",
+        "restaurantName": "Morgana",
         "restaurantsID": 16,
         "address": [
             "Augusto figueroa 33",
@@ -5316,7 +5316,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Morgana",
+        "restaurantName": "Morgana",
         "restaurantsID": 16,
         "address": [
             "Augusto figueroa 33",
@@ -5333,7 +5333,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Morgana",
+        "restaurantName": "Morgana",
         "restaurantsID": 16,
         "address": [
             "Augusto figueroa 33",
@@ -5350,7 +5350,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Morgana",
+        "restaurantName": "Morgana",
         "restaurantsID": 16,
         "address": [
             "Augusto figueroa 33",
@@ -5367,7 +5367,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5384,7 +5384,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5401,7 +5401,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5418,7 +5418,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5435,7 +5435,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5452,7 +5452,7 @@ const dataDishes=[
         "price": 11.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5469,7 +5469,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5486,7 +5486,7 @@ const dataDishes=[
         "price": 16.5,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5503,7 +5503,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5520,7 +5520,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5537,7 +5537,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5554,7 +5554,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "RESTAURANTE KRITIKOS",
+        "restaurantName": "RESTAURANTE KRITIKOS",
         "restaurantsID": 17,
         "address": [
             "Calle San Gregorio 11",
@@ -5571,7 +5571,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Restaurante Arce",
+        "restaurantName": "Restaurante Arce",
         "restaurantsID": 18,
         "address": [
             "Calle Augusto Figueroa, 32",
@@ -5588,7 +5588,7 @@ const dataDishes=[
         "price": 22.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Restaurante Arce",
+        "restaurantName": "Restaurante Arce",
         "restaurantsID": 18,
         "address": [
             "Calle Augusto Figueroa, 32",
@@ -5605,7 +5605,7 @@ const dataDishes=[
         "price": 23.0,
         "rangeprice": 3,
         "ranking": 4.0,
-        "restaurants": "Restaurante Arce",
+        "restaurantName": "Restaurante Arce",
         "restaurantsID": 18,
         "address": [
             "Calle Augusto Figueroa, 32",
@@ -5622,7 +5622,7 @@ const dataDishes=[
         "price": 27.3,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Restaurante Arce",
+        "restaurantName": "Restaurante Arce",
         "restaurantsID": 18,
         "address": [
             "Calle Augusto Figueroa, 32",
@@ -5639,7 +5639,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Restaurante Arce",
+        "restaurantName": "Restaurante Arce",
         "restaurantsID": 18,
         "address": [
             "Calle Augusto Figueroa, 32",
@@ -5656,7 +5656,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Restaurante Arce",
+        "restaurantName": "Restaurante Arce",
         "restaurantsID": 18,
         "address": [
             "Calle Augusto Figueroa, 32",
@@ -5673,7 +5673,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5690,7 +5690,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5707,7 +5707,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5724,7 +5724,7 @@ const dataDishes=[
         "price": 2.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5741,7 +5741,7 @@ const dataDishes=[
         "price": 2.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5758,7 +5758,7 @@ const dataDishes=[
         "price": 23.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5775,7 +5775,7 @@ const dataDishes=[
         "price": 23.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5792,7 +5792,7 @@ const dataDishes=[
         "price": 23.0,
         "rangeprice": 3,
         "ranking": 4.0,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5809,7 +5809,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5826,7 +5826,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5843,7 +5843,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5860,7 +5860,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5877,7 +5877,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5894,7 +5894,7 @@ const dataDishes=[
         "price": 20.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5911,7 +5911,7 @@ const dataDishes=[
         "price": 2.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5928,7 +5928,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5945,7 +5945,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5962,7 +5962,7 @@ const dataDishes=[
         "price": 1.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5979,7 +5979,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -5996,7 +5996,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6013,7 +6013,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6030,7 +6030,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6047,7 +6047,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6064,7 +6064,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6081,7 +6081,7 @@ const dataDishes=[
         "price": 1.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6098,7 +6098,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6115,7 +6115,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6132,7 +6132,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6149,7 +6149,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6166,7 +6166,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6183,7 +6183,7 @@ const dataDishes=[
         "price": 2.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6200,7 +6200,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6217,7 +6217,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6234,7 +6234,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6251,7 +6251,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6268,7 +6268,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6285,7 +6285,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6302,7 +6302,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6319,7 +6319,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6336,7 +6336,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6353,7 +6353,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6370,7 +6370,7 @@ const dataDishes=[
         "price": 17.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6387,7 +6387,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6404,7 +6404,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6421,7 +6421,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6438,7 +6438,7 @@ const dataDishes=[
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6455,7 +6455,7 @@ const dataDishes=[
         "price": 24.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6472,7 +6472,7 @@ const dataDishes=[
         "price": 23.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6489,7 +6489,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6506,7 +6506,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6523,7 +6523,7 @@ const dataDishes=[
         "price": 4.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6540,7 +6540,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6557,7 +6557,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6574,7 +6574,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6591,7 +6591,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6608,7 +6608,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6625,7 +6625,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6642,7 +6642,7 @@ const dataDishes=[
         "price": 5.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6659,7 +6659,7 @@ const dataDishes=[
         "price": 4.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Roostiq",
+        "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
             "47 Calle de Augusto Figueroa",
@@ -6676,7 +6676,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "San Wich",
+        "restaurantName": "San Wich",
         "restaurantsID": 20,
         "address": [
             "Calle Hortaleza, 78",
@@ -6693,7 +6693,7 @@ const dataDishes=[
         "price": 4.9,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "San Wich",
+        "restaurantName": "San Wich",
         "restaurantsID": 20,
         "address": [
             "Calle Hortaleza, 78",
@@ -6710,7 +6710,7 @@ const dataDishes=[
         "price": 5.9,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "San Wich",
+        "restaurantName": "San Wich",
         "restaurantsID": 20,
         "address": [
             "Calle Hortaleza, 78",
@@ -6727,7 +6727,7 @@ const dataDishes=[
         "price": 15.5,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "San Wich",
+        "restaurantName": "San Wich",
         "restaurantsID": 20,
         "address": [
             "Calle Hortaleza, 78",
@@ -6744,7 +6744,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "San Wich",
+        "restaurantName": "San Wich",
         "restaurantsID": 20,
         "address": [
             "Calle Hortaleza, 78",
@@ -6761,7 +6761,7 @@ const dataDishes=[
         "price": 6.75,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "San Wich",
+        "restaurantName": "San Wich",
         "restaurantsID": 20,
         "address": [
             "Calle Hortaleza, 78",
@@ -6778,7 +6778,7 @@ const dataDishes=[
         "price": 3.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "San Wich",
+        "restaurantName": "San Wich",
         "restaurantsID": 20,
         "address": [
             "Calle Hortaleza, 78",
@@ -6795,7 +6795,7 @@ const dataDishes=[
         "price": 1.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "San Wich",
+        "restaurantName": "San Wich",
         "restaurantsID": 20,
         "address": [
             "Calle Hortaleza, 78",
@@ -6812,7 +6812,7 @@ const dataDishes=[
         "price": 1.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "San Wich",
+        "restaurantName": "San Wich",
         "restaurantsID": 20,
         "address": [
             "Calle Hortaleza, 78",
@@ -6829,7 +6829,7 @@ const dataDishes=[
         "price": 14.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -6846,7 +6846,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -6863,7 +6863,7 @@ const dataDishes=[
         "price": 4.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -6880,7 +6880,7 @@ const dataDishes=[
         "price": 5.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -6897,7 +6897,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -6914,7 +6914,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -6931,7 +6931,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -6948,7 +6948,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -6965,7 +6965,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -6982,7 +6982,7 @@ const dataDishes=[
         "price": null,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -6999,7 +6999,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7016,7 +7016,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7033,7 +7033,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7050,7 +7050,7 @@ const dataDishes=[
         "price": 3.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7067,7 +7067,7 @@ const dataDishes=[
         "price": 4.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7084,7 +7084,7 @@ const dataDishes=[
         "price": 4.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7101,7 +7101,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7118,7 +7118,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7135,7 +7135,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7152,7 +7152,7 @@ const dataDishes=[
         "price": 13.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7169,7 +7169,7 @@ const dataDishes=[
         "price": 15.5,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7186,7 +7186,7 @@ const dataDishes=[
         "price": 22.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7203,7 +7203,7 @@ const dataDishes=[
         "price": 5.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7220,7 +7220,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7237,7 +7237,7 @@ const dataDishes=[
         "price": 5.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7254,7 +7254,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7271,7 +7271,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7288,7 +7288,7 @@ const dataDishes=[
         "price": null,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7305,7 +7305,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7322,7 +7322,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7339,7 +7339,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7356,7 +7356,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7373,7 +7373,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7390,7 +7390,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7407,7 +7407,7 @@ const dataDishes=[
         "price": 16.5,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7424,7 +7424,7 @@ const dataDishes=[
         "price": 28.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7441,7 +7441,7 @@ const dataDishes=[
         "price": 13.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7458,7 +7458,7 @@ const dataDishes=[
         "price": 12.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7475,7 +7475,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7492,7 +7492,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7509,7 +7509,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Sr. Ito",
+        "restaurantName": "Sr. Ito",
         "restaurantsID": 21,
         "address": [
             "Calle Pelayo 60",
@@ -7526,7 +7526,7 @@ const dataDishes=[
         "price": 10.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7543,7 +7543,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7560,7 +7560,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 4.0,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7577,7 +7577,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7594,7 +7594,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7611,7 +7611,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7628,7 +7628,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7645,7 +7645,7 @@ const dataDishes=[
         "price": 15.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7662,7 +7662,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7679,7 +7679,7 @@ const dataDishes=[
         "price": 15.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7696,7 +7696,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7713,7 +7713,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7730,7 +7730,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7747,7 +7747,7 @@ const dataDishes=[
         "price": 10.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7764,7 +7764,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7781,7 +7781,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7798,7 +7798,7 @@ const dataDishes=[
         "price": 15.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7815,7 +7815,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7832,7 +7832,7 @@ const dataDishes=[
         "price": 17.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7849,7 +7849,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7866,7 +7866,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7883,7 +7883,7 @@ const dataDishes=[
         "price": 17.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7900,7 +7900,7 @@ const dataDishes=[
         "price": 22.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7917,7 +7917,7 @@ const dataDishes=[
         "price": 24.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7934,7 +7934,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7951,7 +7951,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7968,7 +7968,7 @@ const dataDishes=[
         "price": 24.0,
         "rangeprice": 3,
         "ranking": 4.0,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -7985,7 +7985,7 @@ const dataDishes=[
         "price": 17.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -8002,7 +8002,7 @@ const dataDishes=[
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -8019,7 +8019,7 @@ const dataDishes=[
         "price": 16.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -8036,7 +8036,7 @@ const dataDishes=[
         "price": 24.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -8053,7 +8053,7 @@ const dataDishes=[
         "price": 4.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -8070,7 +8070,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Taberna El Buo",
+        "restaurantName": "Taberna El Buo",
         "restaurantsID": 22,
         "address": [
             "Calle Gravina, 4 (C. Pelayo)",
@@ -8087,7 +8087,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8104,7 +8104,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8121,7 +8121,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8138,7 +8138,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8155,7 +8155,7 @@ const dataDishes=[
         "price": 10.9,
         "rangeprice": 2,
         "ranking": 4.0,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8172,7 +8172,7 @@ const dataDishes=[
         "price": 12.9,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8189,7 +8189,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8206,7 +8206,7 @@ const dataDishes=[
         "price": 16.9,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8223,7 +8223,7 @@ const dataDishes=[
         "price": 24.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8240,7 +8240,7 @@ const dataDishes=[
         "price": 21.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8257,7 +8257,7 @@ const dataDishes=[
         "price": 15.5,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8274,7 +8274,7 @@ const dataDishes=[
         "price": 15.9,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8291,7 +8291,7 @@ const dataDishes=[
         "price": 16.5,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8308,7 +8308,7 @@ const dataDishes=[
         "price": 6.9,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8325,7 +8325,7 @@ const dataDishes=[
         "price": 6.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8342,7 +8342,7 @@ const dataDishes=[
         "price": 6.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8359,7 +8359,7 @@ const dataDishes=[
         "price": 6.9,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8376,7 +8376,7 @@ const dataDishes=[
         "price": 6.9,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8393,7 +8393,7 @@ const dataDishes=[
         "price": 6.9,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "Tepic",
+        "restaurantName": "Tepic",
         "restaurantsID": 23,
         "address": [
             "Calle Pelayo, 4",
@@ -8410,7 +8410,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8427,7 +8427,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8444,7 +8444,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8461,7 +8461,7 @@ const dataDishes=[
         "price": 7.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8478,7 +8478,7 @@ const dataDishes=[
         "price": 9.5,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8495,7 +8495,7 @@ const dataDishes=[
         "price": 8.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8512,7 +8512,7 @@ const dataDishes=[
         "price": 8.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8529,7 +8529,7 @@ const dataDishes=[
         "price": 7.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8546,7 +8546,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8563,7 +8563,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8580,7 +8580,7 @@ const dataDishes=[
         "price": 6.0,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "le coc\u00f3",
+        "restaurantName": "le coc\u00f3",
         "restaurantsID": 24,
         "address": [
             "Calle Barbieri, 15",
@@ -8597,7 +8597,7 @@ const dataDishes=[
         "price": 11.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "tuk tuk",
+        "restaurantName": "tuk tuk",
         "restaurantsID": 25,
         "address": [
             "Calle Barquillo, 24",
@@ -8614,7 +8614,7 @@ const dataDishes=[
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 4,
-        "restaurants": "tuk tuk",
+        "restaurantName": "tuk tuk",
         "restaurantsID": 25,
         "address": [
             "Calle Barquillo, 24",
@@ -8631,7 +8631,7 @@ const dataDishes=[
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
-        "restaurants": "tuk tuk",
+        "restaurantName": "tuk tuk",
         "restaurantsID": 25,
         "address": [
             "Calle Barquillo, 24",
@@ -8648,7 +8648,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "tuk tuk",
+        "restaurantName": "tuk tuk",
         "restaurantsID": 25,
         "address": [
             "Calle Barquillo, 24",
@@ -8665,7 +8665,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 4,
-        "restaurants": "tuk tuk",
+        "restaurantName": "tuk tuk",
         "restaurantsID": 25,
         "address": [
             "Calle Barquillo, 24",
@@ -8682,7 +8682,7 @@ const dataDishes=[
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,
-        "restaurants": "tuk tuk",
+        "restaurantName": "tuk tuk",
         "restaurantsID": 25,
         "address": [
             "Calle Barquillo, 24",
@@ -8699,7 +8699,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "tuk tuk",
+        "restaurantName": "tuk tuk",
         "restaurantsID": 25,
         "address": [
             "Calle Barquillo, 24",
@@ -8716,7 +8716,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 3,
-        "restaurants": "tuk tuk",
+        "restaurantName": "tuk tuk",
         "restaurantsID": 25,
         "address": [
             "Calle Barquillo, 24",
@@ -8733,7 +8733,7 @@ const dataDishes=[
         "price": 6.5,
         "rangeprice": 1,
         "ranking": 4,
-        "restaurants": "tuk tuk",
+        "restaurantName": "tuk tuk",
         "restaurantsID": 25,
         "address": [
             "Calle Barquillo, 24",

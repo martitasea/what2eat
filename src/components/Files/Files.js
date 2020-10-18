@@ -24,7 +24,7 @@ class File extends Component {
 
   render() {
     return (
-      <section className="shadow file column">
+      <section className={this.props.className}>
         <article className="row base">
           <img className="iconStar" src={this.state.starState} alt="Estrella"/>
           <img className="iconStar" src={this.state.euroState} alt="Precio"/>
