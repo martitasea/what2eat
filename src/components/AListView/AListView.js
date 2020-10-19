@@ -52,19 +52,8 @@ class AListView extends Component {
               ?process.env.PUBLIC_URL +"./media/euro02.svg"
               :process.env.PUBLIC_URL +"./media/euro03.svg"
         }
-        starState={
-          (dish.ranking===1)
-            ?process.env.PUBLIC_URL +"./media/star1.svg"
-            :(dish.ranking===2)
-              ?process.env.PUBLIC_URL +"./media/star2.svg"
-              :(dish.ranking===3)
-                ?process.env.PUBLIC_URL +"./media/star3.svg"
-                :(dish.ranking===4)
-                  ?process.env.PUBLIC_URL +"./media/star4.svg"
-                  :(dish.ranking===5)
-                    ?process.env.PUBLIC_URL +"./media/star5.svg"
-                    :process.env.PUBLIC_URL +"./media/star0.svg"
-                 }/>
+        // <img className="iconStar" src={"./media/star"+restaurant.ranking+".svg"} alt="Ranking en estrellas"/>
+        starState={process.env.PUBLIC_URL +"./media/star"+dish.ranking+".svg"}/>
         )
     }
 
