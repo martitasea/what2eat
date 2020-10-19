@@ -34,8 +34,8 @@ class MapContent extends Component {
   getDishesOk(contxt) {
     return this.state.restaurantsOk.filter((restaurant) => 
        (
-          restaurant.style.toUpperCase()===contxt.category.toUpperCase()&&
-          (restaurant.rangeprice.toString()===(contxt.price.toString()))&&
+          (restaurant.style.toUpperCase()===contxt.category.toUpperCase())&&
+  
        (
           (restaurant.name.includes(contxt.dish))||
           (restaurant.name.includes(contxt.dish.toLowerCase()))||
@@ -47,7 +47,27 @@ class MapContent extends Component {
         <Popup
          closeButton={false}
          onOpen={this.getInfo}
-        >{restaurant.restaurantName.toUpperCase()}</Popup>
+        >
+          <section className="popupcontent">
+            <article className="rankingprice">
+              <div>
+                <img className="iconStar" src={"./media/star"+restaurant.ranking+".svg"} alt="Ranking en estrellas"/>
+              </div>
+              <p className="priceName">{restaurant.price} €</p>
+            </article>
+            <article className="name">
+              <p className="dishName">{restaurant.name.toUpperCase()}</p>
+              <div className="restaurant">
+                  <p className="restaurantName">{restaurant.restaurantName}</p>
+                  <div className="divphone">
+                    <img className="iconRestaurant" src="./media/phone.svg" alt="Teléfono"/>
+                    <p className="phone">{restaurant.telephone}</p>
+                  </div>
+              </div>
+            </article>
+          </section>
+        
+        </Popup>
       </Marker>
        )
   }
@@ -58,7 +78,10 @@ class MapContent extends Component {
         <Popup
           closeButton={false}
           // openPopup={console.log("Popup abierto")}
-        >{restaurant.restaurantName.toUpperCase()}</Popup>
+        >
+          <p>{restaurant.restaurantName.toUpperCase()}</p>
+          
+        </Popup>
       </Marker>
     ));
   }
@@ -87,10 +110,11 @@ class MapContent extends Component {
             {(console.log(contxt.dist))}
               <Circle
                 center={{lat:this.state.originlatitude, lng: this.state.originlongitude}}
-                fillColor="#0c4261"
-                opacity="10"
-                radius={contxt.dist}
-                stroke={true}
+                fillColor="#eaac33"
+                fillOpacity="0.35"
+                radius={100}
+                stroke={false}
+                color="#eaac33"
               />
             </div>
           )}

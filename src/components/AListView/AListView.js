@@ -21,22 +21,24 @@ class AListView extends Component {
   getDishes(contxt){
     console.log(this.state.dishes)
     return  this.state.dishes.filter((dish)=>
-      (
-          dish.style.toUpperCase()===contxt.category.toUpperCase()&&
-          (dish.rangeprice.toString()===(contxt.price.toString()))&&
+      ((dish.style.toUpperCase()===contxt.category.toUpperCase())
+      &&
+      // (dish.rangeprice===contxt.price)&&
       (
           (dish.name.includes(contxt.dish))||
           (dish.name.includes(contxt.dish.toLowerCase()))||
           (dish.name.includes(contxt.dish.toUpperCase()))
-      //Order dishes for ranking
-      ))).sort(function(a, b){
+      //Order dishes by ranking
+      )
+      )
+      ).sort(function(a, b){
             let x=a["ranking"],
             y=b["ranking"];
             return ((x > y) ? -1 : ((x < y) ? 1 : 0));
           }).map((dish)=>
         <Files 
         className="shadow file column"
-        restaurantName={dish.restaurantName}
+        restaurantName={dish.restaurantName.toUpperCase()}
         name={dish.name}
         address={dish.address[0]}
         phone={dish.telephone}
@@ -52,16 +54,16 @@ class AListView extends Component {
         }
         starState={
           (dish.ranking===1)
-            ?process.env.PUBLIC_URL +"./media/star01.svg"
+            ?process.env.PUBLIC_URL +"./media/star1.svg"
             :(dish.ranking===2)
-              ?process.env.PUBLIC_URL +"./media/star02.svg"
+              ?process.env.PUBLIC_URL +"./media/star2.svg"
               :(dish.ranking===3)
-                ?process.env.PUBLIC_URL +"./media/star03.svg"
+                ?process.env.PUBLIC_URL +"./media/star3.svg"
                 :(dish.ranking===4)
-                  ?process.env.PUBLIC_URL +"./media/star04.svg"
+                  ?process.env.PUBLIC_URL +"./media/star4.svg"
                   :(dish.ranking===5)
-                    ?process.env.PUBLIC_URL +"./media/star05.svg"
-                    :process.env.PUBLIC_URL +"./media/star00.svg"
+                    ?process.env.PUBLIC_URL +"./media/star5.svg"
+                    :process.env.PUBLIC_URL +"./media/star0.svg"
                  }/>
         )
     }

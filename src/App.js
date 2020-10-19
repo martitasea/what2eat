@@ -16,12 +16,12 @@ function App() {
   const [dish, changeDish] =useState("defaultDish");
   const [address, changeAddress]=useState("defaultAddress");
   const [dist, changeDist]=useState("defaultDist");
-  const [range, changeRange]=useState("defaultRange");
+  // const [range, changeRange]=useState("defaultRange");
   const [price, changePrice]=useState("defaultPrice");
 
   return (
     <div>
-      <MyProvider value={{category, changeCategory, dish, changeDish, address, changeAddress, dist, changeDist, range, changeRange, price, changePrice}}>
+      <MyProvider value={{category, changeCategory, dish, changeDish, address, changeAddress, dist, changeDist, price, changePrice}}>
         <BrowserRouter>
           <Switch>
             <Route exact path="/" component={AFirst}></Route>

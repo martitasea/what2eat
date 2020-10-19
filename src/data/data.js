@@ -306,7 +306,7 @@ const dataDishes=[
         "telephone": 91163882
     },
     {
-        "style": "Ensalada",
+        "style": "Carne",
         "name": "Medallones de solomillo o secreto de cerdo ib\u00e9rico con patatas y ensalada",
         "price": 13.5,
         "rangeprice": 2,
@@ -4285,7 +4285,7 @@ const dataDishes=[
     },
     {
         "style": "Arroces",
-        "name": "Arroz meloso de Bogavante (precio por persona)",
+        "name": "Arroz meloso de Bogavante",
         "price": 25.0,
         "rangeprice": 3,
         "ranking": 4,
@@ -4557,7 +4557,7 @@ const dataDishes=[
     },
     {
         "style": "Arroces",
-        "name": "Paella Se\u00f1orito (por persona)",
+        "name": "Paella Se\u00f1orito",
         "price": 11.9,
         "rangeprice": 2,
         "ranking": 3,
@@ -4574,7 +4574,7 @@ const dataDishes=[
     },
     {
         "style": "Arroces",
-        "name": "Paella Bogavante (por persona)",
+        "name": "Paella Bogavante",
         "price": 25.0,
         "rangeprice": 3,
         "ranking": 3,
@@ -4591,7 +4591,7 @@ const dataDishes=[
     },
     {
         "style": "Arroces",
-        "name": "Paella Mixta (por persona)",
+        "name": "Paella Mixta",
         "price": 12.9,
         "rangeprice": 2,
         "ranking": 4,
@@ -4608,7 +4608,7 @@ const dataDishes=[
     },
     {
         "style": "Arroces",
-        "name": "Paella Negro (por persona)",
+        "name": "Paella Negro",
         "price": 11.9,
         "rangeprice": 2,
         "ranking": 4,
@@ -4625,7 +4625,7 @@ const dataDishes=[
     },
     {
         "style": "Arroces",
-        "name": "Paella Canabinero (por persona)",
+        "name": "Paella Canabinero",
         "price": 22.0,
         "rangeprice": 3,
         "ranking": 3,
@@ -8643,8 +8643,8 @@ const dataDishes=[
         "telephone": 91165307
     },
     {
-        "style": "Ensalada",
-        "name": "Pechuga de pato a la parrilla servido con verduras orientales, salsa de pomelo con ensalada asi\u00e1tica",
+        "style": "Pollo",
+        "name": "Pechuga de pollo a la parrilla servido con verduras orientales, salsa de pomelo con ensalada asi\u00e1tica",
         "price": 18.0,
         "rangeprice": 3,
         "ranking": 3,

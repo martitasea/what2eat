@@ -4,3 +4,49 @@
     margin: 0;
     padding: 0;
 }
+section.popupcontent{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 10px;
+}
+article.rankingprice{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin: 0 0;
+}
+article.name{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0 0;
+}
+p.dishName{
+    text-align: left;
+    font-weight: 700;
+    color: #0c4261;
+    margin: 0 0;
+}
+p.rankingName{
+    margin: 0 0;
+}
+p.priceName{
+    margin: 0 0;
+    font-weight: 700;
+    color: #0c4261;
+}
+div.restaurant{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+p.restaurantName, img.iconRestaurant, p.phone{
+    margin: 0 0;
+}
+div.divphone{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-left: 55px;
+}

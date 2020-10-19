@@ -15,7 +15,7 @@ class Form extends Component {
     this.handleChangeDish=this.handleChangeDish.bind(this)
     this.handleChangeAddress=this.handleChangeAddress.bind(this)
     this.handleChangeDist=this.handleChangeDist.bind(this)
-    this.handleChangePrice=this.handleChangePrice.bind(this)
+    // this.handleChangePrice=this.handleChangePrice.bind(this)
   }
   handleChangeDish(event){
     let dish=event.target.value;
@@ -32,11 +32,11 @@ class Form extends Component {
     console.log(dist);
     this.setState({dist: dist})
   }
-  handleChangePrice(event){
-    let price=event.target.value;
-    console.log(price);
-    this.setState({price: price})
-  }
+  // handleChangePrice(event){
+  //   let price=event.target.value;
+  //   console.log(price);
+  //   this.setState({price: price})
+  // }
   render() {
     return (
       <MyConsumer>
@@ -73,7 +73,7 @@ class Form extends Component {
               </select>
               </div>
 
-              <div className="price">
+              {/* <div className="price">
               <img className="icon" src={process.env.PUBLIC_URL +"/media/euro.svg"} alt="Range Price"/>
               <input
                     onChange={this.handleChangePrice}
@@ -83,7 +83,7 @@ class Form extends Component {
                     min="1"
                     max="3"
               />
-              </div>
+              </div> */}
               <footer className="two">
                 <input type="submit" className="little ghost" value="FILTRAR"/>
                 <Link to="/listview"> 
