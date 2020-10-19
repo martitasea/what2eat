@@ -11,17 +11,17 @@ export const datafilter=[
     },
     {
         "title": "DE LA HUERTA",
-        "image": "./media/.jpg",
+        "image": "./media/delahuerta.jpg",
         "href":"/filter/DE LA HUERTA",
     },
     {
         "title": "ENSALADA",
-        "image": "./media/.jpg",
+        "image": "./media/ensalada.jpg",
         "href":"/filter/ENSALADA",
     },
     {
         "title": "ENTRANTES",
-        "image": "./media/.jpg",
+        "image": "./media/entrantes.jpg",
         "href":"/filter/ENTRANTES",
     },
     {
@@ -46,12 +46,12 @@ export const datafilter=[
     },
     {
         "title": "POLLO",
-        "image": "./media/.jpg",
+        "image": "./media/pollo.jpg",
         "href":"/filter/POLLO",
     },
     {
         "title": "POSTRES",
-        "image": "./media/.jpg",
+        "image": "./media/postres.jpg",
         "href":"/filter/POSTRES",
     },
     {

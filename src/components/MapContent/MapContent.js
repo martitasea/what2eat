@@ -7,6 +7,7 @@ import './MapContent.css';
 import dataDishes from "../../data/data.js";
 import moreRestaurants from "../../data/json_mas_rest";
 import { MyConsumer } from '../userContext.js';
+import Path from '../Path/Path.js';
 
 class MapContent extends Component {
   constructor(props){
@@ -14,10 +15,11 @@ class MapContent extends Component {
     this.state = {
       restaurantsOk: dataDishes,
       restaurantsFake: moreRestaurants,
-      latitude: 40.422705,
-      longitude:-3.697594,
+      originlatitude: 40.422705,
+      originlongitude:-3.697594,
       currentPosition: [40.422705,-3.697594],
-      restMarker: 'map-pin.svg'
+      restMarker: 'map-pin.svg',
+
     }
     this.getDishesOk = this.getDishesOk.bind(this);
     this.getDishesFake = this.getDishesFake.bind(this);
@@ -81,17 +83,17 @@ class MapContent extends Component {
           <MyConsumer>
           {(contxt)=>(
             <div className="centro">
-            {console.log(contxt.dist)}
-              {/* <Circle
-                center={{lat:this.state.latitude, lng: this.state.longitude}}
+            {console.log("distancia")}
+            {(console.log(contxt.dist))}
+              <Circle
+                center={{lat:this.state.originlatitude, lng: this.state.originlongitude}}
                 fillColor="#0c4261"
                 opacity="10"
-                radius={1000}
+                radius={contxt.dist}
                 stroke={true}
-              /> */}
+              />
             </div>
           )}
-
           </MyConsumer>
           {/* <Polygon 
             positions={[
@@ -103,6 +105,7 @@ class MapContent extends Component {
             fill-rule="evenodd"
             fillColor="gray"
           /> */}
+          {/* <Path originlatitude={this.state.originlatitude} originlongitude={this.state.originlongitude}/> */}
           <Marker 
             position={this.state.currentPosition} 
             icon={UserIcon}
@@ -118,7 +121,7 @@ export default MapContent;
 
 // getDishesOk() {
 //   return this.state.restaurantsOk.map((restaurant) => (
-//     <Marker position={[restaurant.latitude, restaurant.longitude]} icon={RestaurantIcon}>
+//     <Marker position={[restaurant.originlatitude, restaurant.originlongitude]} icon={RestaurantIcon}>
 //       <Popup
 //        closeButton={false}
 //        onOpen={this.getInfo}

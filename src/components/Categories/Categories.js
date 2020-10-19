@@ -11,21 +11,24 @@ class Categories extends Component {
     }
     this.getCategories = this.getCategories.bind(this);
   }
-
-getCategories(){
-    return this.state.categories.map((category)=>(
-     <Category 
-      catImg={category.image} 
-      category={category.title} 
-      catHref={category.href}/>
-    ))
-}
+  
+  getCategories(){
+      return this.state.categories.map((category)=>(
+       <Category 
+        catImg={category.image} 
+        category={category.title} 
+        catHref={category.href}/>
+      ))
+  }
+ 
+  
   render() {
     return (
       <div>
       <p className="tit">Selecciona el tipo del plato:</p>
       <section className="categories">
       < Suspense fallback={<h1>Estamos cargando...</h1>}>
+   
         {this.getCategories()}
       </Suspense>
       </section>

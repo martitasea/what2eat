@@ -17,6 +17,7 @@ class AListView extends Component {
     this.getDishes=this.getDishes.bind(this)
   }
 
+
   getDishes(contxt){
     console.log(this.state.dishes)
     return  this.state.dishes.filter((dish)=>
@@ -27,7 +28,12 @@ class AListView extends Component {
           (dish.name.includes(contxt.dish))||
           (dish.name.includes(contxt.dish.toLowerCase()))||
           (dish.name.includes(contxt.dish.toUpperCase()))
-      ))).map((dish)=>
+      //Order dishes for ranking
+      ))).sort(function(a, b){
+            let x=a["ranking"],
+            y=b["ranking"];
+            return ((x > y) ? -1 : ((x < y) ? 1 : 0));
+          }).map((dish)=>
         <Files 
         className="shadow file column"
         restaurantName={dish.restaurantName}
