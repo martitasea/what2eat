@@ -12,7 +12,7 @@ footer.two{
 img.emptyImg{
     position: fixed;
     bottom: 25vh;
-    width: 80vw;
+    height: 45vh;
     left: 10vw; 
 }
 p.emptyP{
@@ -24,4 +24,7 @@ p.emptyP{
 p.detail{
     font-size: 14px;
     color: #0c4261;
+}
+div.files{
+    margin-bottom: 10vh;
 }

@@ -87,7 +87,7 @@ class AListView extends Component {
         <SubHeader/>
         <MyConsumer>
           {(contxt)=>(
-            <div className="centro">
+            <div className="centro files">
               {this.getDishes(contxt)}
             </div>
           )}

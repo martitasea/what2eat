@@ -46,4 +46,11 @@ div.divphone{
     flex-direction: row;
     justify-content: flex-end;
     margin-left: 55px;
+    margin-top: 0;
+}
+p.restaurantName{
+    margin:0;
+}
+p.phone{
+    margin:0;
 }

@@ -7,6 +7,7 @@ import AFilter from "./components/AFilter/AFilter";
 import AListView from "./components/AListView/AListView";
 import AMapView from "./components/AMapView/AMapView";
 import AOnBoarding from "./components/AOnBoarding/AOnBoarding";
+import NotFound from "./components/NotFound/NotFound";
 import {MyProvider} from './components/userContext';
 import './App.css';
 
@@ -33,6 +34,7 @@ function App() {
             <Route path="/filter" component={AFilter} ></Route>
             <Route path="/listview" component={AListView}></Route>
             <Route path="/mapview" component={AMapView}></Route>
+            <Route component={NotFound}></Route>
           </Switch>
         </BrowserRouter>
       </MyProvider>

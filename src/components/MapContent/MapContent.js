@@ -104,11 +104,12 @@ class MapContent extends Component {
             <div className="centro">
             {console.log("distancia")}
             {(console.log(contxt.dist))}
+            contxt.dist
               <Circle
                 center={{lat:this.state.originlatitude, lng: this.state.originlongitude}}
                 fillColor="#eaac33"
                 fillOpacity="0.35"
-                radius={100}
+                radius={500}
                 stroke={false}
                 color="#eaac33"
               />
