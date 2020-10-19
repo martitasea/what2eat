@@ -75,12 +75,8 @@ class MapContent extends Component {
     return this.state.restaurantsFake.map((restaurant) => (
       <Marker position={[restaurant.latitude, restaurant.longitude]} icon={RestaurantIcon}
       >
-        <Popup
-          closeButton={false}
-          // openPopup={console.log("Popup abierto")}
-        >
+        <Popup closeButton={false}>
           <p>{restaurant.restaurantName.toUpperCase()}</p>
-          
         </Popup>
       </Marker>
     ));
@@ -119,16 +115,6 @@ class MapContent extends Component {
             </div>
           )}
           </MyConsumer>
-          {/* <Polygon 
-            positions={[
-              [43.774361,  -9.177109],
-              [43.774361, 3.186964],
-              [35.815033,  -1.896236],
-              [35.815033,  -9.177109],
-            ]}
-            fill-rule="evenodd"
-            fillColor="gray"
-          /> */}
           {/* <Path originlatitude={this.state.originlatitude} originlongitude={this.state.originlongitude}/> */}
           <Marker 
             position={this.state.currentPosition} 
@@ -153,3 +139,16 @@ export default MapContent;
 //     </Marker>
 //   ));
 // }
+
+
+
+{/* <Polygon 
+            positions={[
+              [43.774361,  -9.177109],
+              [43.774361, 3.186964],
+              [35.815033,  -1.896236],
+              [35.815033,  -9.177109],
+            ]}
+            fill-rule="evenodd"
+            fillColor="gray"
+          /> */}

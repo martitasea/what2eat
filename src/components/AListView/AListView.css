@@ -9,3 +9,19 @@ footer.two{
     padding: 3vh 0;
     width: 100vw;
 }
+img.emptyImg{
+    position: fixed;
+    bottom: 25vh;
+    width: 80vw;
+    left: 10vw; 
+}
+p.emptyP{
+    z-index: 5;
+    font-weight: 700;
+    position: fixed; 
+    bottom: 35vh;
+}
+p.detail{
+    font-size: 14px;
+    color: #0c4261;
+}

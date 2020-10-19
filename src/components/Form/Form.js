@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Link} from "react-router-dom";
+import {Link, Redirect} from "react-router-dom";
 import './Form.css';
 import {MyConsumer} from '../userContext';
 
@@ -11,6 +11,7 @@ class Form extends Component {
       address:'Address-VACIO',
       dist:'Dist-VACIO',
       precio:'Price-VACIO',
+      redirect:null,
     };
     this.handleChangeDish=this.handleChangeDish.bind(this)
     this.handleChangeAddress=this.handleChangeAddress.bind(this)
@@ -37,7 +38,21 @@ class Form extends Component {
   //   console.log(price);
   //   this.setState({price: price})
   // }
+
+  // render() {
+  //   if (this.state.redirect) {
+  //     return <Redirect to={this.state.redirect} />
+  //   }
+  //   return(
+  //   // Your Code goes here
+  //   )
+
   render() {
+    if (this.state.redirect) {
+      return <Redirect to={this.state.redirect} />
+    }
+    // return(
+  // render() {
     return (
       <MyConsumer>
         {(contxt)=>(
@@ -50,16 +65,17 @@ class Form extends Component {
                 contxt.changeAddress(this.state.address)
                 contxt.changeDist(this.state.dist)
                 contxt.changePrice(this.state.price)
+                this.setState({redirect:"/listview"})
                  }
                }>
               <div className="question">
               <img className="icon" src={process.env.PUBLIC_URL +"/media/dish.svg"} alt="Dish"/>
-              <input type="text" className="box" name="dish" onChange={this.handleChangeDish}/>
+              <input type="text" className="box" name="dish" onChange={this.handleChangeDish} placeholder="¿Qué te apetece?"/>
               </div>
               
               <div className="question">
               <img className="icon" src={process.env.PUBLIC_URL +"/media/map.svg"} alt="Address"/>
-              <input type="text" className="box" name="address" onChange={this.handleChangeAddress}/>
+              <input type="text" className="box" name="address" onChange={this.handleChangeAddress} placeholder="¿Dónde estás?"/>
               </div>
 
               <div className="question">
@@ -72,19 +88,8 @@ class Form extends Component {
                     <option value="50000">50 km</option>
               </select>
               </div>
-
-              {/* <div className="price">
-              <img className="icon" src={process.env.PUBLIC_URL +"/media/euro.svg"} alt="Range Price"/>
-              <input
-                    onChange={this.handleChangePrice}
-                    className="range"
-                    type="range"
-                    name="price"
-                    min="1"
-                    max="3"
-              />
-              </div> */}
               <footer className="two">
+                {/* <Redirect to={this.state.redirect}/> */}
                 <input type="submit" className="little ghost" value="FILTRAR"/>
                 <Link to="/listview"> 
                   <button className="button little blue" name="VER LISTA">SEGUIR</button>
@@ -98,3 +103,16 @@ class Form extends Component {
   }
 }
   export default Form;
+
+
+  {/* <div className="price">
+              <img className="icon" src={process.env.PUBLIC_URL +"/media/euro.svg"} alt="Range Price"/>
+              <input
+                    onChange={this.handleChangePrice}
+                    className="range"
+                    type="range"
+                    name="price"
+                    min="1"
+                    max="3"
+              />
+              </div> */}

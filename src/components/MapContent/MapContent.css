@@ -41,9 +41,6 @@ div.restaurant{
     flex-direction: row;
     justify-content: space-between;
 }
-p.restaurantName, img.iconRestaurant, p.phone{
-    margin: 0 0;
-}
 div.divphone{
     display:flex;
     flex-direction: row;
