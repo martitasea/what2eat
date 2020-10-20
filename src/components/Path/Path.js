@@ -5,6 +5,8 @@
 // import "lrm-graphhopper";
 // import './Path.css';
 
+
+
 // class Path extends Component {
 //   constructor(props){
 //     super(props);
@@ -23,18 +25,21 @@
 //   createLeafletElement() {
 // 		let apiKey = "c04f2fd2-8161-4d7f-898a-827d1fdc05bc";
 // 		let leafletElement = L.Routing.control({
-// 			"waypoints": [
+//             "waypoints": 
+//             [
 // 				L.latLng(this.props.originlatitude, this.props.originlongitude),
 // 				L.latLng(this.state.endlatitude, this.state.endlongitude),
 // 			],
-// 			"router": new L.Routing.graphHopper(apiKey, {
+//             "router": new L.Routing.graphHopper(apiKey, 
+//             {
 // 				"urlParameters": {
 // 					"vehicle": "foot",
 // 					"locale": "es"
 // 				}
 // 			}),
 // 			"lineOptions": {
-// 				"styles": [
+//                 "styles": 
+//                 [
 // 					{
 // 						"color": "#eaac33",
 // 						"opacity": 0.6,
@@ -52,7 +57,7 @@
 // 	 		"showAlternatives": false
 // 	 	}).addTo(this.props.map.leafletElement);
 // 	 	leafletElement.hide();
-// 	 	leafletElement.on("routeselected", (e) => console.log(e.route.instructions));
+// 	 	// leafletElement.on("routeselected", (e) => console.log(e.route.instructions));
 // 	}
 
 // 	render() {

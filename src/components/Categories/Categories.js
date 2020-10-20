@@ -25,7 +25,7 @@ class Categories extends Component {
   render() {
     return (
       <div>
-      <p className="tit">Selecciona el tipo del plato:</p>
+      <p className="tit">Selecciona el tipo del plato que quieres comer:</p>
       <section className="categories">
       < Suspense fallback={<h1>Estamos cargando...</h1>}>
    

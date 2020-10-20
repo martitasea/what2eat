@@ -33,26 +33,11 @@ class Form extends Component {
     console.log(dist);
     this.setState({dist: dist})
   }
-  // handleChangePrice(event){
-  //   let price=event.target.value;
-  //   console.log(price);
-  //   this.setState({price: price})
-  // }
-
-  // render() {
-  //   if (this.state.redirect) {
-  //     return <Redirect to={this.state.redirect} />
-  //   }
-  //   return(
-  //   // Your Code goes here
-  //   )
 
   render() {
     if (this.state.redirect) {
       return <Redirect to={this.state.redirect} />
     }
-    // return(
-  // render() {
     return (
       <MyConsumer>
         {(contxt)=>(
@@ -89,7 +74,6 @@ class Form extends Component {
               </select>
               </div>
               <footer className="two">
-                {/* <Redirect to={this.state.redirect}/> */}
                 <input type="submit" className="little ghost" value="FILTRAR"/>
                 <Link to="/listview"> 
                   <button className="button little blue" name="VER LISTA">SEGUIR</button>
@@ -103,16 +87,3 @@ class Form extends Component {
   }
 }
   export default Form;
-
-
-  {/* <div className="price">
-              <img className="icon" src={process.env.PUBLIC_URL +"/media/euro.svg"} alt="Range Price"/>
-              <input
-                    onChange={this.handleChangePrice}
-                    className="range"
-                    type="range"
-                    name="price"
-                    min="1"
-                    max="3"
-              />
-              </div> */}

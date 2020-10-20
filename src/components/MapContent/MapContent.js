@@ -7,7 +7,11 @@ import './MapContent.css';
 import dataDishes from "../../data/data.js";
 import moreRestaurants from "../../data/json_mas_rest";
 import { MyConsumer } from '../userContext.js';
+import {geolocated} from 'react-geolocated';
 import Path from '../Path/Path.js';
+
+const defaultLat=40.422705;
+const defaultLong=-3.697594
 
 class MapContent extends Component {
   constructor(props){
@@ -83,9 +87,17 @@ class MapContent extends Component {
   }
 
   render() {
+    const longitude=this.props.coords? 
+    this.props.coords.longitude
+    : defaultLong
+  
+    const latitude=this.props.coords? 
+    this.props.coords.latitude
+    : defaultLat
+
     return (
       <section>
-        <Map center={this.state.currentPosition} zoom={80}>
+        <Map center={[latitude, longitude]} zoom={80}>
         <MyConsumer>
           {(contxt)=>(
             <div>
@@ -93,8 +105,6 @@ class MapContent extends Component {
             </div>
           )}
         </MyConsumer>
-          {/* {this.getDishesOk()} */}
-          {/* {this.getDishesFake()} */}
           <TileLayer
             url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}.png"
             // attribution="Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community"
@@ -102,9 +112,8 @@ class MapContent extends Component {
           <MyConsumer>
           {(contxt)=>(
             <div className="centro">
-            {console.log("distancia")}
-            {(console.log(contxt.dist))}
-            contxt.dist
+            {/* {console.log("distancia")}
+            {(console.log(contxt.dist))} */}
               <Circle
                 center={{lat:this.state.originlatitude, lng: this.state.originlongitude}}
                 fillColor="#eaac33"
@@ -117,17 +126,26 @@ class MapContent extends Component {
           )}
           </MyConsumer>
           {/* <Path originlatitude={this.state.originlatitude} originlongitude={this.state.originlongitude}/> */}
-          <Marker 
-            position={this.state.currentPosition} 
-            icon={UserIcon}
-            />
+          {
+            !this.props.coords?
+            <div>Loading...</div>
+            :<Marker 
+              position={[latitude, longitude]} 
+              icon={UserIcon}
+              />
+          }
         </Map>
       </section>
     );
   }
 }
 
-export default MapContent;
+export default geolocated({
+  positionOptions:{
+    enableHighAccuracy: false
+  },
+  userDecisionTimeout: 10000
+})(MapContent);
 
 
 // getDishesOk() {
