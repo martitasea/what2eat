@@ -41,8 +41,8 @@ class AListView extends Component {
             return platos.map((dish)=>{
               return <Files
                 className="shadow file column"
-               restaurantName={dish.restaurantName.toUpperCase()}
-               name={dish.name}
+                restaurantName={dish.restaurantName.toUpperCase()}
+                name={dish.name}
                 address={dish.address[0]}
                 phone={dish.telephone}
                 latitude={dish.latitude}
@@ -64,7 +64,8 @@ class AListView extends Component {
               <div>
               <MyConsumer>
                {(contxt)=>(
-                <p className="detail">Plato: {contxt.dish} - Dirección: {contxt.address} - Distancia {contxt.dist} km</p>
+                <p className="detail">Plato: {contxt.dish} - Distancia: {contxt.dist} km</p>
+                // - Dirección: {contxt.address} 
                )
               }
               </MyConsumer>

@@ -14,15 +14,19 @@ import './App.css';
 function App() {
 
   const [category, changeCategory] =useState("ELIGE UN TIPO DE PLATO");
-  const [dish, changeDish] =useState("defaultDish");
-  const [address, changeAddress]=useState("defaultAddress");
-  const [dist, changeDist]=useState("defaultDist");
+  const [dish, changeDish] =useState("VACÍO");
+  const [address, changeAddress]=useState("VACÍO");
+  const [dist, changeDist]=useState("VACÍO");
   // const [range, changeRange]=useState("defaultRange");
-  const [price, changePrice]=useState("defaultPrice");
+  const [price, changePrice]=useState("VACÍO");
+  const [pointAlat, changeLatitudeA]=useState("40.421649");
+  const [pointAlon, changeLongitudeA]=useState(" -3.692725"); //Paseo de Recoletos 15
+  const [pointBlat, changeLatitudeB]=useState("40.422346");
+  const [pointBlon, changeLongitudeB]=useState("-3.696573");  //CARNE>Solomillo
 
   return (
     <div>
-      <MyProvider value={{category, changeCategory, dish, changeDish, address, changeAddress, dist, changeDist, price, changePrice}}>
+      <MyProvider value={{category, changeCategory, dish, changeDish, address, changeAddress, dist, changeDist, price, changePrice, pointAlat, changeLatitudeA, pointAlon, changeLongitudeA, pointBlat, changeLatitudeB, pointBlon, changeLongitudeB}}>
         <BrowserRouter>
           <Switch>
             <Route exact path="/" component={AFirst}></Route>

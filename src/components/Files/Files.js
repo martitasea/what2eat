@@ -53,7 +53,7 @@ class File extends Component {
             </div>
           </div>
           <div>
-            <Link to="/mapviewpath">
+            <Link to="/mapview">
               <img className="go" src="./media/go.svg" alt="Go to path"/>
             </Link>
           </div>

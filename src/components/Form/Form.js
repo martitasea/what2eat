@@ -20,17 +20,17 @@ class Form extends Component {
   }
   handleChangeDish(event){
     let dish=event.target.value;
-    console.log(dish);
+    // console.log(dish);
     this.setState({dish: dish})
   }
   handleChangeAddress(event){
     let address=event.target.value;
-    console.log(address);
+    // console.log(address);
     this.setState({address: address})
   }
   handleChangeDist(event){
     let dist=event.target.value;
-    console.log(dist);
+    // console.log(dist);
     this.setState({dist: dist})
   }
 
@@ -38,6 +38,12 @@ class Form extends Component {
     if (this.state.redirect) {
       return <Redirect to={this.state.redirect} />
     }
+
+{/* <form onsubmit="alert(this.submitted); return false;">
+    <input onclick="this.form.submitted=this.value;" type="submit" value="Yes" />
+    <input onclick="this.form.submitted=this.value;" type="submit" value="No" />
+</form> */}
+
     return (
       <MyConsumer>
         {(contxt)=>(
@@ -50,6 +56,7 @@ class Form extends Component {
                 contxt.changeAddress(this.state.address)
                 contxt.changeDist(this.state.dist)
                 contxt.changePrice(this.state.price)
+               
                 this.setState({redirect:"/listview"})
                  }
                }>
@@ -58,10 +65,10 @@ class Form extends Component {
               <input type="text" className="box" name="dish" onChange={this.handleChangeDish} placeholder="¿Qué te apetece?"/>
               </div>
               
-              <div className="question">
+              {/* <div className="question">
               <img className="icon" src={process.env.PUBLIC_URL +"/media/map.svg"} alt="Address"/>
               <input type="text" className="box" name="address" onChange={this.handleChangeAddress} placeholder="¿Dónde estás?"/>
-              </div>
+              </div> */}
 
               <div className="question">
               <img className="iconDist" src={process.env.PUBLIC_URL +"/media/dist.svg"} alt="Address"/>
@@ -74,10 +81,11 @@ class Form extends Component {
               </select>
               </div>
               <footer className="two">
-                <input type="submit" className="little ghost" value="FILTRAR"/>
-                <Link to="/listview"> 
-                  <button className="button little blue" name="VER LISTA">SEGUIR</button>
-                </Link>
+                <input type="submit" className="little ghost" value="FILTRAR" onClick="this.form.submitted=this.value"/>
+                {/* <Link to="/mapview">  */}
+                <input type="submit" className="little blue" value="SEGUIR" onClick="this.form.submitted=this.value"/>
+                {/* <button className="button little blue" name="VER LISTA">SEGUIR</button> */}
+                {/* </Link> */}
               </footer>
             </form>
           )

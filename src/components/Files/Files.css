@@ -70,6 +70,10 @@ img.iconRestaurant{
     width: 15px;
     margin: 2px 10px 2px 2px;
 }
+img.iconRestaurant2{
+    /* width: 15px; */
+    margin: 2px 10px 2px 2px;
+}
 img.iconEuro{
     width: 15px;
     margin: 2px;
@@ -91,6 +95,7 @@ img.go{
 }
 img.go:hover{
     width: 70px;
+    opacity: .5;
 }
 section.fileMap{
     padding: 2vh 2vw;
@@ -98,3 +103,7 @@ section.fileMap{
     margin-bottom: 9vh;
     box-shadow: 0px 5px 10px rgba(179,179,179,1);
 }
+
+/* img.food:hover{
+    opacity: .5;
+} */

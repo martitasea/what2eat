@@ -27,10 +27,9 @@ class Categories extends Component {
       <div>
       <p className="tit">Selecciona el tipo del plato que quieres comer:</p>
       <section className="categories">
-      < Suspense fallback={<h1>Estamos cargando...</h1>}>
-   
+      {/* < Suspense fallback={<h1>Estamos cargando...</h1>}> */}
         {this.getCategories()}
-      </Suspense>
+      {/* </Suspense> */}
       </section>
       </div>
     );

@@ -9,6 +9,7 @@ section.popupcontent{
     flex-direction: column;
     align-items: flex-start;
     line-height: 10px;
+    margin: 0;
 }
 article.rankingprice{
     display: flex;
@@ -40,12 +41,13 @@ div.restaurant{
     display:flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items:center;
 }
 div.divphone{
     display:flex;
     flex-direction: row;
     justify-content: flex-end;
-    margin-left: 55px;
+    margin: 0 25px 0 25px;
     margin-top: 0;
 }
 p.restaurantName{
@@ -53,4 +55,26 @@ p.restaurantName{
 }
 p.phone{
     margin:0;
+}
+.leaflet-routing-alt{
+    display: none;
+    background-color: white;
+}
+button.goMap{
+    border: 0px;
+    /* opacity: 0; */
+    background-color: white;
+    margin-left: 100px;
+    padding: 0;
+}
+button.goMap:active{
+    border-color: white;
+}
+img.iconGo{
+    width: 30px;
+    
+}
+div.leaflet-popup-content-wrapper{
+    margin:0;
+    padding:1px;
 }

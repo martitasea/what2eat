@@ -14,14 +14,7 @@ class SubHeader extends Component {
             {
               (contxt)=>{
                 return (
-                  <div>
                     <p className="pPlus">{contxt.category}</p>
-                    
-                    {/* <p className="pPlus">{contxt.dish}</p>
-                    <p className="pPlus">{contxt.address}</p>
-                    <p className="pPlus">{contxt.dist}</p>
-                    <p className="pPlus">{contxt.price}</p> */}
-                  </div>
                 )
               }
             }
@@ -36,3 +29,9 @@ class SubHeader extends Component {
   }
 }
 export default SubHeader;
+
+
+{/* <p className="pPlus">{contxt.dish}</p>
+<p className="pPlus">{contxt.address}</p>
+<p className="pPlus">{contxt.dist}</p>
+<p className="pPlus">{contxt.price}</p> */}

@@ -4776,7 +4776,7 @@ const dataDishes=[
         "telephone": 91169937
     },
     {
-        "style": "Pescado",
+        "style": "Ensalada",
         "name": "Burrata con mermelada casera de tomate y naranja agria",
         "price": 12.0,
         "rangeprice": 2,
@@ -4808,7 +4808,7 @@ const dataDishes=[
         "telephone": 91169937
     },
     {
-        "style": "Pescado",
+        "style": "De la huerta",
         "name": "Verduras plancha de temporada",
         "price": 8.5,
         "rangeprice": 1,
@@ -4824,7 +4824,7 @@ const dataDishes=[
         "telephone": 91169937
     },
     {
-        "style": "Pescado",
+        "style": "Carne",
         "name": "Carpaccio de buey con aceite de albahaca y l\u00e1minas de parmesano",
         "price": 12.0,
         "rangeprice": 2,
@@ -5017,7 +5017,7 @@ const dataDishes=[
     },
     {
         "style": "Hamburguesa",
-        "name": "Hamburguesa la flaca",
+        "name": "Hamburguesa ternera la flaca",
         "price": 11.5,
         "rangeprice": 2,
         "ranking": 4,
@@ -5193,7 +5193,7 @@ const dataDishes=[
     },
     {
         "style": "Pescado",
-        "name": "TOSTA DE SARDINA AHUMADA",
+        "name": "Tosta de sardina ahumada",
         "price": 12.0,
         "rangeprice": 2,
         "ranking": 3,
@@ -5210,7 +5210,7 @@ const dataDishes=[
     },
     {
         "style": "Marisco",
-        "name": "VIEIRA MEX",
+        "name": "Vieira Mex",
         "price": 14.0,
         "rangeprice": 2,
         "ranking": 3,
@@ -5227,7 +5227,7 @@ const dataDishes=[
     },
     {
         "style": "Entrantes",
-        "name": "CROQUETAS CASERAS",
+        "name": "Croquetas caseras",
         "price": 9.0,
         "rangeprice": 2,
         "ranking": 4,
@@ -5244,7 +5244,7 @@ const dataDishes=[
     },
     {
         "style": "Pescado",
-        "name": "MERLUZA DEL PINCHO a baja temperatura",
+        "name": "Merluza de pincho a baja temperatura",
         "price": 19.0,
         "rangeprice": 3,
         "ranking": 4.0,
@@ -5261,7 +5261,7 @@ const dataDishes=[
     },
     {
         "style": "Marisco",
-        "name": "PULPO A LA PLANCHA",
+        "name": "Pulpo a la plancha",
         "price": 20.0,
         "rangeprice": 3,
         "ranking": 4,
@@ -5278,7 +5278,7 @@ const dataDishes=[
     },
     {
         "style": "Carne",
-        "name": "RABO DE VACA DESMECHADA",
+        "name": "Rabo de vaca desmechada",
         "price": 17.5,
         "rangeprice": 3,
         "ranking": 4.0,
@@ -5295,7 +5295,7 @@ const dataDishes=[
     },
     {
         "style": "Entrantes",
-        "name": "PICANHA RUBIA GALLEGA (45 d\u00edas maduraci\u00f3n)",
+        "name": "Picanha rubia gallega(45 d\u00edas maduraci\u00f3n)",
         "price": 17.5,
         "rangeprice": 3,
         "ranking": 3,
@@ -5676,7 +5676,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5693,7 +5693,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5710,7 +5710,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5727,7 +5727,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5744,7 +5744,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5761,7 +5761,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5778,7 +5778,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5795,7 +5795,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5812,7 +5812,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5829,7 +5829,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5846,7 +5846,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5863,7 +5863,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5880,7 +5880,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5897,7 +5897,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5914,7 +5914,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5931,7 +5931,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5948,7 +5948,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5965,7 +5965,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5982,7 +5982,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -5999,7 +5999,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6016,7 +6016,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6033,7 +6033,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6050,7 +6050,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6067,7 +6067,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6084,7 +6084,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6101,7 +6101,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6118,7 +6118,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6135,7 +6135,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6152,7 +6152,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6169,7 +6169,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6186,7 +6186,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6203,7 +6203,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6220,7 +6220,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6237,7 +6237,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6254,7 +6254,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6271,7 +6271,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6288,7 +6288,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6305,7 +6305,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6322,7 +6322,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6339,7 +6339,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6356,7 +6356,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6373,7 +6373,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6390,7 +6390,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6407,7 +6407,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6424,7 +6424,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6441,7 +6441,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6458,7 +6458,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6475,7 +6475,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6492,7 +6492,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6509,7 +6509,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6526,7 +6526,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6543,7 +6543,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6560,7 +6560,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6577,7 +6577,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6594,7 +6594,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6611,7 +6611,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6628,7 +6628,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6645,7 +6645,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
@@ -6662,7 +6662,7 @@ const dataDishes=[
         "restaurantName": "Roostiq",
         "restaurantsID": 19,
         "address": [
-            "47 Calle de Augusto Figueroa",
+            "Calle de Augusto Figueroa, 47",
             "28004 Madrid Madrid",
             "Espa\u00f1a"
         ],
