@@ -1,6 +1,6 @@
 import L from 'leaflet';
 // import icon from 'leaflet/dist/images/marker-icon.png';
-import icon from 'leaflet/dist/images/restaurantIcon.png';
+import icon from './media/restaurantIcon.png';
 // import iconShadow from 'leaflet/dist/images/icon-shadow.png';
 
 export const RestaurantIcon = L.icon({

@@ -1,6 +1,6 @@
 import L from 'leaflet';
 // import icon from 'leaflet/dist/images/marker-icon.png';
-import icon from 'leaflet/dist/images/user-pin.svg';
+import icon from './media//user-pin.svg';
 import iconShadow from 'leaflet/dist/images/marker-shadow.png';
 
 export const UserIcon = L.icon({
