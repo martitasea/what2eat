@@ -11,7 +11,7 @@ import {geolocated} from 'react-geolocated';
 import Path from '../Path/Path.js';
 
 const defaultLat=40.4215507;
-const defaultLong=-3.6926847999999994;
+const defaultLong=-3.692684799999999;
 
 
 
