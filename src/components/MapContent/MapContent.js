@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import {L, Routing} from 'leaflet';
-import { Map, TileLayer, Marker, Popup, Circle, Polyline} from "react-leaflet";
+// import {L, Routing} from 'leaflet';
+import { Map, TileLayer, Marker, Popup, Circle} from "react-leaflet";
 import {UserIcon} from "./userIcon.js"
 import {RestaurantIcon} from "./restaurantIcon.js"
 import './MapContent.css';
