@@ -19,7 +19,7 @@ class AOnBoarding extends Component {
     let number=this.state.number;
     if(number===1){
       e.preventDefault()
-      this.setState({text: "Dinos en qué ubicación quieres descubrir los mejores platos. What2eat te dará el ranking con las opciones más sabrosas de forma ordenada.", src:"./media/OnBoarding02.svg", number:2});}
+      this.setState({text: "Dinos en qué ubicación quieres descubrir los mejores platos. What2eat te dará el ranking con las opciones más sabrosas de forma ordenada.", src:"./media/OnBoarding02.svg", number:2});} 
     else if(number===2){
       e.preventDefault()
       this.setState({text: "Filtra por especialidad y/o excluye los platos quen incluyan Los alérgenos que toleráis tu o tus acompañantes", src:"./media/OnBoarding03.svg", number:3});}
@@ -29,12 +29,13 @@ class AOnBoarding extends Component {
     else{}
   }
 
+
   render() {
     return (
       <div>
         <main className="center">
         <p className="grey">{this.state.text}</p>
-        <img className="onboarding" src={this.state.src} alt={this.state.alt}/>
+        <img className="onboarding" src={process.env.PUBLIC_URL +this.state.src } alt={this.state.alt}/>
         </main>
         <footer className="two">
           <Link to="/categoryMenu">
