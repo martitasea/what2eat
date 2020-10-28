@@ -19,7 +19,7 @@ class AOnBoarding extends Component {
     let number=this.state.number;
     if(number===1){
       e.preventDefault()
-      this.setState({text: "Dinos en qué ubicación quieres descubrir los mejores platos. What2eat te dará el ranking con las opciones más sabrosas de forma ordenada.", src:"./media/OnBoarding02.svg", number:2});} 
+      this.setState({text: "Dinos dóndegit  quieres descubrir los mejores platos. What2eat te dará el ranking con las opciones más sabrosas de forma ordenada.", src:"./media/OnBoarding02.svg", number:2});} 
     else if(number===2){
       e.preventDefault()
       this.setState({text: "Filtra por especialidad y/o excluye los platos quen incluyan los alérgenos que toleráis tu o tus acompañantes", src:"./media/OnBoarding03.svg", number:3});}
