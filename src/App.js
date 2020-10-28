@@ -46,3 +46,6 @@ function App() {
   );
 }
 export default App;
+// Cambiiar en package.json para Heroku
+// "dev": "react-scripts start",
+// "start": "serve -s build",
