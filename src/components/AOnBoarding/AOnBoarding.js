@@ -22,7 +22,7 @@ class AOnBoarding extends Component {
       this.setState({text: "Dinos en qué ubicación quieres descubrir los mejores platos. What2eat te dará el ranking con las opciones más sabrosas de forma ordenada.", src:"./media/OnBoarding02.svg", number:2});} 
     else if(number===2){
       e.preventDefault()
-      this.setState({text: "Filtra por especialidad y/o excluye los platos quen incluyan Los alérgenos que toleráis tu o tus acompañantes", src:"./media/OnBoarding03.svg", number:3});}
+      this.setState({text: "Filtra por especialidad y/o excluye los platos quen incluyan los alérgenos que toleráis tu o tus acompañantes", src:"./media/OnBoarding03.svg", number:3});}
     else if(number===3){
       e.preventDefault()
       this.setState({text: "Valora tus experiencias con los platos que has comido y gana saldo para gastar en tus especialidades favoritas. ¡Buen provecho!", src:"./media/OnBoarding04.svg", number:4});}

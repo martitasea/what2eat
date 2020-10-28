@@ -15,6 +15,7 @@ class Path extends Component {
       vehicle: "foot",
     };
   }
+	
 
   componentDidMount(){
 	this.createLeafletElement();
@@ -35,12 +36,10 @@ class Path extends Component {
 				"styles": [{"color": "#eaac33",	"opacity": 0.6,	"weight": 5	}],
 	 			"addWaypoints": false
 			 },
-			 // to remove all markers of routing
+			//  to remove all markers of routing
 			 createMarker: function() { return null; },
 	 		"routeWhileDragging": true,
 			"addWaypoints": true,
-			// "pointMarkerStyle":{radius: 500,color: '#03f',fillColor: 'white',opacity: 1,fillOpacity: 0.7},
-			//  "geocoder": L.Control.Geocoder.nominatim(),
 	 		//Arrastrar y cambiar de posición
 	 		"draggableWaypoints": true,
 	 		//put on screen the route

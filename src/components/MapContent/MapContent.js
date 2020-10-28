@@ -19,6 +19,7 @@ class MapContent extends Component {
   constructor(props){
     super(props);
     this.state = {
+      markers:[],
       restaurantsOk: dataDishes,
       restaurantsFake: moreRestaurants,
       restMarker: 'map-pin.svg',
@@ -27,11 +28,16 @@ class MapContent extends Component {
       // pointBlat:40.422050,
       // pointBlong:-3.697562,
       renderRoute:true,
+      selected:0
       //Restaurante CARNE>Solomillo
 
     }
     this.getDishesOk = this.getDishesOk.bind(this);
   }
+
+  componentWillMount(){
+		
+	}
   
   getInfo(contxt){
     console.log("Has hecho click en el PopUp")
